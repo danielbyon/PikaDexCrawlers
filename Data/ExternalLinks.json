@@ -1,0 +1,3077 @@
+{
+  "Bulbasaur": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Bulbasaur_(Pokemon)"
+  },
+  "Ivysaur": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Ivysaur_(Pokemon)"
+  },
+  "Venusaur": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Venusaur_(Pokemon)"
+  },
+  "Charmander": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Charmander_(Pokemon)"
+  },
+  "Charmeleon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Charmeleon_(Pokemon)"
+  },
+  "Charizard": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Charizard_(Pokemon)"
+  },
+  "Squirtle": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Squirtle_(Pokemon)"
+  },
+  "Wartortle": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Wartortle_(Pokemon)"
+  },
+  "Blastoise": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Blastoise_(Pokemon)"
+  },
+  "Caterpie": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Caterpie_(Pokemon)"
+  },
+  "Metapod": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Metapod_(Pokemon)"
+  },
+  "Butterfree": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Butterfree_(Pokemon)"
+  },
+  "Weedle": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Weedle_(Pokemon)"
+  },
+  "Kakuna": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Kakuna_(Pokemon)"
+  },
+  "Beedrill": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Beedrill_(Pokemon)"
+  },
+  "Pidgey": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Pidgey_(Pokemon)"
+  },
+  "Pidgeotto": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Pidgeotto_(Pokemon)"
+  },
+  "Pidgeot": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Pidgeot_(Pokemon)"
+  },
+  "Rattata": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Rattata_(Pokemon)"
+  },
+  "Raticate": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Raticate_(Pokemon)"
+  },
+  "Spearow": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Spearow_(Pokemon)"
+  },
+  "Fearow": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Fearow_(Pokemon)"
+  },
+  "Ekans": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Ekans_(Pokemon)"
+  },
+  "Arbok": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Arbok_(Pokemon)"
+  },
+  "Pikachu": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Pikachu_(Pokemon)"
+  },
+  "Raichu": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Raichu_(Pokemon)"
+  },
+  "Sandshrew": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Sandshrew_(Pokemon)"
+  },
+  "Sandslash": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Sandslash_(Pokemon)"
+  },
+  "Nidoran\u2640": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Nidoran\u2640_(Pokemon)"
+  },
+  "Nidorina": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Nidorina_(Pokemon)"
+  },
+  "Nidoqueen": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Nidoqueen_(Pokemon)"
+  },
+  "Nidoran\u2642": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Nidoran\u2642_(Pokemon)"
+  },
+  "Nidorino": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Nidorino_(Pokemon)"
+  },
+  "Nidoking": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Nidoking_(Pokemon)"
+  },
+  "Clefairy": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Clefairy_(Pokemon)"
+  },
+  "Clefable": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Clefable_(Pokemon)"
+  },
+  "Vulpix": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Vulpix_(Pokemon)"
+  },
+  "Ninetales": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Ninetales_(Pokemon)"
+  },
+  "Jigglypuff": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Jigglypuff_(Pokemon)"
+  },
+  "Wigglytuff": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Wigglytuff_(Pokemon)"
+  },
+  "Zubat": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Zubat_(Pokemon)"
+  },
+  "Golbat": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Golbat_(Pokemon)"
+  },
+  "Oddish": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Oddish_(Pokemon)"
+  },
+  "Gloom": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Gloom_(Pokemon)"
+  },
+  "Vileplume": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Vileplume_(Pokemon)"
+  },
+  "Paras": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Paras_(Pokemon)"
+  },
+  "Parasect": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Parasect_(Pokemon)"
+  },
+  "Venonat": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Venonat_(Pokemon)"
+  },
+  "Venomoth": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Venomoth_(Pokemon)"
+  },
+  "Diglett": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Diglett_(Pokemon)"
+  },
+  "Dugtrio": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Dugtrio_(Pokemon)"
+  },
+  "Meowth": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Meowth_(Pokemon)"
+  },
+  "Persian": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Persian_(Pokemon)"
+  },
+  "Psyduck": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Psyduck_(Pokemon)"
+  },
+  "Golduck": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Golduck_(Pokemon)"
+  },
+  "Mankey": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Mankey_(Pokemon)"
+  },
+  "Primeape": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Primeape_(Pokemon)"
+  },
+  "Growlithe": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Growlithe_(Pokemon)"
+  },
+  "Arcanine": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Arcanine_(Pokemon)"
+  },
+  "Poliwag": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Poliwag_(Pokemon)"
+  },
+  "Poliwhirl": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Poliwhirl_(Pokemon)"
+  },
+  "Poliwrath": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Poliwrath_(Pokemon)"
+  },
+  "Abra": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Abra_(Pokemon)"
+  },
+  "Kadabra": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Kadabra_(Pokemon)"
+  },
+  "Alakazam": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Alakazam_(Pokemon)"
+  },
+  "Machop": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Machop_(Pokemon)"
+  },
+  "Machoke": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Machoke_(Pokemon)"
+  },
+  "Machamp": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Machamp_(Pokemon)"
+  },
+  "Bellsprout": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Bellsprout_(Pokemon)"
+  },
+  "Weepinbell": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Weepinbell_(Pokemon)"
+  },
+  "Victreebel": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Victreebel_(Pokemon)"
+  },
+  "Tentacool": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Tentacool_(Pokemon)"
+  },
+  "Tentacruel": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Tentacruel_(Pokemon)"
+  },
+  "Geodude": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Geodude_(Pokemon)"
+  },
+  "Graveler": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Graveler_(Pokemon)"
+  },
+  "Golem": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Golem_(Pokemon)"
+  },
+  "Ponyta": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Ponyta_(Pokemon)"
+  },
+  "Rapidash": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Rapidash_(Pokemon)"
+  },
+  "Slowpoke": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Slowpoke_(Pokemon)"
+  },
+  "Slowbro": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Slowbro_(Pokemon)"
+  },
+  "Magnemite": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Magnemite_(Pokemon)"
+  },
+  "Magneton": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Magneton_(Pokemon)"
+  },
+  "Farfetch'd": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Farfetch'd_(Pokemon)"
+  },
+  "Doduo": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Doduo_(Pokemon)"
+  },
+  "Dodrio": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Dodrio_(Pokemon)"
+  },
+  "Seel": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Seel_(Pokemon)"
+  },
+  "Dewgong": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Dewgong_(Pokemon)"
+  },
+  "Grimer": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Grimer_(Pokemon)"
+  },
+  "Muk": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Muk_(Pokemon)"
+  },
+  "Shellder": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Shellder_(Pokemon)"
+  },
+  "Cloyster": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Cloyster_(Pokemon)"
+  },
+  "Gastly": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Gastly_(Pokemon)"
+  },
+  "Haunter": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Haunter_(Pokemon)"
+  },
+  "Gengar": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Gengar_(Pokemon)"
+  },
+  "Onix": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Onix_(Pokemon)"
+  },
+  "Drowzee": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Drowzee_(Pokemon)"
+  },
+  "Hypno": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Hypno_(Pokemon)"
+  },
+  "Krabby": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Krabby_(Pokemon)"
+  },
+  "Kingler": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Kingler_(Pokemon)"
+  },
+  "Voltorb": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Voltorb_(Pokemon)"
+  },
+  "Electrode": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Electrode_(Pokemon)"
+  },
+  "Exeggcute": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Exeggcute_(Pokemon)"
+  },
+  "Exeggutor": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Exeggutor_(Pokemon)"
+  },
+  "Cubone": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Cubone_(Pokemon)"
+  },
+  "Marowak": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Marowak_(Pokemon)"
+  },
+  "Hitmonlee": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Hitmonlee_(Pokemon)"
+  },
+  "Hitmonchan": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Hitmonchan_(Pokemon)"
+  },
+  "Lickitung": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Lickitung_(Pokemon)"
+  },
+  "Koffing": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Koffing_(Pokemon)"
+  },
+  "Weezing": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Weezing_(Pokemon)"
+  },
+  "Rhyhorn": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Rhyhorn_(Pokemon)"
+  },
+  "Rhydon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Rhydon_(Pokemon)"
+  },
+  "Chansey": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Chansey_(Pokemon)"
+  },
+  "Tangela": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Tangela_(Pokemon)"
+  },
+  "Kangaskhan": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Kangaskhan_(Pokemon)"
+  },
+  "Horsea": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Horsea_(Pokemon)"
+  },
+  "Seadra": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Seadra_(Pokemon)"
+  },
+  "Goldeen": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Goldeen_(Pokemon)"
+  },
+  "Seaking": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Seaking_(Pokemon)"
+  },
+  "Staryu": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Staryu_(Pokemon)"
+  },
+  "Starmie": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Starmie_(Pokemon)"
+  },
+  "Mr. Mime": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Mr._Mime_(Pokemon)"
+  },
+  "Scyther": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Scyther_(Pokemon)"
+  },
+  "Jynx": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Jynx_(Pokemon)"
+  },
+  "Electabuzz": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Electabuzz_(Pokemon)"
+  },
+  "Magmar": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Magmar_(Pokemon)"
+  },
+  "Pinsir": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Pinsir_(Pokemon)"
+  },
+  "Tauros": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Tauros_(Pokemon)"
+  },
+  "Magikarp": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Magikarp_(Pokemon)"
+  },
+  "Gyarados": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Gyarados_(Pokemon)"
+  },
+  "Lapras": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Lapras_(Pokemon)"
+  },
+  "Ditto": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Ditto_(Pokemon)"
+  },
+  "Eevee": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Eevee_(Pokemon)"
+  },
+  "Vaporeon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Vaporeon_(Pokemon)"
+  },
+  "Jolteon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Jolteon_(Pokemon)"
+  },
+  "Flareon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Flareon_(Pokemon)"
+  },
+  "Porygon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Porygon_(Pokemon)"
+  },
+  "Omanyte": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Omanyte_(Pokemon)"
+  },
+  "Omastar": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Omastar_(Pokemon)"
+  },
+  "Kabuto": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Kabuto_(Pokemon)"
+  },
+  "Kabutops": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Kabutops_(Pokemon)"
+  },
+  "Aerodactyl": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Aerodactyl_(Pokemon)"
+  },
+  "Snorlax": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Snorlax_(Pokemon)"
+  },
+  "Articuno": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Articuno_(Pokemon)"
+  },
+  "Zapdos": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Zapdos_(Pokemon)"
+  },
+  "Moltres": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Moltres_(Pokemon)"
+  },
+  "Dratini": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Dratini_(Pokemon)"
+  },
+  "Dragonair": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Dragonair_(Pokemon)"
+  },
+  "Dragonite": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Dragonite_(Pokemon)"
+  },
+  "Mewtwo": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Mewtwo_(Pokemon)"
+  },
+  "Mew": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Mew_(Pokemon)"
+  },
+  "Chikorita": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Chikorita_(Pokemon)"
+  },
+  "Bayleef": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Bayleef_(Pokemon)"
+  },
+  "Meganium": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Meganium_(Pokemon)"
+  },
+  "Cyndaquil": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Cyndaquil_(Pokemon)"
+  },
+  "Quilava": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Quilava_(Pokemon)"
+  },
+  "Typhlosion": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Typhlosion_(Pokemon)"
+  },
+  "Totodile": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Totodile_(Pokemon)"
+  },
+  "Croconaw": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Croconaw_(Pokemon)"
+  },
+  "Feraligatr": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Feraligatr_(Pokemon)"
+  },
+  "Sentret": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Sentret_(Pokemon)"
+  },
+  "Furret": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Furret_(Pokemon)"
+  },
+  "Hoothoot": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Hoothoot_(Pokemon)"
+  },
+  "Noctowl": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Noctowl_(Pokemon)"
+  },
+  "Ledyba": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Ledyba_(Pokemon)"
+  },
+  "Ledian": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Ledian_(Pokemon)"
+  },
+  "Spinarak": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Spinarak_(Pokemon)"
+  },
+  "Ariados": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Ariados_(Pokemon)"
+  },
+  "Crobat": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Crobat_(Pokemon)"
+  },
+  "Chinchou": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Chinchou_(Pokemon)"
+  },
+  "Lanturn": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Lanturn_(Pokemon)"
+  },
+  "Pichu": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Pichu_(Pokemon)"
+  },
+  "Cleffa": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Cleffa_(Pokemon)"
+  },
+  "Igglybuff": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Igglybuff_(Pokemon)"
+  },
+  "Togepi": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Togepi_(Pokemon)"
+  },
+  "Togetic": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Togetic_(Pokemon)"
+  },
+  "Natu": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Natu_(Pokemon)"
+  },
+  "Xatu": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Xatu_(Pokemon)"
+  },
+  "Mareep": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Mareep_(Pokemon)"
+  },
+  "Flaaffy": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Flaaffy_(Pokemon)"
+  },
+  "Ampharos": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Ampharos_(Pokemon)"
+  },
+  "Bellossom": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Bellossom_(Pokemon)"
+  },
+  "Marill": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Marill_(Pokemon)"
+  },
+  "Azumarill": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Azumarill_(Pokemon)"
+  },
+  "Sudowoodo": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Sudowoodo_(Pokemon)"
+  },
+  "Politoed": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Politoed_(Pokemon)"
+  },
+  "Hoppip": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Hoppip_(Pokemon)"
+  },
+  "Skiploom": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Skiploom_(Pokemon)"
+  },
+  "Jumpluff": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Jumpluff_(Pokemon)"
+  },
+  "Aipom": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Aipom_(Pokemon)"
+  },
+  "Sunkern": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Sunkern_(Pokemon)"
+  },
+  "Sunflora": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Sunflora_(Pokemon)"
+  },
+  "Yanma": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Yanma_(Pokemon)"
+  },
+  "Wooper": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Wooper_(Pokemon)"
+  },
+  "Quagsire": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Quagsire_(Pokemon)"
+  },
+  "Espeon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Espeon_(Pokemon)"
+  },
+  "Umbreon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Umbreon_(Pokemon)"
+  },
+  "Murkrow": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Murkrow_(Pokemon)"
+  },
+  "Slowking": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Slowking_(Pokemon)"
+  },
+  "Misdreavus": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Misdreavus_(Pokemon)"
+  },
+  "Unown": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Unown_(Pokemon)"
+  },
+  "Wobbuffet": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Wobbuffet_(Pokemon)"
+  },
+  "Girafarig": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Girafarig_(Pokemon)"
+  },
+  "Pineco": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Pineco_(Pokemon)"
+  },
+  "Forretress": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Forretress_(Pokemon)"
+  },
+  "Dunsparce": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Dunsparce_(Pokemon)"
+  },
+  "Gligar": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Gligar_(Pokemon)"
+  },
+  "Steelix": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Steelix_(Pokemon)"
+  },
+  "Snubbull": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Snubbull_(Pokemon)"
+  },
+  "Granbull": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Granbull_(Pokemon)"
+  },
+  "Qwilfish": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Qwilfish_(Pokemon)"
+  },
+  "Scizor": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Scizor_(Pokemon)"
+  },
+  "Shuckle": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Shuckle_(Pokemon)"
+  },
+  "Heracross": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Heracross_(Pokemon)"
+  },
+  "Sneasel": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Sneasel_(Pokemon)"
+  },
+  "Teddiursa": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Teddiursa_(Pokemon)"
+  },
+  "Ursaring": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Ursaring_(Pokemon)"
+  },
+  "Slugma": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Slugma_(Pokemon)"
+  },
+  "Magcargo": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Magcargo_(Pokemon)"
+  },
+  "Swinub": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Swinub_(Pokemon)"
+  },
+  "Piloswine": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Piloswine_(Pokemon)"
+  },
+  "Corsola": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Corsola_(Pokemon)"
+  },
+  "Remoraid": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Remoraid_(Pokemon)"
+  },
+  "Octillery": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Octillery_(Pokemon)"
+  },
+  "Delibird": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Delibird_(Pokemon)"
+  },
+  "Mantine": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Mantine_(Pokemon)"
+  },
+  "Skarmory": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Skarmory_(Pokemon)"
+  },
+  "Houndour": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Houndour_(Pokemon)"
+  },
+  "Houndoom": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Houndoom_(Pokemon)"
+  },
+  "Kingdra": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Kingdra_(Pokemon)"
+  },
+  "Phanpy": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Phanpy_(Pokemon)"
+  },
+  "Donphan": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Donphan_(Pokemon)"
+  },
+  "Porygon2": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Porygon2_(Pokemon)"
+  },
+  "Stantler": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Stantler_(Pokemon)"
+  },
+  "Smeargle": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Smeargle_(Pokemon)"
+  },
+  "Tyrogue": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Tyrogue_(Pokemon)"
+  },
+  "Hitmontop": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Hitmontop_(Pokemon)"
+  },
+  "Smoochum": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Smoochum_(Pokemon)"
+  },
+  "Elekid": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Elekid_(Pokemon)"
+  },
+  "Magby": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Magby_(Pokemon)"
+  },
+  "Miltank": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Miltank_(Pokemon)"
+  },
+  "Blissey": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Blissey_(Pokemon)"
+  },
+  "Raikou": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Raikou_(Pokemon)"
+  },
+  "Entei": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Entei_(Pokemon)"
+  },
+  "Suicune": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Suicune_(Pokemon)"
+  },
+  "Larvitar": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Larvitar_(Pokemon)"
+  },
+  "Pupitar": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Pupitar_(Pokemon)"
+  },
+  "Tyranitar": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Tyranitar_(Pokemon)"
+  },
+  "Lugia": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Lugia_(Pokemon)"
+  },
+  "Ho-Oh": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Ho-Oh_(Pokemon)"
+  },
+  "Celebi": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Celebi_(Pokemon)"
+  },
+  "Treecko": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Treecko_(Pokemon)"
+  },
+  "Grovyle": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Grovyle_(Pokemon)"
+  },
+  "Sceptile": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Sceptile_(Pokemon)"
+  },
+  "Torchic": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Torchic_(Pokemon)"
+  },
+  "Combusken": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Combusken_(Pokemon)"
+  },
+  "Blaziken": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Blaziken_(Pokemon)"
+  },
+  "Mudkip": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Mudkip_(Pokemon)"
+  },
+  "Marshtomp": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Marshtomp_(Pokemon)"
+  },
+  "Swampert": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Swampert_(Pokemon)"
+  },
+  "Poochyena": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Poochyena_(Pokemon)"
+  },
+  "Mightyena": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Mightyena_(Pokemon)"
+  },
+  "Zigzagoon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Zigzagoon_(Pokemon)"
+  },
+  "Linoone": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Linoone_(Pokemon)"
+  },
+  "Wurmple": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Wurmple_(Pokemon)"
+  },
+  "Silcoon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Silcoon_(Pokemon)"
+  },
+  "Beautifly": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Beautifly_(Pokemon)"
+  },
+  "Cascoon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Cascoon_(Pokemon)"
+  },
+  "Dustox": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Dustox_(Pokemon)"
+  },
+  "Lotad": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Lotad_(Pokemon)"
+  },
+  "Lombre": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Lombre_(Pokemon)"
+  },
+  "Ludicolo": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Ludicolo_(Pokemon)"
+  },
+  "Seedot": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Seedot_(Pokemon)"
+  },
+  "Nuzleaf": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Nuzleaf_(Pokemon)"
+  },
+  "Shiftry": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Shiftry_(Pokemon)"
+  },
+  "Taillow": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Taillow_(Pokemon)"
+  },
+  "Swellow": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Swellow_(Pokemon)"
+  },
+  "Wingull": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Wingull_(Pokemon)"
+  },
+  "Pelipper": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Pelipper_(Pokemon)"
+  },
+  "Ralts": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Ralts_(Pokemon)"
+  },
+  "Kirlia": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Kirlia_(Pokemon)"
+  },
+  "Gardevoir": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Gardevoir_(Pokemon)"
+  },
+  "Surskit": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Surskit_(Pokemon)"
+  },
+  "Masquerain": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Masquerain_(Pokemon)"
+  },
+  "Shroomish": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Shroomish_(Pokemon)"
+  },
+  "Breloom": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Breloom_(Pokemon)"
+  },
+  "Slakoth": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Slakoth_(Pokemon)"
+  },
+  "Vigoroth": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Vigoroth_(Pokemon)"
+  },
+  "Slaking": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Slaking_(Pokemon)"
+  },
+  "Nincada": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Nincada_(Pokemon)"
+  },
+  "Ninjask": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Ninjask_(Pokemon)"
+  },
+  "Shedinja": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Shedinja_(Pokemon)"
+  },
+  "Whismur": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Whismur_(Pokemon)"
+  },
+  "Loudred": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Loudred_(Pokemon)"
+  },
+  "Exploud": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Exploud_(Pokemon)"
+  },
+  "Makuhita": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Makuhita_(Pokemon)"
+  },
+  "Hariyama": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Hariyama_(Pokemon)"
+  },
+  "Azurill": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Azurill_(Pokemon)"
+  },
+  "Nosepass": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Nosepass_(Pokemon)"
+  },
+  "Skitty": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Skitty_(Pokemon)"
+  },
+  "Delcatty": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Delcatty_(Pokemon)"
+  },
+  "Sableye": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Sableye_(Pokemon)"
+  },
+  "Mawile": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Mawile_(Pokemon)"
+  },
+  "Aron": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Aron_(Pokemon)"
+  },
+  "Lairon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Lairon_(Pokemon)"
+  },
+  "Aggron": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Aggron_(Pokemon)"
+  },
+  "Meditite": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Meditite_(Pokemon)"
+  },
+  "Medicham": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Medicham_(Pokemon)"
+  },
+  "Electrike": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Electrike_(Pokemon)"
+  },
+  "Manectric": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Manectric_(Pokemon)"
+  },
+  "Plusle": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Plusle_(Pokemon)"
+  },
+  "Minun": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Minun_(Pokemon)"
+  },
+  "Volbeat": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Volbeat_(Pokemon)"
+  },
+  "Illumise": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Illumise_(Pokemon)"
+  },
+  "Roselia": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Roselia_(Pokemon)"
+  },
+  "Gulpin": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Gulpin_(Pokemon)"
+  },
+  "Swalot": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Swalot_(Pokemon)"
+  },
+  "Carvanha": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Carvanha_(Pokemon)"
+  },
+  "Sharpedo": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Sharpedo_(Pokemon)"
+  },
+  "Wailmer": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Wailmer_(Pokemon)"
+  },
+  "Wailord": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Wailord_(Pokemon)"
+  },
+  "Numel": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Numel_(Pokemon)"
+  },
+  "Camerupt": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Camerupt_(Pokemon)"
+  },
+  "Torkoal": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Torkoal_(Pokemon)"
+  },
+  "Spoink": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Spoink_(Pokemon)"
+  },
+  "Grumpig": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Grumpig_(Pokemon)"
+  },
+  "Spinda": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Spinda_(Pokemon)"
+  },
+  "Trapinch": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Trapinch_(Pokemon)"
+  },
+  "Vibrava": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Vibrava_(Pokemon)"
+  },
+  "Flygon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Flygon_(Pokemon)"
+  },
+  "Cacnea": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Cacnea_(Pokemon)"
+  },
+  "Cacturne": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Cacturne_(Pokemon)"
+  },
+  "Swablu": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Swablu_(Pokemon)"
+  },
+  "Altaria": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Altaria_(Pokemon)"
+  },
+  "Zangoose": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Zangoose_(Pokemon)"
+  },
+  "Seviper": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Seviper_(Pokemon)"
+  },
+  "Lunatone": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Lunatone_(Pokemon)"
+  },
+  "Solrock": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Solrock_(Pokemon)"
+  },
+  "Barboach": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Barboach_(Pokemon)"
+  },
+  "Whiscash": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Whiscash_(Pokemon)"
+  },
+  "Corphish": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Corphish_(Pokemon)"
+  },
+  "Crawdaunt": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Crawdaunt_(Pokemon)"
+  },
+  "Baltoy": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Baltoy_(Pokemon)"
+  },
+  "Claydol": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Claydol_(Pokemon)"
+  },
+  "Lileep": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Lileep_(Pokemon)"
+  },
+  "Cradily": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Cradily_(Pokemon)"
+  },
+  "Anorith": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Anorith_(Pokemon)"
+  },
+  "Armaldo": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Armaldo_(Pokemon)"
+  },
+  "Feebas": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Feebas_(Pokemon)"
+  },
+  "Milotic": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Milotic_(Pokemon)"
+  },
+  "Castform": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Castform_(Pokemon)"
+  },
+  "Kecleon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Kecleon_(Pokemon)"
+  },
+  "Shuppet": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Shuppet_(Pokemon)"
+  },
+  "Banette": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Banette_(Pokemon)"
+  },
+  "Duskull": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Duskull_(Pokemon)"
+  },
+  "Dusclops": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Dusclops_(Pokemon)"
+  },
+  "Tropius": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Tropius_(Pokemon)"
+  },
+  "Chimecho": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Chimecho_(Pokemon)"
+  },
+  "Absol": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Absol_(Pokemon)"
+  },
+  "Wynaut": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Wynaut_(Pokemon)"
+  },
+  "Snorunt": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Snorunt_(Pokemon)"
+  },
+  "Glalie": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Glalie_(Pokemon)"
+  },
+  "Spheal": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Spheal_(Pokemon)"
+  },
+  "Sealeo": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Sealeo_(Pokemon)"
+  },
+  "Walrein": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Walrein_(Pokemon)"
+  },
+  "Clamperl": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Clamperl_(Pokemon)"
+  },
+  "Huntail": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Huntail_(Pokemon)"
+  },
+  "Gorebyss": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Gorebyss_(Pokemon)"
+  },
+  "Relicanth": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Relicanth_(Pokemon)"
+  },
+  "Luvdisc": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Luvdisc_(Pokemon)"
+  },
+  "Bagon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Bagon_(Pokemon)"
+  },
+  "Shelgon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Shelgon_(Pokemon)"
+  },
+  "Salamence": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Salamence_(Pokemon)"
+  },
+  "Beldum": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Beldum_(Pokemon)"
+  },
+  "Metang": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Metang_(Pokemon)"
+  },
+  "Metagross": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Metagross_(Pokemon)"
+  },
+  "Regirock": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Regirock_(Pokemon)"
+  },
+  "Regice": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Regice_(Pokemon)"
+  },
+  "Registeel": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Registeel_(Pokemon)"
+  },
+  "Latias": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Latias_(Pokemon)"
+  },
+  "Latios": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Latios_(Pokemon)"
+  },
+  "Kyogre": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Kyogre_(Pokemon)"
+  },
+  "Groudon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Groudon_(Pokemon)"
+  },
+  "Rayquaza": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Rayquaza_(Pokemon)"
+  },
+  "Jirachi": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Jirachi_(Pokemon)"
+  },
+  "Deoxys": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Deoxys_(Pokemon)"
+  },
+  "Turtwig": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Turtwig_(Pokemon)"
+  },
+  "Grotle": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Grotle_(Pokemon)"
+  },
+  "Torterra": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Torterra_(Pokemon)"
+  },
+  "Chimchar": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Chimchar_(Pokemon)"
+  },
+  "Monferno": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Monferno_(Pokemon)"
+  },
+  "Infernape": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Infernape_(Pokemon)"
+  },
+  "Piplup": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Piplup_(Pokemon)"
+  },
+  "Prinplup": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Prinplup_(Pokemon)"
+  },
+  "Empoleon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Empoleon_(Pokemon)"
+  },
+  "Starly": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Starly_(Pokemon)"
+  },
+  "Staravia": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Staravia_(Pokemon)"
+  },
+  "Staraptor": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Staraptor_(Pokemon)"
+  },
+  "Bidoof": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Bidoof_(Pokemon)"
+  },
+  "Bibarel": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Bibarel_(Pokemon)"
+  },
+  "Kricketot": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Kricketot_(Pokemon)"
+  },
+  "Kricketune": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Kricketune_(Pokemon)"
+  },
+  "Shinx": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Shinx_(Pokemon)"
+  },
+  "Luxio": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Luxio_(Pokemon)"
+  },
+  "Luxray": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Luxray_(Pokemon)"
+  },
+  "Budew": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Budew_(Pokemon)"
+  },
+  "Roserade": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Roserade_(Pokemon)"
+  },
+  "Cranidos": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Cranidos_(Pokemon)"
+  },
+  "Rampardos": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Rampardos_(Pokemon)"
+  },
+  "Shieldon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Shieldon_(Pokemon)"
+  },
+  "Bastiodon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Bastiodon_(Pokemon)"
+  },
+  "Burmy": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Burmy_(Pokemon)"
+  },
+  "Wormadam": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Wormadam_(Pokemon)"
+  },
+  "Mothim": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Mothim_(Pokemon)"
+  },
+  "Combee": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Combee_(Pokemon)"
+  },
+  "Vespiquen": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Vespiquen_(Pokemon)"
+  },
+  "Pachirisu": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Pachirisu_(Pokemon)"
+  },
+  "Buizel": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Buizel_(Pokemon)"
+  },
+  "Floatzel": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Floatzel_(Pokemon)"
+  },
+  "Cherubi": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Cherubi_(Pokemon)"
+  },
+  "Cherrim": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Cherrim_(Pokemon)"
+  },
+  "Shellos": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Shellos_(Pokemon)"
+  },
+  "Gastrodon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Gastrodon_(Pokemon)"
+  },
+  "Ambipom": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Ambipom_(Pokemon)"
+  },
+  "Drifloon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Drifloon_(Pokemon)"
+  },
+  "Drifblim": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Drifblim_(Pokemon)"
+  },
+  "Buneary": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Buneary_(Pokemon)"
+  },
+  "Lopunny": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Lopunny_(Pokemon)"
+  },
+  "Mismagius": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Mismagius_(Pokemon)"
+  },
+  "Honchkrow": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Honchkrow_(Pokemon)"
+  },
+  "Glameow": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Glameow_(Pokemon)"
+  },
+  "Purugly": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Purugly_(Pokemon)"
+  },
+  "Chingling": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Chingling_(Pokemon)"
+  },
+  "Stunky": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Stunky_(Pokemon)"
+  },
+  "Skuntank": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Skuntank_(Pokemon)"
+  },
+  "Bronzor": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Bronzor_(Pokemon)"
+  },
+  "Bronzong": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Bronzong_(Pokemon)"
+  },
+  "Bonsly": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Bonsly_(Pokemon)"
+  },
+  "Mime Jr.": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Mime_Jr_(Pokemon)"
+  },
+  "Happiny": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Happiny_(Pokemon)"
+  },
+  "Chatot": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Chatot_(Pokemon)"
+  },
+  "Spiritomb": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Spiritomb_(Pokemon)"
+  },
+  "Gible": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Gible_(Pokemon)"
+  },
+  "Gabite": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Gabite_(Pokemon)"
+  },
+  "Garchomp": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Garchomp_(Pokemon)"
+  },
+  "Munchlax": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Munchlax_(Pokemon)"
+  },
+  "Riolu": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Riolu_(Pokemon)"
+  },
+  "Lucario": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Lucario_(Pokemon)"
+  },
+  "Hippopotas": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Hippopotas_(Pokemon)"
+  },
+  "Hippowdon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Hippowdon_(Pokemon)"
+  },
+  "Skorupi": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Skorupi_(Pokemon)"
+  },
+  "Drapion": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Drapion_(Pokemon)"
+  },
+  "Croagunk": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Croagunk_(Pokemon)"
+  },
+  "Toxicroak": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Toxicroak_(Pokemon)"
+  },
+  "Carnivine": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Carnivine_(Pokemon)"
+  },
+  "Finneon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Finneon_(Pokemon)"
+  },
+  "Lumineon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Lumineon_(Pokemon)"
+  },
+  "Mantyke": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Mantyke_(Pokemon)"
+  },
+  "Snover": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Snover_(Pokemon)"
+  },
+  "Abomasnow": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Abomasnow_(Pokemon)"
+  },
+  "Weavile": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Weavile_(Pokemon)"
+  },
+  "Magnezone": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Magnezone_(Pokemon)"
+  },
+  "Lickilicky": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Lickilicky_(Pokemon)"
+  },
+  "Rhyperior": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Rhyperior_(Pokemon)"
+  },
+  "Tangrowth": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Tangrowth_(Pokemon)"
+  },
+  "Electivire": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Electivire_(Pokemon)"
+  },
+  "Magmortar": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Magmortar_(Pokemon)"
+  },
+  "Togekiss": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Togekiss_(Pokemon)"
+  },
+  "Yanmega": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Yanmega_(Pokemon)"
+  },
+  "Leafeon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Leafeon_(Pokemon)"
+  },
+  "Glaceon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Glaceon_(Pokemon)"
+  },
+  "Gliscor": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Gliscor_(Pokemon)"
+  },
+  "Mamoswine": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Mamoswine_(Pokemon)"
+  },
+  "Porygon-Z": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Porygon-Z_(Pokemon)"
+  },
+  "Gallade": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Gallade_(Pokemon)"
+  },
+  "Probopass": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Probopass_(Pokemon)"
+  },
+  "Dusknoir": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Dusknoir_(Pokemon)"
+  },
+  "Froslass": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Froslass_(Pokemon)"
+  },
+  "Rotom": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Rotom_(Pokemon)"
+  },
+  "Uxie": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Uxie_(Pokemon)"
+  },
+  "Mesprit": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Mesprit_(Pokemon)"
+  },
+  "Azelf": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Azelf_(Pokemon)"
+  },
+  "Dialga": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Dialga_(Pokemon)"
+  },
+  "Palkia": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Palkia_(Pokemon)"
+  },
+  "Heatran": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Heatran_(Pokemon)"
+  },
+  "Regigigas": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Regigigas_(Pokemon)"
+  },
+  "Giratina": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Giratina_(Pokemon)"
+  },
+  "Cresselia": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Cresselia_(Pokemon)"
+  },
+  "Phione": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Phione_(Pokemon)"
+  },
+  "Manaphy": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Manaphy_(Pokemon)"
+  },
+  "Darkrai": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Darkrai_(Pokemon)"
+  },
+  "Shaymin": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Shaymin_(Pokemon)"
+  },
+  "Arceus": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Arceus_(Pokemon)"
+  },
+  "Victini": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Victini_(Pokemon)"
+  },
+  "Snivy": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Snivy_(Pokemon)"
+  },
+  "Servine": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Servine_(Pokemon)"
+  },
+  "Serperior": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Serperior_(Pokemon)"
+  },
+  "Tepig": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Tepig_(Pokemon)"
+  },
+  "Pignite": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Pignite_(Pokemon)"
+  },
+  "Emboar": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Emboar_(Pokemon)"
+  },
+  "Oshawott": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Oshawott_(Pokemon)"
+  },
+  "Dewott": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Dewott_(Pokemon)"
+  },
+  "Samurott": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Samurott_(Pokemon)"
+  },
+  "Patrat": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Patrat_(Pokemon)"
+  },
+  "Watchog": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Watchog_(Pokemon)"
+  },
+  "Lillipup": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Lillipup_(Pokemon)"
+  },
+  "Herdier": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Herdier_(Pokemon)"
+  },
+  "Stoutland": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Stoutland_(Pokemon)"
+  },
+  "Purrloin": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Purrloin_(Pokemon)"
+  },
+  "Liepard": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Liepard_(Pokemon)"
+  },
+  "Pansage": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Pansage_(Pokemon)"
+  },
+  "Simisage": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Simisage_(Pokemon)"
+  },
+  "Pansear": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Pansear_(Pokemon)"
+  },
+  "Simisear": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Simisear_(Pokemon)"
+  },
+  "Panpour": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Panpour_(Pokemon)"
+  },
+  "Simipour": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Simipour_(Pokemon)"
+  },
+  "Munna": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Munna_(Pokemon)"
+  },
+  "Musharna": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Musharna_(Pokemon)"
+  },
+  "Pidove": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Pidove_(Pokemon)"
+  },
+  "Tranquill": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Tranquill_(Pokemon)"
+  },
+  "Unfezant": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Unfezant_(Pokemon)"
+  },
+  "Blitzle": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Blitzle_(Pokemon)"
+  },
+  "Zebstrika": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Zebstrika_(Pokemon)"
+  },
+  "Roggenrola": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Roggenrola_(Pokemon)"
+  },
+  "Boldore": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Boldore_(Pokemon)"
+  },
+  "Gigalith": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Gigalith_(Pokemon)"
+  },
+  "Woobat": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Woobat_(Pokemon)"
+  },
+  "Swoobat": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Swoobat_(Pokemon)"
+  },
+  "Drilbur": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Drilbur_(Pokemon)"
+  },
+  "Excadrill": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Excadrill_(Pokemon)"
+  },
+  "Audino": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Audino_(Pokemon)"
+  },
+  "Timburr": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Timburr_(Pokemon)"
+  },
+  "Gurdurr": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Gurdurr_(Pokemon)"
+  },
+  "Conkeldurr": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Conkeldurr_(Pokemon)"
+  },
+  "Tympole": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Tympole_(Pokemon)"
+  },
+  "Palpitoad": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Palpitoad_(Pokemon)"
+  },
+  "Seismitoad": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Seismitoad_(Pokemon)"
+  },
+  "Throh": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Throh_(Pokemon)"
+  },
+  "Sawk": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Sawk_(Pokemon)"
+  },
+  "Sewaddle": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Sewaddle_(Pokemon)"
+  },
+  "Swadloon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Swadloon_(Pokemon)"
+  },
+  "Leavanny": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Leavanny_(Pokemon)"
+  },
+  "Venipede": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Venipede_(Pokemon)"
+  },
+  "Whirlipede": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Whirlipede_(Pokemon)"
+  },
+  "Scolipede": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Scolipede_(Pokemon)"
+  },
+  "Cottonee": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Cottonee_(Pokemon)"
+  },
+  "Whimsicott": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Whimsicott_(Pokemon)"
+  },
+  "Petilil": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Petilil_(Pokemon)"
+  },
+  "Lilligant": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Lilligant_(Pokemon)"
+  },
+  "Basculin": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Basculin_(Pokemon)"
+  },
+  "Sandile": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Sandile_(Pokemon)"
+  },
+  "Krokorok": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Krokorok_(Pokemon)"
+  },
+  "Krookodile": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Krookodile_(Pokemon)"
+  },
+  "Darumaka": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Darumaka_(Pokemon)"
+  },
+  "Darmanitan": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Darmanitan_(Pokemon)"
+  },
+  "Maractus": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Maractus_(Pokemon)"
+  },
+  "Dwebble": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Dwebble_(Pokemon)"
+  },
+  "Crustle": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Crustle_(Pokemon)"
+  },
+  "Scraggy": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Scraggy_(Pokemon)"
+  },
+  "Scrafty": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Scrafty_(Pokemon)"
+  },
+  "Sigilyph": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Sigilyph_(Pokemon)"
+  },
+  "Yamask": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Yamask_(Pokemon)"
+  },
+  "Cofagrigus": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Cofagrigus_(Pokemon)"
+  },
+  "Tirtouga": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Tirtouga_(Pokemon)"
+  },
+  "Carracosta": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Carracosta_(Pokemon)"
+  },
+  "Archen": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Archen_(Pokemon)"
+  },
+  "Archeops": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Archeops_(Pokemon)"
+  },
+  "Trubbish": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Trubbish_(Pokemon)"
+  },
+  "Garbodor": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Garbodor_(Pokemon)"
+  },
+  "Zorua": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Zorua_(Pokemon)"
+  },
+  "Zoroark": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Zoroark_(Pokemon)"
+  },
+  "Minccino": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Minccino_(Pokemon)"
+  },
+  "Cinccino": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Cinccino_(Pokemon)"
+  },
+  "Gothita": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Gothita_(Pokemon)"
+  },
+  "Gothorita": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Gothorita_(Pokemon)"
+  },
+  "Gothitelle": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Gothitelle_(Pokemon)"
+  },
+  "Solosis": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Solosis_(Pokemon)"
+  },
+  "Duosion": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Duosion_(Pokemon)"
+  },
+  "Reuniclus": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Reuniclus_(Pokemon)"
+  },
+  "Ducklett": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Ducklett_(Pokemon)"
+  },
+  "Swanna": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Swanna_(Pokemon)"
+  },
+  "Vanillite": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Vanillite_(Pokemon)"
+  },
+  "Vanillish": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Vanillish_(Pokemon)"
+  },
+  "Vanilluxe": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Vanilluxe_(Pokemon)"
+  },
+  "Deerling": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Deerling_(Pokemon)"
+  },
+  "Sawsbuck": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Sawsbuck_(Pokemon)"
+  },
+  "Emolga": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Emolga_(Pokemon)"
+  },
+  "Karrablast": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Karrablast_(Pokemon)"
+  },
+  "Escavalier": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Escavalier_(Pokemon)"
+  },
+  "Foongus": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Foongus_(Pokemon)"
+  },
+  "Amoonguss": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Amoonguss_(Pokemon)"
+  },
+  "Frillish": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Frillish_(Pokemon)"
+  },
+  "Jellicent": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Jellicent_(Pokemon)"
+  },
+  "Alomomola": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Alomomola_(Pokemon)"
+  },
+  "Joltik": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Joltik_(Pokemon)"
+  },
+  "Galvantula": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Galvantula_(Pokemon)"
+  },
+  "Ferroseed": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Ferroseed_(Pokemon)"
+  },
+  "Ferrothorn": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Ferrothorn_(Pokemon)"
+  },
+  "Klink": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Klink_(Pokemon)"
+  },
+  "Klang": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Klang_(Pokemon)"
+  },
+  "Klinklang": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Klinklang_(Pokemon)"
+  },
+  "Tynamo": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Tynamo_(Pokemon)"
+  },
+  "Eelektrik": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Eelektrik_(Pokemon)"
+  },
+  "Eelektross": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Eelektross_(Pokemon)"
+  },
+  "Elgyem": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Elgyem_(Pokemon)"
+  },
+  "Beheeyem": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Beheeyem_(Pokemon)"
+  },
+  "Litwick": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Litwick_(Pokemon)"
+  },
+  "Lampent": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Lampent_(Pokemon)"
+  },
+  "Chandelure": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Chandelure_(Pokemon)"
+  },
+  "Axew": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Axew_(Pokemon)"
+  },
+  "Fraxure": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Fraxure_(Pokemon)"
+  },
+  "Haxorus": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Haxorus_(Pokemon)"
+  },
+  "Cubchoo": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Cubchoo_(Pokemon)"
+  },
+  "Beartic": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Beartic_(Pokemon)"
+  },
+  "Cryogonal": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Cryogonal_(Pokemon)"
+  },
+  "Shelmet": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Shelmet_(Pokemon)"
+  },
+  "Accelgor": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Accelgor_(Pokemon)"
+  },
+  "Stunfisk": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Stunfisk_(Pokemon)"
+  },
+  "Mienfoo": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Mienfoo_(Pokemon)"
+  },
+  "Mienshao": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Mienshao_(Pokemon)"
+  },
+  "Druddigon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Druddigon_(Pokemon)"
+  },
+  "Golett": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Golett_(Pokemon)"
+  },
+  "Golurk": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Golurk_(Pokemon)"
+  },
+  "Pawniard": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Pawniard_(Pokemon)"
+  },
+  "Bisharp": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Bisharp_(Pokemon)"
+  },
+  "Bouffalant": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Bouffalant_(Pokemon)"
+  },
+  "Rufflet": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Rufflet_(Pokemon)"
+  },
+  "Braviary": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Braviary_(Pokemon)"
+  },
+  "Vullaby": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Vullaby_(Pokemon)"
+  },
+  "Mandibuzz": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Mandibuzz_(Pokemon)"
+  },
+  "Heatmor": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Heatmor_(Pokemon)"
+  },
+  "Durant": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Durant_(Pokemon)"
+  },
+  "Deino": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Deino_(Pokemon)"
+  },
+  "Zweilous": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Zweilous_(Pokemon)"
+  },
+  "Hydreigon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Hydreigon_(Pokemon)"
+  },
+  "Larvesta": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Larvesta_(Pokemon)"
+  },
+  "Volcarona": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Volcarona_(Pokemon)"
+  },
+  "Cobalion": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Cobalion_(Pokemon)"
+  },
+  "Terrakion": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Terrakion_(Pokemon)"
+  },
+  "Virizion": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Virizion_(Pokemon)"
+  },
+  "Tornadus": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Tornadus_(Pokemon)"
+  },
+  "Thundurus": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Thundurus_(Pokemon)"
+  },
+  "Reshiram": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Reshiram_(Pokemon)"
+  },
+  "Zekrom": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Zekrom_(Pokemon)"
+  },
+  "Landorus": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Landorus_(Pokemon)"
+  },
+  "Kyurem": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Kyurem_(Pokemon)"
+  },
+  "Keldeo": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Keldeo_(Pokemon)"
+  },
+  "Meloetta": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Meloetta_(Pokemon)"
+  },
+  "Genesect": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Genesect_(Pokemon)"
+  },
+  "Chespin": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Chespin_(Pokemon)"
+  },
+  "Quilladin": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Quilladin_(Pokemon)"
+  },
+  "Chesnaught": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Chesnaught_(Pokemon)"
+  },
+  "Fennekin": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Fennekin_(Pokemon)"
+  },
+  "Braixen": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Braixen_(Pokemon)"
+  },
+  "Delphox": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Delphox_(Pokemon)"
+  },
+  "Froakie": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Froakie_(Pokemon)"
+  },
+  "Frogadier": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Frogadier_(Pokemon)"
+  },
+  "Greninja": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Greninja_(Pokemon)"
+  },
+  "Bunnelby": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Bunnelby_(Pokemon)"
+  },
+  "Diggersby": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Diggersby_(Pokemon)"
+  },
+  "Fletchling": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Fletchling_(Pokemon)"
+  },
+  "Fletchinder": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Fletchinder_(Pokemon)"
+  },
+  "Talonflame": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Talonflame_(Pokemon)"
+  },
+  "Scatterbug": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Scatterbug_(Pokemon)"
+  },
+  "Spewpa": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Spewpa_(Pokemon)"
+  },
+  "Vivillon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Vivillon_(Pokemon)"
+  },
+  "Litleo": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Litleo_(Pokemon)"
+  },
+  "Pyroar": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Pyroar_(Pokemon)"
+  },
+  "Flab\u00e9b\u00e9": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Flab\u00e9b\u00e9_(Pokemon)"
+  },
+  "Floette": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Floette_(Pokemon)"
+  },
+  "Florges": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Florges_(Pokemon)"
+  },
+  "Skiddo": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Skiddo_(Pokemon)"
+  },
+  "Gogoat": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Gogoat_(Pokemon)"
+  },
+  "Pancham": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Pancham_(Pokemon)"
+  },
+  "Pangoro": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Pangoro_(Pokemon)"
+  },
+  "Furfrou": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Furfrou_(Pokemon)"
+  },
+  "Espurr": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Espurr_(Pokemon)"
+  },
+  "Meowstic": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Meowstic_(Pokemon)"
+  },
+  "Honedge": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Honedge_(Pokemon)"
+  },
+  "Doublade": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Doublade_(Pokemon)"
+  },
+  "Aegislash": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Aegislash_(Pokemon)"
+  },
+  "Spritzee": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Spritzee_(Pokemon)"
+  },
+  "Aromatisse": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Aromatisse_(Pokemon)"
+  },
+  "Swirlix": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Swirlix_(Pokemon)"
+  },
+  "Slurpuff": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Slurpuff_(Pokemon)"
+  },
+  "Inkay": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Inkay_(Pokemon)"
+  },
+  "Malamar": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Malamar_(Pokemon)"
+  },
+  "Binacle": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Binacle_(Pokemon)"
+  },
+  "Barbaracle": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Barbaracle_(Pokemon)"
+  },
+  "Skrelp": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Skrelp_(Pokemon)"
+  },
+  "Dragalge": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Dragalge_(Pokemon)"
+  },
+  "Clauncher": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Clauncher_(Pokemon)"
+  },
+  "Clawitzer": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Clawitzer_(Pokemon)"
+  },
+  "Helioptile": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Helioptile_(Pokemon)"
+  },
+  "Heliolisk": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Heliolisk_(Pokemon)"
+  },
+  "Tyrunt": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Tyrunt_(Pokemon)"
+  },
+  "Tyrantrum": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Tyrantrum_(Pokemon)"
+  },
+  "Amaura": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Amaura_(Pokemon)"
+  },
+  "Aurorus": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Aurorus_(Pokemon)"
+  },
+  "Sylveon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Sylveon_(Pokemon)"
+  },
+  "Hawlucha": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Hawlucha_(Pokemon)"
+  },
+  "Dedenne": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Dedenne_(Pokemon)"
+  },
+  "Carbink": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Carbink_(Pokemon)"
+  },
+  "Goomy": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Goomy_(Pokemon)"
+  },
+  "Sliggoo": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Sliggoo_(Pokemon)"
+  },
+  "Goodra": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Goodra_(Pokemon)"
+  },
+  "Klefki": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Klefki_(Pokemon)"
+  },
+  "Phantump": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Phantump_(Pokemon)"
+  },
+  "Trevenant": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Trevenant_(Pokemon)"
+  },
+  "Pumpkaboo": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Pumpkaboo_(Pokemon)"
+  },
+  "Gourgeist": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Gourgeist_(Pokemon)"
+  },
+  "Bergmite": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Bergmite_(Pokemon)"
+  },
+  "Avalugg": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Avalugg_(Pokemon)"
+  },
+  "Noibat": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Noibat_(Pokemon)"
+  },
+  "Noivern": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Noivern_(Pokemon)"
+  },
+  "Xerneas": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Xerneas_(Pokemon)"
+  },
+  "Yveltal": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Yveltal_(Pokemon)"
+  },
+  "Zygarde": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Zygarde_(Pokemon)"
+  },
+  "Diancie": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Diancie_(Pokemon)"
+  },
+  "Hoopa": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Hoopa_(Pokemon)"
+  },
+  "Volcanion": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Volcanion_(Pokemon)"
+  },
+  "Rowlet": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Rowlet_(Pokemon)"
+  },
+  "Dartrix": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Dartrix_(Pokemon)"
+  },
+  "Decidueye": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Decidueye_(Pokemon)"
+  },
+  "Litten": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Litten_(Pokemon)"
+  },
+  "Torracat": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Torracat_(Pokemon)"
+  },
+  "Incineroar": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Incineroar_(Pokemon)"
+  },
+  "Popplio": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Popplio_(Pokemon)"
+  },
+  "Brionne": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Brionne_(Pokemon)"
+  },
+  "Primarina": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Primarina_(Pokemon)"
+  },
+  "Pikipek": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Pikipek_(Pokemon)"
+  },
+  "Trumbeak": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Trumbeak_(Pokemon)"
+  },
+  "Toucannon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Toucannon_(Pokemon)"
+  },
+  "Yungoos": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Yungoos_(Pokemon)"
+  },
+  "Gumshoos": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Gumshoos_(Pokemon)"
+  },
+  "Grubbin": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Grubbin_(Pokemon)"
+  },
+  "Charjabug": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Charjabug_(Pokemon)"
+  },
+  "Vikavolt": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Vikavolt_(Pokemon)"
+  },
+  "Crabrawler": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Crabrawler_(Pokemon)"
+  },
+  "Crabominable": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Crabominable_(Pokemon)"
+  },
+  "Oricorio": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Oricorio_(Pokemon)"
+  },
+  "Cutiefly": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Cutiefly_(Pokemon)"
+  },
+  "Ribombee": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Ribombee_(Pokemon)"
+  },
+  "Rockruff": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Rockruff_(Pokemon)"
+  },
+  "Lycanroc": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(Pokemon)"
+  },
+  "Wishiwashi": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Wishiwashi_(Pokemon)"
+  },
+  "Mareanie": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Mareanie_(Pokemon)"
+  },
+  "Toxapex": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Toxapex_(Pokemon)"
+  },
+  "Mudbray": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Mudbray_(Pokemon)"
+  },
+  "Mudsdale": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Mudsdale_(Pokemon)"
+  },
+  "Dewpider": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Dewpider_(Pokemon)"
+  },
+  "Araquanid": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Araquanid_(Pokemon)"
+  },
+  "Fomantis": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Fomantis_(Pokemon)"
+  },
+  "Lurantis": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Lurantis_(Pokemon)"
+  },
+  "Morelull": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Morelull_(Pokemon)"
+  },
+  "Shiinotic": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Shiinotic_(Pokemon)"
+  },
+  "Salandit": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Salandit_(Pokemon)"
+  },
+  "Salazzle": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Salazzle_(Pokemon)"
+  },
+  "Stufful": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Stufful_(Pokemon)"
+  },
+  "Bewear": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Bewear_(Pokemon)"
+  },
+  "Bounsweet": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Bounsweet_(Pokemon)"
+  },
+  "Steenee": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Steenee_(Pokemon)"
+  },
+  "Tsareena": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Tsareena_(Pokemon)"
+  },
+  "Comfey": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Comfey_(Pokemon)"
+  },
+  "Oranguru": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Oranguru_(Pokemon)"
+  },
+  "Passimian": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Passimian_(Pokemon)"
+  },
+  "Wimpod": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Wimpod_(Pokemon)"
+  },
+  "Golisopod": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Golisopod_(Pokemon)"
+  },
+  "Sandygast": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Sandygast_(Pokemon)"
+  },
+  "Palossand": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Palossand_(Pokemon)"
+  },
+  "Pyukumuku": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Pyukumuku_(Pokemon)"
+  },
+  "Type: Null": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Type:_Null_(Pokemon)"
+  },
+  "Silvally": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Silvally_(Pokemon)"
+  },
+  "Minior": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Minior_(Pokemon)"
+  },
+  "Komala": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Komala_(Pokemon)"
+  },
+  "Turtonator": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Turtonator_(Pokemon)"
+  },
+  "Togedemaru": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Togedemaru_(Pokemon)"
+  },
+  "Mimikyu": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Mimikyu_(Pokemon)"
+  },
+  "Bruxish": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Bruxish_(Pokemon)"
+  },
+  "Drampa": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Drampa_(Pokemon)"
+  },
+  "Dhelmise": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Dhelmise_(Pokemon)"
+  },
+  "Jangmo-o": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Jangmo-o_(Pokemon)"
+  },
+  "Hakamo-o": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Hakamo-o_(Pokemon)"
+  },
+  "Kommo-o": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Kommo-o_(Pokemon)"
+  },
+  "Tapu Koko": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Tapu_Koko_(Pokemon)"
+  },
+  "Tapu Lele": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Tapu_Lele_(Pokemon)"
+  },
+  "Tapu Bulu": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Tapu_Bulu_(Pokemon)"
+  },
+  "Tapu Fini": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Tapu_Fini_(Pokemon)"
+  },
+  "Cosmog": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Cosmog_(Pokemon)"
+  },
+  "Cosmoem": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Cosmoem_(Pokemon)"
+  },
+  "Solgaleo": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Solgaleo_(Pokemon)"
+  },
+  "Lunala": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Lunala_(Pokemon)"
+  },
+  "Nihilego": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Nihilego_(Pokemon)"
+  },
+  "Buzzwole": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Buzzwole_(Pokemon)"
+  },
+  "Pheromosa": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Pheromosa_(Pokemon)"
+  },
+  "Xurkitree": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Xurkitree_(Pokemon)"
+  },
+  "Celesteela": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Celesteela_(Pokemon)"
+  },
+  "Kartana": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Kartana_(Pokemon)"
+  },
+  "Guzzlord": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Guzzlord_(Pokemon)"
+  },
+  "Necrozma": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Necrozma_(Pokemon)"
+  },
+  "Magearna": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Magearna_(Pokemon)"
+  },
+  "Marshadow": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Marshadow_(Pokemon)"
+  },
+  "Poipole": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Poipole_(Pokemon)"
+  },
+  "Naganadel": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Naganadel_(Pokemon)"
+  },
+  "Stakataka": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Stakataka_(Pokemon)"
+  },
+  "Blacephalon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Blacephalon_(Pokemon)"
+  },
+  "Zeraora": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Zeraora_(Pokemon)"
+  },
+  "Meltan": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Meltan_(Pokemon)"
+  },
+  "Melmetal": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Melmetal_(Pokemon)"
+  },
+  "Grookey": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Grookey_(Pokemon)"
+  },
+  "Thwackey": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Thwackey_(Pokemon)"
+  },
+  "Rillaboom": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Rillaboom_(Pokemon)"
+  },
+  "Scorbunny": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Scorbunny_(Pokemon)"
+  },
+  "Raboot": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Raboot_(Pokemon)"
+  },
+  "Cinderace": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Cinderace_(Pokemon)"
+  },
+  "Sobble": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Sobble_(Pokemon)"
+  },
+  "Drizzile": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Drizzile_(Pokemon)"
+  },
+  "Inteleon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Inteleon_(Pokemon)"
+  },
+  "Skwovet": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Skwovet_(Pokemon)"
+  },
+  "Greedent": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Greedent_(Pokemon)"
+  },
+  "Rookidee": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Rookidee_(Pokemon)"
+  },
+  "Corvisquire": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Corvisquire_(Pokemon)"
+  },
+  "Corviknight": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Corviknight_(Pokemon)"
+  },
+  "Blipbug": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Blipbug_(Pokemon)"
+  },
+  "Dottler": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Dottler_(Pokemon)"
+  },
+  "Orbeetle": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Orbeetle_(Pokemon)"
+  },
+  "Nickit": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Nickit_(Pokemon)"
+  },
+  "Thievul": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Thievul_(Pokemon)"
+  },
+  "Gossifleur": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Gossifleur_(Pokemon)"
+  },
+  "Eldegoss": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Eldegoss_(Pokemon)"
+  },
+  "Wooloo": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Wooloo_(Pokemon)"
+  },
+  "Dubwool": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Dubwool_(Pokemon)"
+  },
+  "Chewtle": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Chewtle_(Pokemon)"
+  },
+  "Drednaw": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Drednaw_(Pokemon)"
+  },
+  "Yamper": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Yamper_(Pokemon)"
+  },
+  "Boltund": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Boltund_(Pokemon)"
+  },
+  "Rolycoly": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Rolycoly_(Pokemon)"
+  },
+  "Carkol": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Carkol_(Pokemon)"
+  },
+  "Coalossal": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Coalossal_(Pokemon)"
+  },
+  "Applin": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Applin_(Pokemon)"
+  },
+  "Flapple": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Flapple_(Pokemon)"
+  },
+  "Appletun": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Appletun_(Pokemon)"
+  },
+  "Silicobra": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Silicobra_(Pokemon)"
+  },
+  "Sandaconda": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Sandaconda_(Pokemon)"
+  },
+  "Cramorant": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Cramorant_(Pokemon)"
+  },
+  "Arrokuda": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Arrokuda_(Pokemon)"
+  },
+  "Barraskewda": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Barraskewda_(Pokemon)"
+  },
+  "Toxel": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Toxel_(Pokemon)"
+  },
+  "Toxtricity": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Toxtricity_(Pokemon)"
+  },
+  "Sizzlipede": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Sizzlipede_(Pokemon)"
+  },
+  "Centiskorch": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Centiskorch_(Pokemon)"
+  },
+  "Clobbopus": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Clobbopus_(Pokemon)"
+  },
+  "Grapploct": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Grapploct_(Pokemon)"
+  },
+  "Sinistea": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Sinistea_(Pokemon)"
+  },
+  "Polteageist": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Polteageist_(Pokemon)"
+  },
+  "Hatenna": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Hatenna_(Pokemon)"
+  },
+  "Hattrem": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Hattrem_(Pokemon)"
+  },
+  "Hatterene": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Hatterene_(Pokemon)"
+  },
+  "Impidimp": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Impidimp_(Pokemon)"
+  },
+  "Morgrem": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Morgrem_(Pokemon)"
+  },
+  "Grimmsnarl": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Grimmsnarl_(Pokemon)"
+  },
+  "Obstagoon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Obstagoon_(Pokemon)"
+  },
+  "Perrserker": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Perrserker_(Pokemon)"
+  },
+  "Cursola": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Cursola_(Pokemon)"
+  },
+  "Sirfetch'd": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Sirfetch'd_(Pokemon)"
+  },
+  "Mr. Rime": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Mr._Rime_(Pokemon)"
+  },
+  "Runerigus": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Runerigus_(Pokemon)"
+  },
+  "Milcery": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Milcery_(Pokemon)"
+  },
+  "Alcremie": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Alcremie_(Pokemon)"
+  },
+  "Falinks": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Falinks_(Pokemon)"
+  },
+  "Pincurchin": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Pincurchin_(Pokemon)"
+  },
+  "Snom": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Snom_(Pokemon)"
+  },
+  "Frosmoth": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Frosmoth_(Pokemon)"
+  },
+  "Stonjourner": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Stonjourner_(Pokemon)"
+  },
+  "Eiscue": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Eiscue_(Pokemon)"
+  },
+  "Indeedee": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Indeedee_(Pokemon)"
+  },
+  "Morpeko": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Morpeko_(Pokemon)"
+  },
+  "Cufant": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Cufant_(Pokemon)"
+  },
+  "Copperajah": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Copperajah_(Pokemon)"
+  },
+  "Dracozolt": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Dracozolt_(Pokemon)"
+  },
+  "Arctozolt": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Arctozolt_(Pokemon)"
+  },
+  "Dracovish": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Dracovish_(Pokemon)"
+  },
+  "Arctovish": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Arctovish_(Pokemon)"
+  },
+  "Duraludon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Duraludon_(Pokemon)"
+  },
+  "Dreepy": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Dreepy_(Pokemon)"
+  },
+  "Drakloak": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Drakloak_(Pokemon)"
+  },
+  "Dragapult": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Dragapult_(Pokemon)"
+  },
+  "Zacian": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Zacian_(Pokemon)"
+  },
+  "Zamazenta": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Zamazenta_(Pokemon)"
+  },
+  "Eternatus": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Eternatus_(Pokemon)"
+  },
+  "Kubfu": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Kubfu_(Pokemon)"
+  },
+  "Urshifu": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Urshifu_(Pokemon)"
+  },
+  "Zarude": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Zarude_(Pokemon)"
+  },
+  "Regieleki": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Regieleki_(Pokemon)"
+  },
+  "Regidrago": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Regidrago_(Pokemon)"
+  },
+  "Glastrier": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Glastrier_(Pokemon)"
+  },
+  "Spectrier": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Spectrier_(Pokemon)"
+  },
+  "Calyrex": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Calyrex_(Pokemon)"
+  },
+  "Wyrdeer": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Wyrdeer_(Pokemon)"
+  },
+  "Kleavor": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Kleavor_(Pokemon)"
+  },
+  "Ursaluna": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Ursaluna_(Pokemon)"
+  },
+  "Basculegion": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Basculegion_(Pokemon)"
+  },
+  "Sneasler": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Sneasler_(Pokemon)"
+  },
+  "Overqwil": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Overqwil_(Pokemon)"
+  },
+  "Enamorus": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Enamorus_(Pokemon)"
+  },
+  "Sprigatito": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Sprigatito_(Pokemon)"
+  },
+  "Floragato": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Floragato_(Pokemon)"
+  },
+  "Meowscarada": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Meowscarada_(Pokemon)"
+  },
+  "Fuecoco": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Fuecoco_(Pokemon)"
+  },
+  "Crocalor": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Crocalor_(Pokemon)"
+  },
+  "Skeledirge": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Skeledirge_(Pokemon)"
+  },
+  "Quaxly": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Quaxly_(Pokemon)"
+  },
+  "Quaxwell": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Quaxwell_(Pokemon)"
+  },
+  "Quaquaval": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Quaquaval_(Pokemon)"
+  },
+  "Lechonk": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Lechonk_(Pokemon)"
+  },
+  "Oinkologne": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Oinkologne_(Pokemon)"
+  },
+  "Tarountula": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Tarountula_(Pokemon)"
+  },
+  "Spidops": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Spidops_(Pokemon)"
+  },
+  "Nymble": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Nymble_(Pokemon)"
+  },
+  "Lokix": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Lokix_(Pokemon)"
+  },
+  "Pawmi": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Pawmi_(Pokemon)"
+  },
+  "Pawmo": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Pawmo_(Pokemon)"
+  },
+  "Pawmot": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Pawmot_(Pokemon)"
+  },
+  "Tandemaus": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Tandemaus_(Pokemon)"
+  },
+  "Maushold": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Maushold_(Pokemon)"
+  },
+  "Fidough": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Fidough_(Pokemon)"
+  },
+  "Dachsbun": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Dachsbun_(Pokemon)"
+  },
+  "Smoliv": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Smoliv_(Pokemon)"
+  },
+  "Dolliv": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Dolliv_(Pokemon)"
+  },
+  "Arboliva": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Arboliva_(Pokemon)"
+  },
+  "Squawkabilly": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Squawkabilly_(Pokemon)"
+  },
+  "Nacli": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Nacli_(Pokemon)"
+  },
+  "Naclstack": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Naclstack_(Pokemon)"
+  },
+  "Garganacl": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Garganacl_(Pokemon)"
+  },
+  "Charcadet": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Charcadet_(Pokemon)"
+  },
+  "Armarouge": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Armarouge_(Pokemon)"
+  },
+  "Ceruledge": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Ceruledge_(Pokemon)"
+  },
+  "Tadbulb": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Tadbulb_(Pokemon)"
+  },
+  "Bellibolt": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Bellibolt_(Pokemon)"
+  },
+  "Wattrel": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Wattrel_(Pokemon)"
+  },
+  "Kilowattrel": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Kilowattrel_(Pokemon)"
+  },
+  "Maschiff": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Maschiff_(Pokemon)"
+  },
+  "Mabosstiff": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Mabosstiff_(Pokemon)"
+  },
+  "Shroodle": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Shroodle_(Pokemon)"
+  },
+  "Grafaiai": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Grafaiai_(Pokemon)"
+  },
+  "Bramblin": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Bramblin_(Pokemon)"
+  },
+  "Brambleghast": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Brambleghast_(Pokemon)"
+  },
+  "Toedscool": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Toedscool_(Pokemon)"
+  },
+  "Toedscruel": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Toedscruel_(Pokemon)"
+  },
+  "Klawf": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Klawf_(Pokemon)"
+  },
+  "Capsakid": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Capsakid_(Pokemon)"
+  },
+  "Scovillain": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Scovillain_(Pokemon)"
+  },
+  "Rellor": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Rellor_(Pokemon)"
+  },
+  "Rabsca": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Rabsca_(Pokemon)"
+  },
+  "Flittle": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Flittle_(Pokemon)"
+  },
+  "Espathra": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Espathra_(Pokemon)"
+  },
+  "Tinkatink": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Tinkatink_(Pokemon)"
+  },
+  "Tinkatuff": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Tinkatuff_(Pokemon)"
+  },
+  "Tinkaton": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Tinkaton_(Pokemon)"
+  },
+  "Wiglett": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Wiglett_(Pokemon)"
+  },
+  "Wugtrio": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Wugtrio_(Pokemon)"
+  },
+  "Bombirdier": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Bombirdier_(Pokemon)"
+  },
+  "Finizen": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Finizen_(Pokemon)"
+  },
+  "Palafin": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Palafin_(Pokemon)"
+  },
+  "Varoom": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Varoom_(Pokemon)"
+  },
+  "Revavroom": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Revavroom_(Pokemon)"
+  },
+  "Cyclizar": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Cyclizar_(Pokemon)"
+  },
+  "Orthworm": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Orthworm_(Pokemon)"
+  },
+  "Glimmet": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Glimmet_(Pokemon)"
+  },
+  "Glimmora": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Glimmora_(Pokemon)"
+  },
+  "Greavard": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Greavard_(Pokemon)"
+  },
+  "Houndstone": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Houndstone_(Pokemon)"
+  },
+  "Flamigo": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Flamigo_(Pokemon)"
+  },
+  "Cetoddle": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Cetoddle_(Pokemon)"
+  },
+  "Cetitan": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Cetitan_(Pokemon)"
+  },
+  "Veluza": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Veluza_(Pokemon)"
+  },
+  "Dondozo": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Dondozo_(Pokemon)"
+  },
+  "Tatsugiri": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Tatsugiri_(Pokemon)"
+  },
+  "Annihilape": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Annihilape_(Pokemon)"
+  },
+  "Clodsire": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Clodsire_(Pokemon)"
+  },
+  "Farigiraf": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Farigiraf_(Pokemon)"
+  },
+  "Dudunsparce": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Dudunsparce_(Pokemon)"
+  },
+  "Kingambit": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Kingambit_(Pokemon)"
+  },
+  "Great Tusk": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Great_Tusk_(Pokemon)"
+  },
+  "Scream Tail": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Scream_Tail_(Pokemon)"
+  },
+  "Brute Bonnet": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Brute_Bonnet_(Pokemon)"
+  },
+  "Flutter Mane": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Flutter_Mane_(Pokemon)"
+  },
+  "Slither Wing": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Slither_Wing_(Pokemon)"
+  },
+  "Sandy Shocks": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Sandy_Shocks_(Pokemon)"
+  },
+  "Iron Treads": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Iron_Treads_(Pokemon)"
+  },
+  "Iron Bundle": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Iron_Bundle_(Pokemon)"
+  },
+  "Iron Hands": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Iron_Hands_(Pokemon)"
+  },
+  "Iron Jugulis": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Iron_Jugulis_(Pokemon)"
+  },
+  "Iron Moth": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Iron_Moth_(Pokemon)"
+  },
+  "Iron Thorns": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Iron_Thorns_(Pokemon)"
+  },
+  "Frigibax": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Frigibax_(Pokemon)"
+  },
+  "Arctibax": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Arctibax_(Pokemon)"
+  },
+  "Baxcalibur": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Baxcalibur_(Pokemon)"
+  },
+  "Gimmighoul": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Gimmighoul_(Pokemon)"
+  },
+  "Gholdengo": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Gholdengo_(Pokemon)"
+  },
+  "Wo-Chien": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Wo-Chien_(Pokemon)"
+  },
+  "Chien-Pao": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Chien-Pao_(Pokemon)"
+  },
+  "Ting-Lu": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Ting-Lu_(Pokemon)"
+  },
+  "Chi-Yu": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Chi-Yu_(Pokemon)"
+  },
+  "Roaring Moon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Roaring_Moon_(Pokemon)"
+  },
+  "Iron Valiant": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Iron_Valiant_(Pokemon)"
+  },
+  "Koraidon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Koraidon_(Pokemon)"
+  },
+  "Miraidon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Miraidon_(Pokemon)"
+  },
+  "Walking Wake": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Walking_Wake_(Pokemon)"
+  },
+  "Iron Leaves": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Iron_Leaves_(Pokemon)"
+  },
+  "Dipplin": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Dipplin_(Pokemon)"
+  },
+  "Poltchageist": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Poltchageist_(Pokemon)"
+  },
+  "Sinistcha": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Sinistcha_(Pokemon)"
+  },
+  "Okidogi": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Okidogi_(Pokemon)"
+  },
+  "Munkidori": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Munkidori_(Pokemon)"
+  },
+  "Fezandipiti": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Fezandipiti_(Pokemon)"
+  },
+  "Ogerpon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Ogerpon_(Pokemon)"
+  },
+  "Archaludon": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Archaludon_(Pokemon)"
+  },
+  "Hydrapple": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Hydrapple_(Pokemon)"
+  },
+  "Gouging Fire": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Gouging_Fire_(Pokemon)"
+  },
+  "Raging Bolt": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Raging_Bolt_(Pokemon)"
+  },
+  "Iron Boulder": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Iron_Boulder_(Pokemon)"
+  },
+  "Iron Crown": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Iron_Crown_(Pokemon)"
+  },
+  "Terapagos": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Terapagos_(Pokemon)"
+  },
+  "Pecharunt": {
+    "Bulbapedia": "https://bulbapedia.bulbagarden.net/wiki/Pecharunt_(Pokemon)"
+  }
+}

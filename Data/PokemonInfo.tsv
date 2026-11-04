@@ -1,0 +1,1009 @@
+﻿number,name,xp,xp-Gen. I-III,xp-Gen. I-IV,xp-Gen. II-III,xp-Gen. II-IV,xp-Gen. III,xp-Gen. III-IV,xp-Gen. IV,xp-IV,xp-V+,species,heightMeters,weightKilograms,catchRate,catchRatePercentage,eggGroup,hatchTime,levelingRate,HP,Atk,Def,Sp.Atk,Sp.Def,Speed,color,baseFriendship,maleRatio,femaleRatio
+1,Bulbasaur,,,64Gen. I-IV,,,,,,,64V+,Seed,0.7,6.9,45,11.9,"Monster,Grass",5140-5396,Medium Slow,0,0,0,1,0,0,Green,70,87.5,12.5
+2,Ivysaur,,,141Gen. I-IV,,,,,,,142V+,Seed,1.0,13.0,45,11.9,"Monster,Grass",5140-5396,Medium Slow,0,0,0,1,1,0,Green,70,87.5,12.5
+3,Venusaur,,,208Gen. I-IV,,,,,,,236V+,Seed,2.0,100.0,45,11.9,"Monster,Grass",5140-5396,Medium Slow,0,0,0,2,1,0,Green,70,87.5,12.5
+4,Charmander,,,65Gen. I-IV,,,,,,,62V+,Lizard,0.6,8.5,45,11.9,"Monster,Dragon",5140-5396,Medium Slow,0,0,0,0,0,1,Red,70,87.5,12.5
+5,Charmeleon,,,142Gen. I-IV,,,,,,,142V+,Flame,1.1,19.0,45,11.9,"Monster,Dragon",5140-5396,Medium Slow,0,0,0,1,0,1,Red,70,87.5,12.5
+6,Charizard,,,209Gen. I-IV,,,,,,,240V+,Flame,1.7,90.5,45,11.9,"Monster,Dragon",5140-5396,Medium Slow,0,0,0,3,0,0,Red,70,87.5,12.5
+7,Squirtle,,,66Gen. I-IV,,,,,,,63V+,Tiny Turtle,0.5,9.0,45,11.9,"Monster,Water 1",5140-5396,Medium Slow,0,0,1,0,0,0,Blue,70,87.5,12.5
+8,Wartortle,,,143Gen. I-IV,,,,,,,142V+,Turtle,1.0,22.5,45,11.9,"Monster,Water 1",5140-5396,Medium Slow,0,0,1,0,1,0,Blue,70,87.5,12.5
+9,Blastoise,,,210Gen. I-IV,,,,,,,239V+,Shellfish,1.6,85.5,45,11.9,"Monster,Water 1",5140-5396,Medium Slow,0,0,0,0,3,0,Blue,70,87.5,12.5
+10,Caterpie,,,53Gen. I-IV,,,,,,,39V+,Worm,0.3,2.9,255,43.9,Bug,3855-4111,Medium Fast,1,0,0,0,0,0,Green,70,50,50
+11,Metapod,,,72Gen. I-IV,,,,,,,72V+,Cocoon,0.7,9.9,120,24.9,Bug,3855-4111,Medium Fast,0,0,2,0,0,0,Green,70,50,50
+12,Butterfree,,,160Gen. I-IV,,,,,,,178V+,Butterfly,1.1,32.0,45,11.9,Bug,3855-4111,Medium Fast,0,0,0,2,1,0,White,70,50,50
+13,Weedle,,,52Gen. I-IV,,,,,,,39V+,Hairy Bug,0.3,3.2,255,43.9,Bug,3855-4111,Medium Fast,0,0,0,0,0,1,Brown,70,50,50
+14,Kakuna,,,71Gen. I-IV,,,,,,,72V+,Cocoon,0.6,10.0,120,24.9,Bug,3855-4111,Medium Fast,0,0,2,0,0,0,Yellow,70,50,50
+15,Beedrill,,,159Gen. I-IV,,,,,,,178V+,Poison Bee,1.0,29.5,45,11.9,Bug,3855-4111,Medium Fast,0,2,0,0,1,0,Yellow,70,50,50
+16,Pidgey,,,55Gen. I-IV,,,,,,,50V+,Tiny Bird,0.3,1.8,255,43.9,Flying,3855-4111,Medium Slow,0,0,0,0,0,1,Brown,70,50,50
+17,Pidgeotto,,,113Gen. I-IV,,,,,,,122V+,Bird,1.1,30.0,120,24.9,Flying,3855-4111,Medium Slow,0,0,0,0,0,2,Brown,70,50,50
+18,Pidgeot,,,172Gen. I-IV,,,,,,,216V+,Bird,1.5,39.5,45,11.9,Flying,3855-4111,Medium Slow,0,0,0,0,0,3,Brown,70,50,50
+19,Rattata,,,57Gen. I-IV,,,,,,,51V+,Mouse,0.3,3.5,255,43.9,Field,3855-4111,Medium Fast,0,0,0,0,0,1,Purple,70,50,50
+20,Raticate,,,116Gen. I-IV,,,,,,,145V+,Mouse,0.7,18.5,127,26,Field,3855-4111,Medium Fast,0,0,0,0,0,2,Brown,70,50,50
+21,Spearow,,,58Gen. I-IV,,,,,,,52V+,Tiny Bird,0.3,2.0,255,43.9,Flying,3855-4111,Medium Fast,0,0,0,0,0,1,Brown,70,50,50
+22,Fearow,,,162Gen. I-IV,,,,,,,155V+,Beak,1.2,38.0,90,20.1,Flying,3855-4111,Medium Fast,0,0,0,0,0,2,Brown,70,50,50
+23,Ekans,,,62Gen. I-IV,,,,,,,58V+,Snake,2.0,6.9,255,43.9,"Field,Dragon",5140-5396,Medium Fast,0,1,0,0,0,0,Purple,70,50,50
+24,Arbok,,,147Gen. I-IV,,,,,,,157V+,Cobra,3.5,65.0,90,20.1,"Field,Dragon",5140-5396,Medium Fast,0,2,0,0,0,0,Purple,70,50,50
+25,Pikachu,,,82Gen. I-IV,,,,,,,112V+,Mouse,0.4,6.0,190,35.2,"Field,Fairy or No Eggs DiscoveredCosplay/Cap",2570-2826,Medium Fast,0,0,0,0,0,2,Yellow,70,50,50
+26,Raichu,,,122Gen. I-IV,,,,,,,218V+,Mouse,0.8,30.0,75,17.5,"Field,Fairy",2570-2826,Medium Fast,0,0,0,0,0,3,Yellow,70,50,50
+27,Sandshrew,,,93Gen. I-IV,,,,,,,60V+,Mouse,0.6,12.0,255,43.9,Field,5140-5396,Medium Fast,0,0,1,0,0,0,Yellow,70,50,50
+28,Sandslash,,,163Gen. I-IV,,,,,,,158V+,Mouse,1.0,29.5,90,20.1,Field,5140-5396,Medium Fast,0,0,2,0,0,0,Yellow,70,50,50
+29,Nidoran♀,,,59Gen. I-IV,,,,,,,55V+,Poison Pin,0.4,7.0,235,41.3,"Monster,Field",5140-5396,Medium Slow,1,0,0,0,0,0,Blue,70,,
+30,Nidorina,,,117Gen. I-IV,,,,,,,128V+,Poison Pin,0.8,20.0,120,24.9,No Eggs Discovered,5140-5396,Medium Slow,2,0,0,0,0,0,Blue,70,,
+31,Nidoqueen,,,194Gen. I-IV,,,,,,,227V+,Drill,1.3,60.0,45,11.9,No Eggs Discovered,5140-5396,Medium Slow,3,0,0,0,0,0,Blue,70,,
+32,Nidoran♂,,,60Gen. I-IV,,,,,,,55V+,Poison Pin,0.5,9.0,235,41.3,"Monster,Field",5140-5396,Medium Slow,0,1,0,0,0,0,Purple,70,,
+33,Nidorino,,,118Gen. I-IV,,,,,,,128V+,Poison Pin,0.9,19.5,120,24.9,"Monster,Field",5140-5396,Medium Slow,0,2,0,0,0,0,Purple,70,,
+34,Nidoking,,,195Gen. I-IV,,,,,,,227V+,Drill,1.4,62.0,45,11.9,"Monster,Field",5140-5396,Medium Slow,0,3,0,0,0,0,Purple,70,,
+35,Clefairy,,,68Gen. I-IV,,,,,,,113V+,Fairy,0.6,7.5,150,29.5,Fairy,5140-5396,Fast,2,0,0,0,0,0,Pink,140,25,75
+36,Clefable,,,129Gen. I-IV,,,,,,,217V+,Fairy,1.3,40.0,25,7.7,Fairy,2570-2826,Fast,3,0,0,0,0,0,Pink,140,25,75
+37,Vulpix,,,63Gen. I-IV,,,,,,,60V+,Fox,0.6,9.9,190,35.2,Field,5140-5396,Medium Fast,0,0,0,0,0,1,Brown,70,25,75
+38,Ninetales,,,178Gen. I-IV,,,,,,,177V+,Fox,1.1,19.9,75,17.5,Field,5140-5396,Medium Fast,0,0,0,0,1,1,Yellow,70,25,75
+39,Jigglypuff,,,76Gen. I-IV,,,,,,,95V+,Balloon,0.5,5.5,170,32.4,Fairy,2570-2826,Fast,2,0,0,0,0,0,Pink,70,25,75
+40,Wigglytuff,,,109Gen. I-IV,,,,,,,196V+,Balloon,1.0,12.0,50,12.9,Fairy,2570-2826,Fast,3,0,0,0,0,0,Pink,70,25,75
+41,Zubat,,,54Gen. I-IV,,,,,,,49V+,Bat,0.8,7.5,255,43.9,Flying,3855-4111,Medium Fast,0,0,0,0,0,1,Purple,70,50,50
+42,Golbat,,,171Gen. I-IV,,,,,,,159V+,Bat,1.6,55.0,90,20.1,Flying,3855-4111,Medium Fast,0,0,0,0,0,2,Purple,70,50,50
+43,Oddish,,,78Gen. I-IV,,,,,,,64V+,Weed,0.5,5.4,255,43.9,Grass,5140-5396,Medium Slow,0,0,0,1,0,0,Blue,70,50,50
+44,Gloom,,,132Gen. I-IV,,,,,,,138V+,Weed,0.8,8.6,120,24.9,Grass,5140-5396,Medium Slow,0,0,0,2,0,0,Blue,70,50,50
+45,Vileplume,,,184Gen. I-IV,,,,,,,221V+,Flower,1.2,18.6,45,11.9,Grass,5140-5396,Medium Slow,0,0,0,3,0,0,Red,70,50,50
+46,Paras,,,70Gen. I-IV,,,,,,,57V+,Mushroom,0.3,5.4,190,35.2,"Bug,Grass",5140-5396,Medium Fast,0,1,0,0,0,0,Red,70,50,50
+47,Parasect,,,128Gen. I-IV,,,,,,,142V+,Mushroom,1.0,29.5,75,17.5,"Bug,Grass",5140-5396,Medium Fast,0,2,1,0,0,0,Red,70,50,50
+48,Venonat,,,75Gen. I-IV,,,,,,,61V+,Insect,1.0,30.0,190,35.2,Bug,5140-5396,Medium Fast,0,0,0,0,1,0,Purple,70,50,50
+49,Venomoth,,,138Gen. I-IV,,,,,,,158V+,Poison Moth,1.5,12.5,75,17.5,Bug,5140-5396,Medium Fast,0,0,0,1,0,1,Purple,70,50,50
+50,Diglett,,,81Gen. I-IV,,,,,,,53V+,Mole,0.2,0.8,255,43.9,Field,5140-5396,Medium Fast,0,0,0,0,0,1,Brown,70,50,50
+51,Dugtrio,,,153Gen. I-IV,,,,,,,149V+,Mole,0.7,33.3,50,12.9,Field,5140-5396,Medium Fast,0,0,0,0,0,2,Brown,70,50,50
+52,Meowth,,,69Gen. I-IV,,,,,,,58V+,Scratch Cat,0.4,4.2,255,43.9,Field,5140-5396,Medium Fast,0,0,0,0,0,1,Yellow,70,50,50
+53,Persian,,,148Gen. I-IV,,,,,,,154V+,Classy Cat,1.0,32.0,90,20.1,Field,5140-5396,Medium Fast,0,0,0,0,0,2,Yellow,70,50,50
+54,Psyduck,,,80Gen. I-IV,,,,,,,64V+,Duck,0.8,19.6,190,35.2,"Water 1,Field",5140-5396,Medium Fast,0,0,0,1,0,0,Yellow,70,50,50
+55,Golduck,,,174Gen. I-IV,,,,,,,175V+,Duck,1.7,76.6,75,17.5,"Water 1,Field",5140-5396,Medium Fast,0,0,0,2,0,0,Blue,70,50,50
+56,Mankey,,,74Gen. I-IV,,,,,,,61V+,Pig Monkey,0.5,28.0,190,35.2,Field,5140-5396,Medium Fast,0,1,0,0,0,0,Brown,70,50,50
+57,Primeape,,,149Gen. I-IV,,,,,,,159V+,Pig Monkey,1.0,32.0,75,17.5,Field,5140-5396,Medium Fast,0,2,0,0,0,0,Brown,70,50,50
+58,Growlithe,,,91Gen. I-IV,,,,,,,70V+,Puppy PokémonScout,0.7,19.0,190,35.2,Field,5140-5396,Slow,0,1,0,0,0,0,Brown,70,75,25
+59,Arcanine,,,213Gen. I-IV,,,,,,,194V+,Legendary,1.9,155.0,75,17.5,Field,5140-5396,Slow,0,2,0,0,0,0,Brown,70,75,25
+60,Poliwag,,,77Gen. I-IV,,,,,,,60V+,Tadpole,0.6,12.4,255,43.9,Water 1,5140-5396,Medium Slow,0,0,0,0,0,1,Blue,70,50,50
+61,Poliwhirl,,,131Gen. I-IV,,,,,,,135V+,Tadpole,1.0,20.0,120,24.9,Water 1,5140-5396,Medium Slow,0,0,0,0,0,2,Blue,70,50,50
+62,Poliwrath,,,185Gen. I-IV,,,,,,,230V+,Tadpole,1.3,54.0,45,11.9,Water 1,5140-5396,Medium Slow,0,0,3,0,0,0,Blue,70,50,50
+63,Abra,,73Gen. I-III,,,,,,,75IV,62V+,Psi,0.9,19.5,200,36.6,Human-Like,5140-5396,Medium Slow,0,0,0,1,0,0,Brown,70,75,25
+64,Kadabra,,,145Gen. I-IV,,,,,,,140V+,Psi,1.3,56.5,100,21.7,Human-Like,5140-5396,Medium Slow,0,0,0,2,0,0,Brown,70,75,25
+65,Alakazam,,,186Gen. I-IV,,,,,,,225V+,Psi,1.5,48.0,50,12.9,Human-Like,5140-5396,Medium Slow,0,0,0,3,0,0,Brown,70,75,25
+66,Machop,,88Gen. I-III,,,,,,,75IV,61V+,Superpower,0.8,19.5,180,33.8,Human-Like,5140-5396,Medium Slow,0,1,0,0,0,0,Gray,70,75,25
+67,Machoke,,,146Gen. I-IV,,,,,,,142V+,Superpower,1.5,70.5,90,20.1,Human-Like,5140-5396,Medium Slow,0,2,0,0,0,0,Gray,70,75,25
+68,Machamp,,,193Gen. I-IV,,,,,,,227V+,Superpower,1.6,130.0,45,11.9,Human-Like,5140-5396,Medium Slow,0,3,0,0,0,0,Gray,70,75,25
+69,Bellsprout,,,84Gen. I-IV,,,,,,,60V+,Flower,0.7,4.0,255,43.9,Grass,5140-5396,Medium Slow,0,1,0,0,0,0,Green,70,50,50
+70,Weepinbell,,,151Gen. I-IV,,,,,,,137V+,Flycatcher,1.0,6.4,120,24.9,Grass,5140-5396,Medium Slow,0,2,0,0,0,0,Green,70,50,50
+71,Victreebel,,,191Gen. I-IV,,,,,,,221V+,Flycatcher,1.7,15.5,45,11.9,Grass,5140-5396,Medium Slow,0,3,0,0,0,0,Green,70,50,50
+72,Tentacool,,,105Gen. I-IV,,,,,,,67V+,Jellyfish,0.9,45.5,190,35.2,Water 3,5140-5396,Slow,0,0,0,0,1,0,Blue,70,50,50
+73,Tentacruel,,,205Gen. I-IV,,,,,,,180V+,Jellyfish,1.6,55.0,60,14.8,Water 3,5140-5396,Slow,0,0,0,0,2,0,Blue,70,50,50
+74,Geodude,,86Gen. I-III,,,,,,,73IV,60V+,Rock,0.4,20.0,255,43.9,Mineral,3855-4111,Medium Slow,0,0,1,0,0,0,Brown,70,50,50
+75,Graveler,,,134Gen. I-IV,,,,,,,137V+,Rock,1.0,105.0,120,24.9,Mineral,3855-4111,Medium Slow,0,0,2,0,0,0,Brown,70,50,50
+76,Golem,,,177Gen. I-IV,,,,,,,223V+,Megaton,1.4,300.0,45,11.9,Mineral,3855-4111,Medium Slow,0,0,3,0,0,0,Brown,70,50,50
+77,Ponyta,,,152Gen. I-IV,,,,,,,82V+,Fire Horse PokémonUnique Horn,1.0,30.0,190,35.2,Field,5140-5396,Medium Fast,0,0,0,0,0,1,Yellow,70,50,50
+78,Rapidash,,,192Gen. I-IV,,,,,,,175V+,Fire Horse PokémonUnique Horn,1.7,95.0,60,14.8,Field,5140-5396,Medium Fast,0,0,0,0,0,2,Yellow,70,50,50
+79,Slowpoke,,,99Gen. I-IV,,,,,,,63V+,Dopey,1.2,36.0,190,35.2,"Monster,Water 1",5140-5396,Medium Fast,1,0,0,0,0,0,Pink,70,50,50
+80,Slowbro,,,164Gen. I-IV,,,,,,,172V+,Hermit Crab,1.6,78.5,75,17.5,"Monster,Water 1",5140-5396,Medium Fast,0,0,2,0,0,0,Pink,70,50,50
+81,Magnemite,,,89Gen. I-IV,,,,,,,65V+,Magnet,0.3,6.0,190,35.2,Mineral,5140-5396,Medium Fast,0,0,0,1,0,0,Gray,70,,
+82,Magneton,,,161Gen. I-IV,,,,,,,163V+,Magnet,1.0,60.0,60,14.8,Mineral,5140-5396,Medium Fast,0,0,0,2,0,0,Gray,70,,
+83,Farfetch'd,,,94Gen. I-IV,,,,,,,132V+,Wild Duck,0.8,15.0,45,11.9,"Flying,Field",5140-5396,Medium Fast,0,1,0,0,0,0,Brown,70,50,50
+84,Doduo,,,96Gen. I-IV,,,,,,,62V+,Twin Bird,1.4,39.2,190,35.2,Flying,5140-5396,Medium Fast,0,1,0,0,0,0,Brown,70,50,50
+85,Dodrio,,,158Gen. I-IV,,,,,,,165V+,Triple Bird,1.8,85.2,45,11.9,Flying,5140-5396,Medium Fast,0,2,0,0,0,0,Brown,70,50,50
+86,Seel,,,100Gen. I-IV,,,,,,,65V+,Sea Lion,1.1,90.0,190,35.2,"Water 1,Field",5140-5396,Medium Fast,0,0,0,0,1,0,White,70,50,50
+87,Dewgong,,,176Gen. I-IV,,,,,,,166V+,Sea Lion,1.7,120.0,75,17.5,"Water 1,Field",5140-5396,Medium Fast,0,0,0,0,2,0,White,70,50,50
+88,Grimer,,,90Gen. I-IV,,,,,,,65V+,Sludge,0.9,30.0,190,35.2,Amorphous,5140-5396,Medium Fast,1,0,0,0,0,0,Purple,70,50,50
+89,Muk,,,157Gen. I-IV,,,,,,,175V+,Sludge,1.2,30.0,75,17.5,Amorphous,5140-5396,Medium Fast,1,1,0,0,0,0,Purple,70,50,50
+90,Shellder,,,97Gen. I-IV,,,,,,,61V+,Bivalve,0.3,4.0,190,35.2,Water 3,5140-5396,Slow,0,0,1,0,0,0,Purple,70,50,50
+91,Cloyster,,,203Gen. I-IV,,,,,,,184V+,Bivalve,1.5,132.5,60,14.8,Water 3,5140-5396,Slow,0,0,2,0,0,0,Purple,70,50,50
+92,Gastly,,,95Gen. I-IV,,,,,,,62V+,Gas,1.3,0.1,190,35.2,Amorphous,5140-5396,Medium Slow,0,0,0,1,0,0,Purple,70,50,50
+93,Haunter,,,126Gen. I-IV,,,,,,,142V+,Gas,1.6,0.1,90,20.1,Amorphous,5140-5396,Medium Slow,0,0,0,2,0,0,Purple,70,50,50
+94,Gengar,,,190Gen. I-IV,,,,,,,225V+,Shadow,1.5,40.5,45,11.9,Amorphous,5140-5396,Medium Slow,0,0,0,3,0,0,Purple,70,50,50
+95,Onix,,,108Gen. I-IV,,,,,,,77V+,Rock Snake,8.8,210.0,45,11.9,Mineral,6425-6681,Medium Fast,0,0,1,0,0,0,Gray,70,50,50
+96,Drowzee,,,102Gen. I-IV,,,,,,,66V+,Hypnosis,1.0,32.4,190,35.2,Human-Like,5140-5396,Medium Fast,0,0,0,0,1,0,Yellow,70,50,50
+97,Hypno,,,165Gen. I-IV,,,,,,,169V+,Hypnosis,1.6,75.6,75,17.5,Human-Like,5140-5396,Medium Fast,0,0,0,0,2,0,Yellow,70,50,50
+98,Krabby,,,115Gen. I-IV,,,,,,,65V+,River Crab,0.4,6.5,225,39.9,Water 3,5140-5396,Medium Fast,0,1,0,0,0,0,Red,70,50,50
+99,Kingler,,,206Gen. I-IV,,,,,,,166V+,Pincer,1.3,60.0,60,14.8,Water 3,5140-5396,Medium Fast,0,2,0,0,0,0,Red,70,50,50
+100,Voltorb,,,103Gen. I-IV,,,,,,,66V+,Ball PokémonSphere,0.5,10.4,190,35.2,Mineral,5140-5396,Medium Fast,0,0,0,0,0,1,Red,70,,
+101,Electrode,,,150Gen. I-IV,,,,,,,172V+,Ball PokémonSphere,1.2,66.6,60,14.8,Mineral,5140-5396,Medium Fast,0,0,0,0,0,2,Red,70,,
+102,Exeggcute,,,98Gen. I-IV,,,,,,,65V+,Egg,0.4,2.5,90,20.1,Grass,5140-5396,Slow,0,0,1,0,0,0,Pink,70,50,50
+103,Exeggutor,,,212Gen. I-IV,,,,,,,186V+,Coconut,2.0,120.0,45,11.9,Grass,5140-5396,Slow,0,0,0,2,0,0,Yellow,70,50,50
+104,Cubone,,,87Gen. I-IV,,,,,,,64V+,Lonely,0.4,6.5,190,35.2,Monster,5140-5396,Medium Fast,0,0,1,0,0,0,Brown,70,50,50
+105,Marowak,,,124Gen. I-IV,,,,,,,149V+,Bone Keeper,1.0,45.0,75,17.5,Monster,5140-5396,Medium Fast,0,0,2,0,0,0,Brown,70,50,50
+106,Hitmonlee,,,139Gen. I-IV,,,,,,,159V+,Kicking,1.5,49.8,45,11.9,Human-Like,6425-6681,Medium Fast,0,2,0,0,0,0,Brown,70,,
+107,Hitmonchan,,,140Gen. I-IV,,,,,,,159V+,Punching,1.4,50.2,45,11.9,Human-Like,6425-6681,Medium Fast,0,0,0,0,2,0,Brown,70,,
+108,Lickitung,,,127Gen. I-IV,,,,,,,77V+,Licking,1.2,65.5,45,11.9,Monster,5140-5396,Medium Fast,2,0,0,0,0,0,Pink,70,50,50
+109,Koffing,,,114Gen. I-IV,,,,,,,68V+,Poison Gas,0.6,1.0,190,35.2,Amorphous,5140-5396,Medium Fast,0,0,1,0,0,0,Purple,70,50,50
+110,Weezing,,,173Gen. I-IV,,,,,,,172V+,Poison Gas,1.2,9.5,60,14.8,Amorphous,5140-5396,Medium Fast,0,0,2,0,0,0,Purple,70,50,50
+111,Rhyhorn,,,135Gen. I-IV,,,,,,,69V+,Spikes,1.0,115.0,120,24.9,"Monster,Field",5140-5396,Slow,0,0,1,0,0,0,Gray,70,50,50
+112,Rhydon,,,204Gen. I-IV,,,,,,,170V+,Drill,1.9,120.0,60,14.8,"Monster,Field",5140-5396,Slow,0,2,0,0,0,0,Gray,70,50,50
+113,Chansey,,,255Gen. I-IV,,,,,,,395V+,Egg,1.1,34.6,30,8.8,Fairy,10280-10536,Fast,2,0,0,0,0,0,Pink,140,,
+114,Tangela,,,166Gen. I-IV,,,,,,,87V+,Vine,1.0,35.0,45,11.9,Grass,5140-5396,Medium Fast,0,0,1,0,0,0,Blue,70,50,50
+115,Kangaskhan,,,175Gen. I-IV,,,,,,,172V+,Parent,2.2,80.0,45,11.9,Monster,5140-5396,Medium Fast,2,0,0,0,0,0,Brown,70,,
+116,Horsea,,,83Gen. I-IV,,,,,,,59V+,Dragon,0.4,8.0,225,39.9,"Water 1,Dragon",5140-5396,Medium Fast,0,0,0,1,0,0,Blue,70,50,50
+117,Seadra,,,155Gen. I-IV,,,,,,,154V+,Dragon,1.2,25.0,75,17.5,"Water 1,Dragon",5140-5396,Medium Fast,0,0,1,1,0,0,Blue,70,50,50
+118,Goldeen,,,111Gen. I-IV,,,,,,,64V+,Goldfish,0.6,15.0,225,39.9,Water 2,5140-5396,Medium Fast,0,1,0,0,0,0,Red,70,50,50
+119,Seaking,,,170Gen. I-IV,,,,,,,158V+,Goldfish,1.3,39.0,60,14.8,Water 2,5140-5396,Medium Fast,0,2,0,0,0,0,Red,70,50,50
+120,Staryu,,,106Gen. I-IV,,,,,,,68V+,Star Shape,0.8,34.5,225,39.9,Water 3,5140-5396,Slow,0,0,0,0,0,1,Brown,70,,
+121,Starmie,,,207Gen. I-IV,,,,,,,182V+,Mysterious,1.1,80.0,60,14.8,Water 3,5140-5396,Slow,0,0,0,0,0,2,Purple,70,,
+122,Mr. Mime,,,136Gen. I-IV,,,,,,,161V+,Barrier PokémonDancing,1.3,54.5,45,11.9,Human-Like,6425-6681,Medium Fast,0,0,0,0,2,0,Pink,70,50,50
+123,Scyther,,,187Gen. I-IV,,,,,,,100V+,Mantis,1.5,56.0,45,11.9,Bug,6425-6681,Medium Fast,0,1,0,0,0,0,Green,70,50,50
+124,Jynx,,,137Gen. I-IV,,,,,,,159V+,Human Shape,1.4,40.6,45,11.9,Human-Like,6425-6681,Medium Fast,0,0,0,2,0,0,Red,70,,
+125,Electabuzz,,,156Gen. I-IV,,,,,,,172V+,Electric,1.1,30.0,45,11.9,Human-Like,6425-6681,Medium Fast,0,0,0,0,0,2,Yellow,70,75,25
+126,Magmar,,,167Gen. I-IV,,,,,,,173V+,Spitfire,1.3,44.5,45,11.9,Human-Like,6425-6681,Medium Fast,0,0,0,2,0,0,Red,70,75,25
+127,Pinsir,,,200Gen. I-IV,,,,,,,175V+,Stag Beetle,1.5,55.0,45,11.9,Bug,6425-6681,Slow,0,2,0,0,0,0,Brown,70,50,50
+128,Tauros,,,211Gen. I-IV,,,,,,,172V+,Wild Bull,1.4,88.4,45,11.9,Field,5140-5396,Slow,0,1,0,0,0,1,Brown,70,,
+129,Magikarp,,,20Gen. I-IV,,,,,,,40V+,Fish,0.9,10.0,255,43.9,"Water 2,Dragon",1285-1541,Slow,0,0,0,0,0,1,Red,70,50,50
+130,Gyarados,,,214Gen. I-IV,,,,,,,189V+,Atrocious,6.5,235.0,45,11.9,"Water 2,Dragon",1285-1541,Slow,0,2,0,0,0,0,Blue,70,50,50
+131,Lapras,,,219Gen. I-IV,,,,,,,187V+,Transport,2.5,220.0,45,11.9,"Monster,Water 1",10280-10536,Slow,2,0,0,0,0,0,Blue,70,50,50
+132,Ditto,,,61Gen. I-IV,,,,,,,101V+,Transform,0.3,4.0,35,9.9,Ditto,5140-5396,Medium Fast,1,0,0,0,0,0,Purple,70,,
+133,Eevee,,,92Gen. I-IV,,,,,,,65V+,Evolution,0.3,6.5,45,11.9,Field,8995-9251,Medium Fast,0,0,0,0,1,0,Brown,70,87.5,12.5
+134,Vaporeon,,,196Gen. I-IV,,,,,,,184V+,Bubble Jet,1.0,29.0,45,11.9,Field,8995-9251,Medium Fast,2,0,0,0,0,0,Blue,70,87.5,12.5
+135,Jolteon,,,197Gen. I-IV,,,,,,,184V+,Lightning,0.8,24.5,45,11.9,Field,8995-9251,Medium Fast,0,0,0,0,0,2,Yellow,70,87.5,12.5
+136,Flareon,,,198Gen. I-IV,,,,,,,184V+,Flame,0.9,25.0,45,11.9,Field,8995-9251,Medium Fast,0,2,0,0,0,0,Red,70,87.5,12.5
+137,Porygon,,,130Gen. I-IV,,,,,,,79V+,Virtual,0.8,36.5,45,11.9,Mineral,5140-5396,Medium Fast,0,0,0,1,0,0,Pink,70,,
+138,Omanyte,,120Gen. I-III,,,,,,,99IV,71V+,Spiral,0.4,7.5,45,11.9,"Water 1,Water 3",7710-7966,Medium Fast,0,0,1,0,0,0,Blue,70,87.5,12.5
+139,Omastar,,,199Gen. I-IV,,,,,,,173V+,Spiral,1.0,35.0,45,11.9,"Water 1,Water 3",7710-7966,Medium Fast,0,0,2,0,0,0,Blue,70,87.5,12.5
+140,Kabuto,,119Gen. I-III,,,,,,,99IV,71V+,Shellfish,0.5,11.5,45,11.9,"Water 1,Water 3",7710-7966,Medium Fast,0,0,1,0,0,0,Brown,70,87.5,12.5
+141,Kabutops,,201Gen. I-III,,,,,,,199IV,173V+,Shellfish,1.3,40.5,45,11.9,"Water 1,Water 3",7710-7966,Medium Fast,0,2,0,0,0,0,Brown,70,87.5,12.5
+142,Aerodactyl,,,202Gen. I-IV,,,,,,,180V+,Fossil,1.8,59.0,45,11.9,Flying,8995-9251,Slow,0,0,0,0,0,2,Purple,70,87.5,12.5
+143,Snorlax,,,154Gen. I-IV,,,,,,,189V+,Sleeping,2.1,460.0,25,7.7,Monster,10280-10536,Slow,2,0,0,0,0,0,Black,70,87.5,12.5
+144,Articuno,,,215Gen. I-IV,,,,,,,261V+,Freeze PokémonCruel,1.7,55.4,3,1.6,No Eggs Discovered,20560-20816,Slow,0,0,0,0,3,0,Blue,35,,
+145,Zapdos,,,216Gen. I-IV,,,,,,,261V+,Electric PokémonStrong Legs,1.6,52.6,3,1.6,No Eggs Discovered,20560-20816,Slow,0,0,0,3,0,0,Yellow,35,,
+146,Moltres,,,217Gen. I-IV,,,,,,,261V+,Flame PokémonMalevolent,2.0,60.0,3,1.6,No Eggs Discovered,20560-20816,Slow,0,0,0,3,0,0,Yellow,35,,
+147,Dratini,,,67Gen. I-IV,,,,,,,60V+,Dragon,1.8,3.3,45,11.9,"Water 1,Dragon",10280-10536,Slow,0,1,0,0,0,0,Blue,35,50,50
+148,Dragonair,,,144Gen. I-IV,,,,,,,147V+,Dragon,4.0,16.5,45,11.9,"Water 1,Dragon",10280-10536,Slow,0,2,0,0,0,0,Blue,35,50,50
+149,Dragonite,,,218Gen. I-IV,,,,,,,270V+,Dragon,2.2,210.0,45,11.9,"Water 1,Dragon",10280-10536,Slow,0,3,0,0,0,0,Brown,35,50,50
+150,Mewtwo,,,220Gen. I-IV,,,,,,,306V+,Genetic,2.0,122.0,3,1.6,No Eggs Discovered,30840-31096,Slow,0,0,0,3,0,0,Purple,0,,
+151,Mew,,,64Gen. I-IV,,,,,,,270V+,New Species,0.4,4.0,45,11.9,No Eggs Discovered,30840-31096,Medium Slow,3,0,0,0,0,0,Pink,100,,
+152,Chikorita,,,,,64Gen. II-IV,,,,,64V+,Leaf,0.9,6.4,45,11.9,"Monster,Grass",5140-5396,Medium Slow,0,0,0,0,1,0,Green,70,87.5,12.5
+153,Bayleef,,,,,141Gen. II-IV,,,,,142V+,Leaf,1.2,15.8,45,11.9,"Monster,Grass",5140-5396,Medium Slow,0,0,1,0,1,0,Green,70,87.5,12.5
+154,Meganium,,,,,208Gen. II-IV,,,,,236V+,Herb,1.8,100.5,45,11.9,"Monster,Grass",5140-5396,Medium Slow,0,0,1,0,2,0,Green,70,87.5,12.5
+155,Cyndaquil,,,,,65Gen. II-IV,,,,,62V+,Fire Mouse,0.5,7.9,45,11.9,Field,5140-5396,Medium Slow,0,0,0,0,0,1,Yellow,70,87.5,12.5
+156,Quilava,,,,,142Gen. II-IV,,,,,142V+,Volcano,0.9,19.0,45,11.9,Field,5140-5396,Medium Slow,0,0,0,1,0,1,Yellow,70,87.5,12.5
+157,Typhlosion,,,,,209Gen. II-IV,,,,,240V+,Volcano PokémonGhost Flame,1.7,79.5,45,11.9,Field,5140-5396,Medium Slow,0,0,0,3,0,0,Yellow,70,87.5,12.5
+158,Totodile,,,,,66Gen. II-IV,,,,,63V+,Big Jaw,0.6,9.5,45,11.9,"Monster,Water 1",5140-5396,Medium Slow,0,1,0,0,0,0,Blue,70,87.5,12.5
+159,Croconaw,,,,,143Gen. II-IV,,,,,142V+,Big Jaw,1.1,25.0,45,11.9,"Monster,Water 1",5140-5396,Medium Slow,0,1,1,0,0,0,Blue,70,87.5,12.5
+160,Feraligatr,,,,,210Gen. II-IV,,,,,239V+,Big Jaw,2.3,88.8,45,11.9,"Monster,Water 1",5140-5396,Medium Slow,0,2,1,0,0,0,Blue,70,87.5,12.5
+161,Sentret,,,,,57Gen. II-IV,,,,,43V+,Scout,0.8,6.0,255,43.9,Field,3855-4111,Medium Fast,0,1,0,0,0,0,Brown,70,50,50
+162,Furret,,,,,116Gen. II-IV,,,,,145V+,Long Body,1.8,32.5,90,20.1,Field,3855-4111,Medium Fast,0,0,0,0,0,2,Brown,70,50,50
+163,Hoothoot,,,,,58Gen. II-IV,,,,,52V+,Owl,0.7,21.2,255,43.9,Flying,3855-4111,Medium Fast,1,0,0,0,0,0,Brown,70,50,50
+164,Noctowl,,,,,162Gen. II-IV,,,,,158V+,Owl,1.6,40.8,90,20.1,Flying,3855-4111,Medium Fast,2,0,0,0,0,0,Brown,70,50,50
+165,Ledyba,,,,,54Gen. II-IV,,,,,53V+,Five Star,1.0,10.8,255,43.9,Bug,3855-4111,Fast,0,0,0,0,1,0,Red,70,50,50
+166,Ledian,,,,,134Gen. II-IV,,,,,137V+,Five Star,1.4,35.6,90,20.1,Bug,3855-4111,Fast,0,0,0,0,2,0,Red,70,50,50
+167,Spinarak,,,,,54Gen. II-IV,,,,,50V+,String Spit,0.5,8.5,255,43.9,Bug,3855-4111,Fast,0,1,0,0,0,0,Green,70,50,50
+168,Ariados,,,,,134Gen. II-IV,,,,,140V+,Long Leg,1.1,33.5,90,20.1,Bug,3855-4111,Fast,0,2,0,0,0,0,Red,70,50,50
+169,Crobat,,,,,204Gen. II-IV,,,,,241V+,Bat,1.8,75.0,90,20.1,Flying,3855-4111,Medium Fast,0,0,0,0,0,3,Purple,70,50,50
+170,Chinchou,,,,,90Gen. II-IV,,,,,66V+,Angler,0.5,12.0,190,35.2,Water 2,5140-5396,Slow,1,0,0,0,0,0,Blue,70,50,50
+171,Lanturn,,,,,156Gen. II-IV,,,,,161V+,Light,1.2,22.5,75,17.5,Water 2,5140-5396,Slow,2,0,0,0,0,0,Blue,70,50,50
+172,Pichu,,,,,42Gen. II-IV,,,,,41V+,Tiny Mouse,0.3,2.0,190,35.2,No Eggs Discovered,2570-2826,Medium Fast,0,0,0,0,0,1,Yellow,70,50,50
+173,Cleffa,,,,,37Gen. II-IV,,,,,44V+,Star Shape,0.3,3.0,150,29.5,No Eggs Discovered,2570-2826,Fast,0,0,0,0,1,0,Pink,140,25,75
+174,Igglybuff,,,,,39Gen. II-IV,,,,,42V+,Balloon,0.3,1.0,170,32.4,No Eggs Discovered,2570-2826,Fast,1,0,0,0,0,0,Pink,70,25,75
+175,Togepi,,,,,74Gen. II-IV,,,,,49V+,Spike Ball,0.3,1.5,190,35.2,No Eggs Discovered,2570-2826,Fast,0,0,0,0,1,0,White,70,87.5,12.5
+176,Togetic,,,,,114Gen. II-IV,,,,,142V+,Happiness,0.6,3.2,75,17.5,"Flying,Fairy",2570-2826,Fast,0,0,0,0,2,0,White,70,87.5,12.5
+177,Natu,,,,,73Gen. II-IV,,,,,64V+,Tiny Bird,0.2,2.0,190,35.2,Flying,5140-5396,Medium Fast,0,0,0,1,0,0,Green,70,50,50
+178,Xatu,,,,,171Gen. II-IV,,,,,165V+,Mystic,1.5,15.0,75,17.5,Flying,5140-5396,Medium Fast,0,0,0,1,0,1,Green,70,50,50
+179,Mareep,,,,,59Gen. II-IV,,,,,56V+,Wool,0.6,7.8,235,41.3,"Monster,Field",5140-5396,Medium Slow,0,0,0,1,0,0,White,70,50,50
+180,Flaaffy,,,,,117Gen. II-IV,,,,,128V+,Wool,0.8,13.3,120,24.9,"Monster,Field",5140-5396,Medium Slow,0,0,0,2,0,0,Pink,70,50,50
+181,Ampharos,,,,,194Gen. II-IV,,,,,230V+,Light,1.4,61.5,45,11.9,"Monster,Field",5140-5396,Medium Slow,0,0,0,3,0,0,Yellow,70,50,50
+182,Bellossom,,,,,184Gen. II-IV,,,,,221V+,Flower,0.4,5.8,45,11.9,Grass,5140-5396,Medium Slow,0,0,0,0,3,0,Green,70,50,50
+183,Marill,,,,,58Gen. II-IV,,,,,88V+,Aqua Mouse,0.4,8.5,190,35.2,"Water 1,Fairy",2570-2826,Fast,2,0,0,0,0,0,Blue,70,50,50
+184,Azumarill,,,,,153Gen. II-IV,,,,,189V+,Aqua Rabbit,0.8,28.5,75,17.5,"Water 1,Fairy",2570-2826,Fast,3,0,0,0,0,0,Blue,70,50,50
+185,Sudowoodo,,,,,135Gen. II-IV,,,,,144V+,Imitation,1.2,38.0,65,15.7,Mineral,5140-5396,Medium Fast,0,0,2,0,0,0,Brown,70,50,50
+186,Politoed,,,,,185Gen. II-IV,,,,,225V+,Frog,1.1,33.9,45,11.9,Water 1,5140-5396,Medium Slow,0,0,0,0,3,0,Green,70,50,50
+187,Hoppip,,,,,74Gen. II-IV,,,,,50V+,Cottonweed,0.4,0.5,255,43.9,"Fairy,Grass",5140-5396,Medium Slow,0,0,0,0,1,0,Pink,70,50,50
+188,Skiploom,,,,,136Gen. II-IV,,,,,119V+,Cottonweed,0.6,1.0,120,24.9,"Fairy,Grass",5140-5396,Medium Slow,0,0,0,0,0,2,Green,70,50,50
+189,Jumpluff,,,,,176Gen. II-IV,,,,,207V+,Cottonweed,0.8,3.0,45,11.9,"Fairy,Grass",5140-5396,Medium Slow,0,0,0,0,0,3,Blue,70,50,50
+190,Aipom,,,,,94Gen. II-IV,,,,,72V+,Long Tail,0.8,11.5,45,11.9,Field,5140-5396,Fast,0,0,0,0,0,1,Purple,70,50,50
+191,Sunkern,,,,,52Gen. II-IV,,,,,36V+,Seed,0.3,1.8,235,41.3,Grass,5140-5396,Medium Slow,0,0,0,1,0,0,Yellow,70,50,50
+192,Sunflora,,,,,146Gen. II-IV,,,,,149V+,Sun,0.8,8.5,120,24.9,Grass,5140-5396,Medium Slow,0,0,0,2,0,0,Yellow,70,50,50
+193,Yanma,,,,,147Gen. II-IV,,,,,78V+,Clear Wing,1.2,38.0,75,17.5,Bug,5140-5396,Medium Fast,0,0,0,0,0,1,Red,70,50,50
+194,Wooper,,,,,52Gen. II-IV,,,,,42V+,Water Fish PokémonPoison Fish,0.4,8.5,255,43.9,"Water 1,Field",5140-5396,Medium Fast,1,0,0,0,0,0,Blue,70,50,50
+195,Quagsire,,,,,137Gen. II-IV,,,,,151V+,Water Fish,1.4,75.0,90,20.1,"Water 1,Field",5140-5396,Medium Fast,2,0,0,0,0,0,Blue,70,50,50
+196,Espeon,,,,,197Gen. II-IV,,,,,184V+,Sun,0.9,26.5,45,11.9,Field,8995-9251,Medium Fast,0,0,0,2,0,0,Purple,70,87.5,12.5
+197,Umbreon,,,,,197Gen. II-IV,,,,,184V+,Moonlight,1.0,27.0,45,11.9,Field,8995-9251,Medium Fast,0,0,0,0,2,0,Black,35,87.5,12.5
+198,Murkrow,,,,,107Gen. II-IV,,,,,81V+,Darkness,0.5,2.1,30,8.8,Flying,5140-5396,Medium Slow,0,0,0,0,0,1,Black,35,50,50
+199,Slowking,,,,,164Gen. II-IV,,,,,172V+,Royal PokémonHexpert,2.0,79.5,70,16.6,"Monster,Water 1",5140-5396,Medium Fast,0,0,0,0,2,0,Pink,70,50,50
+200,Misdreavus,,,,,147Gen. II-IV,,,,,87V+,Screech,0.7,1.0,45,11.9,Amorphous,6425-6681,Fast,0,0,0,0,1,0,Gray,35,50,50
+201,Unown,,,,,61Gen. II-IV,,,,,118V+,Symbol,0.5,5.0,225,39.9,No Eggs Discovered,10280-10536,Medium Fast,0,1,0,1,0,0,Black,70,,
+202,Wobbuffet,,,,,177Gen. II-IV,,,,,142V+,Patient,1.3,28.5,45,11.9,Amorphous,5140-5396,Medium Fast,2,0,0,0,0,0,Blue,70,50,50
+203,Girafarig,,,,,149Gen. II-IV,,,,,159V+,Long Neck,1.5,41.5,60,14.8,Field,5140-5396,Medium Fast,0,0,0,2,0,0,Yellow,70,50,50
+204,Pineco,,,,,60Gen. II-IV,,,,,58V+,Bagworm,0.6,7.2,190,35.2,Bug,5140-5396,Medium Fast,0,0,1,0,0,0,Gray,70,50,50
+205,Forretress,,,,,118Gen. II-IV,,,,,163V+,Bagworm,1.2,125.8,75,17.5,Bug,5140-5396,Medium Fast,0,0,2,0,0,0,Purple,70,50,50
+206,Dunsparce,,,,75Gen. II-III,,,,,125IV,145V+,Land Snake,1.5,14.0,190,35.2,Field,5140-5396,Medium Fast,1,0,0,0,0,0,Yellow,70,50,50
+207,Gligar,,,,,108Gen. II-IV,,,,,86V+,Fly Scorpion,1.1,64.8,60,14.8,Bug,5140-5396,Medium Slow,0,0,1,0,0,0,Purple,70,50,50
+208,Steelix,,,,,196Gen. II-IV,,,,,179V+,Iron Snake,9.2,400.0,25,7.7,Mineral,6425-6681,Medium Fast,0,0,2,0,0,0,Grey,70,50,50
+209,Snubbull,,,,,63Gen. II-IV,,,,,60V+,Fairy,0.6,7.8,190,35.2,"Field,Fairy",5140-5396,Fast,0,1,0,0,0,0,Pink,70,25,75
+210,Granbull,,,,,178Gen. II-IV,,,,,158V+,Fairy,1.4,48.7,75,17.5,"Field,Fairy",5140-5396,Fast,0,2,0,0,0,0,Purple,70,25,75
+211,Qwilfish,,,,,100Gen. II-IV,,,,,88V+,Balloon,0.5,3.9,45,11.9,Water 2,5140-5396,Medium Fast,0,1,0,0,0,0,Gray,70,50,50
+212,Scizor,,,,,200Gen. II-IV,,,,,175V+,Pincer,1.8,118.0,25,7.7,Bug,6425-6681,Medium Fast,0,2,0,0,0,0,Red,70,50,50
+213,Shuckle,,,,,80Gen. II-IV,,,,,177V+,Mold,0.6,20.5,190,35.2,Bug,5140-5396,Medium Slow,0,0,1,0,1,0,Yellow,70,50,50
+214,Heracross,,,,,200Gen. II-IV,,,,,175V+,Single Horn,1.5,54.0,45,11.9,Bug,6425-6681,Slow,0,2,0,0,0,0,Blue,70,50,50
+215,Sneasel,,,,,132Gen. II-IV,,,,,86V+,Sharp Claw,0.9,28.0,60,14.8,Field,5140-5396,Medium Slow,0,0,0,0,0,1,Black,35,50,50
+216,Teddiursa,,,,,124Gen. II-IV,,,,,66V+,Little Bear,0.6,8.8,120,24.9,Field,5140-5396,Medium Fast,0,1,0,0,0,0,Brown,70,50,50
+217,Ursaring,,,,,189Gen. II-IV,,,,,175V+,Hibernator,1.8,125.8,60,14.8,Field,5140-5396,Medium Fast,0,2,0,0,0,0,Brown,70,50,50
+218,Slugma,,,,,78Gen. II-IV,,,,,50V+,Lava,0.7,35.0,190,35.2,Amorphous,5140-5396,Medium Fast,0,0,0,1,0,0,Red,70,50,50
+219,Magcargo,,,,,154Gen. II-IV,,,,,151V+,Lava,0.8,55.0,75,17.5,Amorphous,5140-5396,Medium Fast,0,0,2,0,0,0,Red,70,50,50
+220,Swinub,,,,,78Gen. II-IV,,,,,50V+,Pig,0.4,6.5,225,39.9,Field,5140-5396,Slow,0,1,0,0,0,0,Brown,70,50,50
+221,Piloswine,,,,,160Gen. II-IV,,,,,158V+,Swine,1.1,55.8,75,17.5,Field,5140-5396,Slow,1,1,0,0,0,0,Brown,70,50,50
+222,Corsola,,,,,113Gen. II-IV,,,,,144V+,Coral,0.6,5.0,60,14.8,"Water 1,Water 3",5140-5396,Fast,0,0,1,0,1,0,Pink,70,25,75
+223,Remoraid,,,,,78Gen. II-IV,,,,,60V+,Jet,0.6,12.0,190,35.2,"Water 1,Water 2",5140-5396,Medium Fast,0,0,0,1,0,0,Gray,70,50,50
+224,Octillery,,,,,164Gen. II-IV,,,,,168V+,Jet,0.9,28.5,75,17.5,"Water 1,Water 2",5140-5396,Medium Fast,0,1,0,1,0,0,Red,70,50,50
+225,Delibird,,,,,183Gen. II-IV,,,,,116V+,Delivery,0.9,16.0,45,11.9,"Water 1,Field",5140-5396,Fast,0,0,0,0,0,1,Red,70,50,50
+226,Mantine,,,,,168Gen. II-IV,,,,,170V+,Kite,2.1,220.0,25,7.7,Water 1,6425-6681,Slow,0,0,0,0,2,0,Purple,70,50,50
+227,Skarmory,,,,,168Gen. II-IV,,,,,163V+,Armor Bird,1.7,50.5,25,7.7,Flying,6425-6681,Slow,0,0,2,0,0,0,Gray,70,50,50
+228,Houndour,,,,,114Gen. II-IV,,,,,66V+,Dark,0.6,10.8,120,24.9,Field,5140-5396,Slow,0,0,0,1,0,0,Black,35,50,50
+229,Houndoom,,,,,204Gen. II-IV,,,,,175V+,Dark,1.4,35.0,45,11.9,Field,5140-5396,Slow,0,0,0,2,0,0,Black,35,50,50
+230,Kingdra,,,,,207Gen. II-IV,,,,,243V+,Dragon,1.8,152.0,45,11.9,"Water 1,Dragon",5140-5396,Medium Fast,0,1,0,1,1,0,Blue,70,50,50
+231,Phanpy,,,,,124Gen. II-IV,,,,,66V+,Long Nose,0.5,33.5,120,24.9,Field,5140-5396,Medium Fast,1,0,0,0,0,0,Blue,70,50,50
+232,Donphan,,,,,189Gen. II-IV,,,,,175V+,Armor,1.1,120.0,60,14.8,Field,5140-5396,Medium Fast,0,1,1,0,0,0,Gray,70,50,50
+233,Porygon2,,,,,180Gen. II-IV,,,,,180V+,Virtual,0.6,32.5,45,11.9,Mineral,5140-5396,Medium Fast,0,0,0,2,0,0,Red,70,,
+234,Stantler,,,,,165Gen. II-IV,,,,,163V+,Big Horn,1.4,71.2,45,11.9,Field,5140-5396,Slow,0,1,0,0,0,0,Brown,70,50,50
+235,Smeargle,,,,,106Gen. II-IV,,,,,88V+,Painter,1.2,58.0,45,11.9,Field,5140-5396,Fast,0,0,0,0,0,1,White,70,50,50
+236,Tyrogue,,,,,91Gen. II-IV,,,,,42V+,Scuffle,0.7,21.0,75,17.5,No Eggs Discovered,6425-6681,Medium Fast,0,1,0,0,0,0,Purple,70,,
+237,Hitmontop,,,,,138Gen. II-IV,,,,,159V+,Handstand,1.4,48.0,45,11.9,Human-Like,6425-6681,Medium Fast,0,0,0,0,2,0,Brown,70,,
+238,Smoochum,,,,,87Gen. II-IV,,,,,61V+,Kiss,0.4,6.0,45,11.9,No Eggs Discovered,6425-6681,Medium Fast,0,0,0,1,0,0,Pink,70,,
+239,Elekid,,,,,106Gen. II-IV,,,,,72V+,Electric,0.6,23.5,45,11.9,No Eggs Discovered,6425-6681,Medium Fast,0,0,0,0,0,1,Yellow,70,75,25
+240,Magby,,,,,117Gen. II-IV,,,,,73V+,Live Coal,0.7,21.4,45,11.9,No Eggs Discovered,6425-6681,Medium Fast,0,0,0,0,0,1,Red,70,75,25
+241,Miltank,,,,,200Gen. II-IV,,,,,172V+,Milk Cow,1.2,75.5,45,11.9,Field,5140-5396,Slow,0,0,2,0,0,0,Pink,70,,
+242,Blissey,,,,,255Gen. II-IV,,,,,608V+,Happiness,1.5,46.8,30,8.8,Fairy,10280-10536,Fast,3,0,0,0,0,0,Pink,140,,
+243,Raikou,,,,,216Gen. II-IV,,,,,261V+,Thunder,1.9,178.0,3,1.6,No Eggs Discovered,20560-20816,Slow,0,0,0,1,0,2,Yellow,35,,
+244,Entei,,,,,217Gen. II-IV,,,,,261V+,Volcano,2.1,198.0,3,1.6,No Eggs Discovered,20560-20816,Slow,1,2,0,0,0,0,Brown,35,,
+245,Suicune,,,,,215Gen. II-IV,,,,,261V+,Aurora,2.0,187.0,3,1.6,No Eggs Discovered,20560-20816,Slow,0,0,1,0,2,0,Blue,35,,
+246,Larvitar,,,,,67Gen. II-IV,,,,,60V+,Rock Skin,0.6,72.0,45,11.9,Monster,10280-10536,Slow,0,1,0,0,0,0,Green,35,50,50
+247,Pupitar,,,,,144Gen. II-IV,,,,,144V+,Hard Shell,1.2,152.0,45,11.9,Monster,10280-10536,Slow,0,2,0,0,0,0,Gray,35,50,50
+248,Tyranitar,,,,,218Gen. II-IV,,,,,270V+,Armor,2.0,202.0,45,11.9,Monster,10280-10536,Slow,0,3,0,0,0,0,Green,35,50,50
+249,Lugia,,,,,220Gen. II-IV,,,,,306V+,Diving,5.2,216.0,3,1.6,No Eggs Discovered,30840-31096,Slow,0,0,0,0,3,0,White,0,,
+250,Ho-Oh,,,,,220Gen. II-IV,,,,,306V+,Rainbow,3.8,199.0,3,1.6,No Eggs Discovered,30840-31096,Slow,0,0,0,0,3,0,Red,0,,
+251,Celebi,,,,,64Gen. II-IV,,,,,270V+,Time Travel,0.6,5.0,45,11.9,No Eggs Discovered,30840-31096,Medium Slow,3,0,0,0,0,0,Green,100,,
+252,Treecko,,,,,,,65Gen. III-IV,,,62V+,Wood Gecko,0.5,5.0,45,11.9,"Monster,Dragon",5140-5396,Medium Slow,0,0,0,0,0,1,Green,70,87.5,12.5
+253,Grovyle,,,,,,,141Gen. III-IV,,,142V+,Wood Gecko,0.9,21.6,45,11.9,"Monster,Dragon",5140-5396,Medium Slow,0,0,0,0,0,2,Green,70,87.5,12.5
+254,Sceptile,,,,,,,208Gen. III-IV,,,239V+,Forest,1.7,52.2,45,11.9,"Monster,Dragon",5140-5396,Medium Slow,0,0,0,0,0,3,Green,70,87.5,12.5
+255,Torchic,,,,,,,65Gen. III-IV,,,62V+,Chick,0.4,2.5,45,11.9,Field,5140-5396,Medium Slow,0,0,0,1,0,0,Red,70,87.5,12.5
+256,Combusken,,,,,,,142Gen. III-IV,,,142V+,Young Fowl,0.9,19.5,45,11.9,Field,5140-5396,Medium Slow,0,1,0,1,0,0,Red,70,87.5,12.5
+257,Blaziken,,,,,,,209Gen. III-IV,,,239V+,Blaze,1.9,52.0,45,11.9,Field,5140-5396,Medium Slow,0,3,0,0,0,0,Red,70,87.5,12.5
+258,Mudkip,,,,,,,65Gen. III-IV,,,62V+,Mud Fish,0.4,7.6,45,11.9,"Monster,Water 1",5140-5396,Medium Slow,0,1,0,0,0,0,Blue,70,87.5,12.5
+259,Marshtomp,,,,,,,143Gen. III-IV,,,142V+,Mud Fish,0.7,28.0,45,11.9,"Monster,Water 1",5140-5396,Medium Slow,0,2,0,0,0,0,Blue,70,87.5,12.5
+260,Swampert,,,,,,,210Gen. III-IV,,,241V+,Mud Fish,1.5,81.9,45,11.9,"Monster,Water 1",5140-5396,Medium Slow,0,3,0,0,0,0,Blue,70,87.5,12.5
+261,Poochyena,,,,,,,55Gen. III-IV,,,56V+,Bite,0.5,13.6,255,43.9,Field,3855-4111,Medium Fast,0,1,0,0,0,0,Gray,70,50,50
+262,Mightyena,,,,,,,128Gen. III-IV,,,147V+,Bite,1.0,37.0,127,26,Field,3855-4111,Medium Fast,0,2,0,0,0,0,Gray,70,50,50
+263,Zigzagoon,,,,,,,60Gen. III-IV,,,56V+,Tiny Raccoon,0.4,17.5,255,43.9,Field,3855-4111,Medium Fast,0,0,0,0,0,1,Brown,70,50,50
+264,Linoone,,,,,,,128Gen. III-IV,,,147V+,Rushing,0.5,32.5,90,20.1,Field,3855-4111,Medium Fast,0,0,0,0,0,2,White,70,50,50
+265,Wurmple,,,,,,,54Gen. III-IV,,,56V+,Worm,0.3,3.6,255,43.9,Bug,3855-4111,Medium Fast,1,0,0,0,0,0,Red,70,50,50
+266,Silcoon,,,,,,71Gen. III,,,72IV,72V+,Cocoon,0.6,10.0,120,24.9,Bug,3855-4111,Medium Fast,0,0,2,0,0,0,White,70,50,50
+267,Beautifly,,,,,,,161Gen. III-IV,,,178V+,Butterfly,1.0,28.4,45,11.9,Bug,3855-4111,Medium Fast,0,0,0,3,0,0,Yellow,70,50,50
+268,Cascoon,,,,,,,72Gen. III-IV,,,72V+,Cocoon,0.7,11.5,120,24.9,Bug,3855-4111,Medium Fast,0,0,2,0,0,0,Purple,70,50,50
+269,Dustox,,,,,,160Gen. III,,,161IV,173V+,Poison Moth,1.2,31.6,45,11.9,Bug,3855-4111,Medium Fast,0,0,0,0,3,0,Green,70,50,50
+270,Lotad,,,,,,,74Gen. III-IV,,,44V+,Water Weed,0.5,2.6,255,43.9,"Water 1,Grass",3855-4111,Medium Slow,0,0,0,0,1,0,Green,70,50,50
+271,Lombre,,,,,,,141Gen. III-IV,,,119V+,Jolly,1.2,32.5,120,24.9,"Water 1,Grass",3855-4111,Medium Slow,0,0,0,0,2,0,Green,70,50,50
+272,Ludicolo,,,,,,,181Gen. III-IV,,,216V+,Carefree,1.5,55.0,45,11.9,"Water 1,Grass",3855-4111,Medium Slow,0,0,0,0,3,0,Green,70,50,50
+273,Seedot,,,,,,,74Gen. III-IV,,,44V+,Acorn,0.5,4.0,255,43.9,"Field,Grass",3855-4111,Medium Slow,0,0,1,0,0,0,Brown,70,50,50
+274,Nuzleaf,,,,,,,141Gen. III-IV,,,119V+,Wily,1.0,28.0,120,24.9,"Field,Grass",3855-4111,Medium Slow,0,2,0,0,0,0,Brown,70,50,50
+275,Shiftry,,,,,,,181Gen. III-IV,,,216V+,Wicked,1.3,59.6,45,11.9,"Field,Grass",3855-4111,Medium Slow,0,3,0,0,0,0,Brown,70,50,50
+276,Taillow,,,,,,,59Gen. III-IV,,,54V+,Tiny Swallow,0.3,2.3,200,36.6,Flying,3855-4111,Medium Slow,0,0,0,0,0,1,Blue,70,50,50
+277,Swellow,,,,,,,162Gen. III-IV,,,159V+,Swallow,0.7,19.8,45,11.9,Flying,3855-4111,Medium Slow,0,0,0,0,0,2,Blue,70,50,50
+278,Wingull,,,,,,,64Gen. III-IV,,,54V+,Seagull,0.6,9.5,190,35.2,"Water 1,Flying",5140-5396,Medium Fast,0,0,0,0,0,1,White,70,50,50
+279,Pelipper,,,,,,,164Gen. III-IV,,,154V+,Water Bird,1.2,28.0,45,11.9,"Water 1,Flying",5140-5396,Medium Fast,0,0,2,0,0,0,Yellow,70,50,50
+280,Ralts,,,,,,,70Gen. III-IV,,,40V+,Feeling,0.4,6.6,235,41.3,"Human-LikeGen VIII,Amorphous",5140-5396,Slow,0,0,0,1,0,0,White,35,50,50
+281,Kirlia,,,,,,,140Gen. III-IV,,,97V+,Emotion,0.8,20.2,120,24.9,"Human-LikeGen VIII,Amorphous",5140-5396,Slow,0,0,0,2,0,0,White,35,50,50
+282,Gardevoir,,,,,,,208Gen. III-IV,,,233V+,Embrace,1.6,48.4,45,11.9,"Human-LikeGen VIII,Amorphous",5140-5396,Slow,0,0,0,3,0,0,White,35,50,50
+283,Surskit,,,,,,,63Gen. III-IV,,,54V+,Pond Skater,0.5,1.7,200,36.6,"Water 1,Bug",3855-4111,Medium Fast,0,0,0,0,0,1,Blue,70,50,50
+284,Masquerain,,,,,,,128Gen. III-IV,,,159V+,Eyeball,0.8,3.6,75,17.5,"Water 1,Bug",3855-4111,Medium Fast,0,0,0,1,1,0,Blue,70,50,50
+285,Shroomish,,,,,,,65Gen. III-IV,,,59V+,Mushroom,0.4,4.5,255,43.9,"Fairy,Grass",3855-4111,Fluctuating,1,0,0,0,0,0,Brown,70,50,50
+286,Breloom,,,,,,,165Gen. III-IV,,,161V+,Mushroom,1.2,39.2,90,20.1,"Fairy,Grass",3855-4111,Fluctuating,0,2,0,0,0,0,Green,70,50,50
+287,Slakoth,,,,,,,83Gen. III-IV,,,56V+,Slacker,0.8,24.0,255,43.9,Field,3855-4111,Slow,1,0,0,0,0,0,Brown,70,50,50
+288,Vigoroth,,,,,,,126Gen. III-IV,,,154V+,Wild Monkey,1.4,46.5,120,24.9,Field,3855-4111,Slow,0,0,0,0,0,2,White,70,50,50
+289,Slaking,,,,,,,210Gen. III-IV,,,252V+,Lazy,2.0,130.5,45,11.9,Field,3855-4111,Slow,3,0,0,0,0,0,Brown,70,50,50
+290,Nincada,,,,,,,65Gen. III-IV,,,53V+,Trainee,0.5,5.5,255,43.9,Bug,3855-4111,Erratic,0,0,1,0,0,0,Gray,70,50,50
+291,Ninjask,,,,,,,155Gen. III-IV,,,160V+,Ninja,0.8,12.0,120,24.9,Bug,3855-4111,Erratic,0,0,0,0,0,2,Yellow,70,50,50
+292,Shedinja,,,,,,,95Gen. III-IV,,,83V+,Shed,0.8,1.2,45,11.9,Mineral,3855-4111,Erratic,2,0,0,0,0,0,Brown,70,,
+293,Whismur,,,,,,,68Gen. III-IV,,,48V+,Whisper,0.6,16.3,190,35.2,"Monster,Field",5140-5396,Medium Slow,1,0,0,0,0,0,Pink,70,50,50
+294,Loudred,,,,,,,126Gen. III-IV,,,126V+,Big Voice,1.0,40.5,120,24.9,"Monster,Field",5140-5396,Medium Slow,2,0,0,0,0,0,Blue,70,50,50
+295,Exploud,,,,,,,184Gen. III-IV,,,221V+,Loud Noise,1.5,84.0,45,11.9,"Monster,Field",5140-5396,Medium Slow,3,0,0,0,0,0,Blue,70,50,50
+296,Makuhita,,,,,,,87Gen. III-IV,,,47V+,Guts,1.0,86.4,180,33.8,Human-Like,5140-5396,Fluctuating,1,0,0,0,0,0,Yellow,70,75,25
+297,Hariyama,,,,,,,184Gen. III-IV,,,166V+,Arm Thrust,2.3,253.8,200,36.6,Human-Like,5140-5396,Fluctuating,2,0,0,0,0,0,Brown,70,75,25
+298,Azurill,,,,,,,33Gen. III-IV,,,38V+,Polka Dot,0.2,2.0,150,29.5,No Eggs Discovered,2570-2826,Fast,1,0,0,0,0,0,Blue,70,25,75
+299,Nosepass,,,,,,,108Gen. III-IV,,,75V+,Compass,1.0,97.0,255,43.9,Mineral,5140-5396,Medium Fast,0,0,1,0,0,0,Gray,70,50,50
+300,Skitty,,,,,,,65Gen. III-IV,,,52V+,Kitten,0.6,11.0,255,43.9,"Field,Fairy",3855-4111,Fast,0,0,0,0,0,1,Pink,70,25,75
+301,Delcatty,,,,,,,138Gen. III-IV,,,140V+,Prim,1.1,32.6,60,14.8,"Field,Fairy",3855-4111,Fast,1,0,0,0,0,1,Purple,70,25,75
+302,Sableye,,,,,,,98Gen. III-IV,,,133V+,Darkness,0.5,11.0,45,11.9,Human-Like,6425-6681,Medium Slow,0,1,1,0,0,0,Purple,35,50,50
+303,Mawile,,,,,,,98Gen. III-IV,,,133V+,Deceiver,0.6,11.5,45,11.9,"Field,Fairy",5140-5396,Fast,0,1,1,0,0,0,Black,70,50,50
+304,Aron,,,,,,,96Gen. III-IV,,,66V+,Iron Armor,0.4,60.0,180,33.8,Monster,8995-9251,Slow,0,0,1,0,0,0,Gray,35,50,50
+305,Lairon,,,,,,,152Gen. III-IV,,,151V+,Iron Armor,0.9,120.0,90,20.1,Monster,8995-9251,Slow,0,0,2,0,0,0,Gray,35,50,50
+306,Aggron,,,,,,,205Gen. III-IV,,,239V+,Iron Armor,2.1,360.0,45,11.9,Monster,8995-9251,Slow,0,0,3,0,0,0,Gray,35,50,50
+307,Meditite,,,,,,,91Gen. III-IV,,,56V+,Meditate,0.6,11.2,180,33.8,Human-Like,5140-5396,Medium Fast,0,0,0,0,0,1,Blue,70,50,50
+308,Medicham,,,,,,,153Gen. III-IV,,,144V+,Meditate,1.3,31.5,90,20.1,Human-Like,5140-5396,Medium Fast,0,0,0,0,0,2,Red,70,50,50
+309,Electrike,,,,,,,104Gen. III-IV,,,59V+,Lightning,0.6,15.2,120,24.9,Field,5140-5396,Slow,0,0,0,0,0,1,Green,70,50,50
+310,Manectric,,,,,,,168Gen. III-IV,,,166V+,Discharge,1.5,40.2,45,11.9,Field,5140-5396,Slow,0,0,0,0,0,2,Yellow,70,50,50
+311,Plusle,,,,,,,120Gen. III-IV,,,142V+,Cheering,0.4,4.2,200,36.6,Fairy,5140-5396,Medium Fast,0,0,0,0,0,1,Yellow,70,50,50
+312,Minun,,,,,,,120Gen. III-IV,,,142V+,Cheering,0.4,4.2,200,36.6,Fairy,5140-5396,Medium Fast,0,0,0,0,0,1,Yellow,70,50,50
+313,Volbeat,,,,,,,146Gen. III-IV,,,151V+,Firefly,0.7,17.7,150,29.5,"Bug,Human-Like",3855-4111,Erratic,0,0,0,0,0,1,Gray,70,,
+314,Illumise,,,,,,,146Gen. III-IV,,,151V+,Firefly,0.6,17.7,150,29.5,"Bug,Human-Like",3855-4111,Fluctuating,0,0,0,0,0,1,Purple,70,,
+315,Roselia,,,,,,,152Gen. III-IV,,,140V+,Thorn,0.3,2.0,150,29.5,"Fairy,Grass",5140-5396,Medium Slow,0,0,0,2,0,0,Green,70,50,50
+316,Gulpin,,,,,,,75Gen. III-IV,,,60V+,Stomach,0.4,10.3,225,39.9,Amorphous,5140-5396,Fluctuating,1,0,0,0,0,0,Green,70,50,50
+317,Swalot,,,,,,,168Gen. III-IV,,,163V+,Poison Bag,1.7,80.0,75,17.5,Amorphous,5140-5396,Fluctuating,2,0,0,0,0,0,Purple,70,50,50
+318,Carvanha,,,,,,,88Gen. III-IV,,,61V+,Savage,0.8,20.8,225,39.9,Water 2,5140-5396,Slow,0,1,0,0,0,0,Red,35,50,50
+319,Sharpedo,,,,,,,175Gen. III-IV,,,161V+,Brutal,1.8,88.8,60,14.8,Water 2,5140-5396,Slow,0,2,0,0,0,0,Blue,35,50,50
+320,Wailmer,,,,,,,137Gen. III-IV,,,80V+,Ball Whale,2.0,130.0,125,25.7,"Field,Water 2",10280-10536,Fluctuating,1,0,0,0,0,0,Blue,70,50,50
+321,Wailord,,,,,,,206Gen. III-IV,,,175V+,Float Whale,14.5,398.0,60,14.8,"Field,Water 2",10280-10536,Fluctuating,2,0,0,0,0,0,Blue,70,50,50
+322,Numel,,,,,,,88Gen. III-IV,,,61V+,Numb,0.7,24.0,255,43.9,Field,5140-5396,Medium Fast,0,0,0,1,0,0,Yellow,70,50,50
+323,Camerupt,,,,,,,175Gen. III-IV,,,161V+,Eruption,1.9,220.0,150,29.5,Field,5140-5396,Medium Fast,0,1,0,1,0,0,Red,70,50,50
+324,Torkoal,,,,,,,161Gen. III-IV,,,165V+,Coal,0.5,80.4,90,20.1,Field,5140-5396,Medium Fast,0,0,2,0,0,0,Brown,70,50,50
+325,Spoink,,,,,,,89Gen. III-IV,,,66V+,Bounce,0.7,30.6,255,43.9,Field,5140-5396,Fast,0,0,0,0,1,0,Black,70,50,50
+326,Grumpig,,,,,,,164Gen. III-IV,,,165V+,Manipulate,0.9,71.5,60,14.8,Field,5140-5396,Fast,0,0,0,0,2,0,Purple,70,50,50
+327,Spinda,,,,,,,85Gen. III-IV,,,126V+,Spot Panda,1.1,5.0,255,43.9,"Field,Human-Like",3855-4111,Fast,0,0,0,1,0,0,Brown,70,50,50
+328,Trapinch,,,,,,,73Gen. III-IV,,,58V+,Ant Pit,0.7,15.0,255,43.9,"Bug,DragonGen VIII",5140-5396,Medium Slow,0,1,0,0,0,0,Brown,70,50,50
+329,Vibrava,,,,,,,126Gen. III-IV,,,119V+,Vibration,1.1,15.3,120,24.9,"Bug,DragonGen VIII",5140-5396,Medium Slow,0,1,0,0,0,1,Green,70,50,50
+330,Flygon,,,,,,,197Gen. III-IV,,,234V+,Mystic,2.0,82.0,45,11.9,"Bug,DragonGen VIII",5140-5396,Medium Slow,0,1,0,0,0,2,Green,70,50,50
+331,Cacnea,,,,,,,97Gen. III-IV,,,67V+,Cactus,0.4,51.3,190,35.2,"Grass,Human-Like",5140-5396,Medium Slow,0,0,0,1,0,0,Green,35,50,50
+332,Cacturne,,,,,,,177Gen. III-IV,,,166V+,Scarecrow,1.3,77.4,60,14.8,"Grass,Human-Like",5140-5396,Medium Slow,0,1,0,1,0,0,Green,35,50,50
+333,Swablu,,,,,,,74Gen. III-IV,,,62V+,Cotton Bird,0.4,1.2,255,43.9,"Flying,Dragon",5140-5396,Erratic,0,0,0,0,1,0,Blue,70,50,50
+334,Altaria,,,,,,,188Gen. III-IV,,,172V+,Humming,1.1,20.6,45,11.9,"Flying,Dragon",5140-5396,Erratic,0,0,0,0,2,0,Blue,70,50,50
+335,Zangoose,,,,,,,165Gen. III-IV,,,160V+,Cat Ferret,1.3,40.3,90,20.1,Field,5140-5396,Erratic,0,2,0,0,0,0,White,70,50,50
+336,Seviper,,,,,,,165Gen. III-IV,,,160V+,Fang Snake,2.7,52.5,90,20.1,"Field,Dragon",5140-5396,Fluctuating,0,1,0,1,0,0,Black,70,50,50
+337,Lunatone,,,,,,,150Gen. III-IV,,,161V+,Meteorite,1.0,168.0,45,11.9,Mineral,6425-6681,Fast,0,0,0,2,0,0,Yellow,70,,
+338,Solrock,,,,,,,150Gen. III-IV,,,161V+,Meteorite,1.2,154.0,45,11.9,Mineral,6425-6681,Fast,0,2,0,0,0,0,Red,70,,
+339,Barboach,,,,,,,92Gen. III-IV,,,58V+,Whiskers,0.4,1.9,190,35.2,Water 2,5140-5396,Medium Fast,1,0,0,0,0,0,Gray,70,50,50
+340,Whiscash,,,,,,,158Gen. III-IV,,,164V+,Whiskers,0.9,23.6,75,17.5,Water 2,5140-5396,Medium Fast,2,0,0,0,0,0,Blue,70,50,50
+341,Corphish,,,,,,,111Gen. III-IV,,,62V+,Ruffian,0.6,11.5,205,37.2,"Water 1,Water 3",3855-4111,Fluctuating,0,1,0,0,0,0,Red,70,50,50
+342,Crawdaunt,,,,,,,161Gen. III-IV,,,164V+,Rogue,1.1,32.8,155,30.2,"Water 1,Water 3",3855-4111,Fluctuating,0,2,0,0,0,0,Red,70,50,50
+343,Baltoy,,,,,,,58Gen. III-IV,,,60V+,Clay Doll,0.5,21.5,255,43.9,Mineral,5140-5396,Medium Fast,0,0,0,0,1,0,Brown,70,,
+344,Claydol,,,,,,,189Gen. III-IV,,,175V+,Clay Doll,1.5,108.0,90,20.1,Mineral,5140-5396,Medium Fast,0,0,0,0,2,0,Black,70,,
+345,Lileep,,,,,,121Gen. III,,,99IV,71V+,Sea Lily,1.0,23.8,45,11.9,Water 3,7710-7966,Erratic,0,0,0,0,1,0,Purple,70,87.5,12.5
+346,Cradily,,,,,,201Gen. III,,,199IV,173V+,Barnacle,1.5,60.4,45,11.9,Water 3,7710-7966,Erratic,0,0,0,0,2,0,Green,70,87.5,12.5
+347,Anorith,,,,,,119Gen. III,,,99IV,71V+,Old Shrimp,0.7,12.5,45,11.9,Water 3,7710-7966,Erratic,0,1,0,0,0,0,Gray,70,87.5,12.5
+348,Armaldo,,,,,,200Gen. III,,,199IV,173V+,Plate,1.5,68.2,45,11.9,Water 3,7710-7966,Erratic,0,2,0,0,0,0,Gray,70,87.5,12.5
+349,Feebas,,,,,,,61Gen. III-IV,,,40V+,Fish,0.6,7.4,255,43.9,"Water 1,Dragon",5140-5396,Erratic,0,0,0,0,0,1,Brown,70,50,50
+350,Milotic,,,,,,,213Gen. III-IV,,,189V+,Tender,6.2,162.0,60,14.8,"Water 1,Dragon",5140-5396,Erratic,0,0,0,0,2,0,Pink,70,50,50
+351,Castform,,,,,,,145Gen. III-IV,,,147V+,Weather,0.3,0.8,45,11.9,"Fairy,Amorphous",6425-6681,Medium Fast,1,0,0,0,0,0,Gray,70,50,50
+352,Kecleon,,,,,,,132Gen. III-IV,,,154V+,Color Swap,1.0,22.0,200,36.6,Field,5140-5396,Medium Slow,0,0,0,0,1,0,Green,70,50,50
+353,Shuppet,,,,,,,97Gen. III-IV,,,59V+,Puppet,0.6,2.3,225,39.9,Amorphous,6425-6681,Fast,0,1,0,0,0,0,Black,35,50,50
+354,Banette,,,,,,,179Gen. III-IV,,,159V+,Marionette,1.1,12.5,45,11.9,Amorphous,6425-6681,Fast,0,2,0,0,0,0,Black,35,50,50
+355,Duskull,,,,,,,97Gen. III-IV,,,59V+,Requiem,0.8,15.0,190,35.2,Amorphous,6425-6681,Fast,0,0,0,0,1,0,Black,35,50,50
+356,Dusclops,,,,,,,179Gen. III-IV,,,159V+,Beckon,1.6,30.6,90,20.1,Amorphous,6425-6681,Fast,0,0,1,0,1,0,Black,35,50,50
+357,Tropius,,,,,,,169Gen. III-IV,,,161V+,Fruit,2.0,100.0,200,36.6,"Monster,Grass",6425-6681,Slow,2,0,0,0,0,0,Green,70,50,50
+358,Chimecho,,,,,,,147Gen. III-IV,,,159V+,Wind Chime,0.6,1.0,45,11.9,Amorphous,6425-6681,Fast,0,0,0,1,1,0,Blue,70,50,50
+359,Absol,,,,,,,174Gen. III-IV,,,163V+,Disaster,1.2,47.0,30,8.8,Field,6425-6681,Medium Slow,0,2,0,0,0,0,White,35,50,50
+360,Wynaut,,,,,,,44Gen. III-IV,,,52V+,Bright,0.6,14.0,125,25.7,No Eggs Discovered,5140-5396,Medium Fast,1,0,0,0,0,0,Blue,70,50,50
+361,Snorunt,,,,,,,74Gen. III-IV,,,60V+,Snow Hat,0.7,16.8,190,35.2,"Fairy,Mineral",5140-5396,Medium Fast,1,0,0,0,0,0,Gray,70,50,50
+362,Glalie,,,,,,,187Gen. III-IV,,,168V+,Face,1.5,256.5,75,17.5,"Fairy,Mineral",5140-5396,Medium Fast,2,0,0,0,0,0,Gray,70,50,50
+363,Spheal,,,,,,,75Gen. III-IV,,,58V+,Clap,0.8,39.5,255,43.9,"Water 1,Field",5140-5396,Medium Slow,1,0,0,0,0,0,Blue,70,50,50
+364,Sealeo,,,,,,,128Gen. III-IV,,,144V+,Ball Roll,1.1,87.6,120,24.9,"Water 1,Field",5140-5396,Medium Slow,2,0,0,0,0,0,Blue,70,50,50
+365,Walrein,,,,,,,192Gen. III-IV,,,239V+,Ice Break,1.4,150.6,45,11.9,"Water 1,Field",5140-5396,Medium Slow,3,0,0,0,0,0,Blue,70,50,50
+366,Clamperl,,,,,,,142Gen. III-IV,,,69V+,Bivalve,0.4,52.5,255,43.9,Water 1,5140-5396,Erratic,0,0,1,0,0,0,Blue,70,50,50
+367,Huntail,,,,,,,178Gen. III-IV,,,170V+,Deep Sea,1.7,27.0,60,14.8,Water 1,5140-5396,Erratic,0,1,1,0,0,0,Blue,70,50,50
+368,Gorebyss,,,,,,,178Gen. III-IV,,,170V+,South Sea,1.8,22.6,60,14.8,Water 1,5140-5396,Erratic,0,0,0,2,0,0,Pink,70,50,50
+369,Relicanth,,,,,,,198Gen. III-IV,,,170V+,Longevity,1.0,23.4,25,7.7,"Water 1,Water 2",10280-10536,Slow,1,0,1,0,0,0,Gray,70,87.5,12.5
+370,Luvdisc,,,,,,,110Gen. III-IV,,,116V+,Rendezvous,0.6,8.7,225,39.9,Water 2,5140-5396,Fast,0,0,0,0,0,1,Pink,70,25,75
+371,Bagon,,,,,,,89Gen. III-IV,,,60V+,Rock Head,0.6,42.1,45,11.9,Dragon,10280-10536,Slow,0,1,0,0,0,0,Blue,35,50,50
+372,Shelgon,,,,,,,144Gen. III-IV,,,147V+,Endurance,1.1,110.5,45,11.9,Dragon,10280-10536,Slow,0,0,2,0,0,0,White,35,50,50
+373,Salamence,,,,,,,218Gen. III-IV,,,270V+,Dragon,1.5,102.6,45,11.9,Dragon,10280-10536,Slow,0,3,0,0,0,0,Blue,35,50,50
+374,Beldum,,,,,,,103Gen. III-IV,,,60V+,Iron Ball,0.6,95.2,3,1.6,Mineral,10280-10536,Slow,0,0,1,0,0,0,Blue,35,,
+375,Metang,,,,,,,153Gen. III-IV,,,147V+,Iron Claw,1.2,202.5,3,1.6,Mineral,10280-10536,Slow,0,0,2,0,0,0,Blue,35,,
+376,Metagross,,,,,,,210Gen. III-IV,,,270V+,Iron Leg,1.6,550.0,3,1.6,Mineral,10280-10536,Slow,0,0,3,0,0,0,Blue,35,,
+377,Regirock,,,,,,,217Gen. III-IV,,,261V+,Rock Peak,1.7,230.0,3,1.6,No Eggs Discovered,20560-20816,Slow,0,0,3,0,0,0,Brown,35,,
+378,Regice,,,,,,,216Gen. III-IV,,,261V+,Iceberg,1.8,175.0,3,1.6,No Eggs Discovered,20560-20816,Slow,0,0,0,0,3,0,Blue,35,,
+379,Registeel,,,,,,,215Gen. III-IV,,,261V+,Iron,1.9,205.0,3,1.6,No Eggs Discovered,20560-20816,Slow,0,0,2,0,1,0,Gray,35,,
+380,Latias,,,,,,,211Gen. III-IV,,,270V+,Eon,1.4,40.0,3,1.6,No Eggs Discovered,30840-31096,Slow,0,0,0,0,3,0,Red,90,,
+381,Latios,,,,,,,211Gen. III-IV,,,270V+,Eon,2.0,60.0,3,1.6,No Eggs Discovered,30840-31096,Slow,0,0,0,3,0,0,Blue,90,,
+382,Kyogre,,,,,,,218Gen. III-IV,,,302V+,Sea Basin,4.5,352.0,3,1.6,No Eggs Discovered,30840-31096,Slow,0,0,0,3,0,0,Blue,0,,
+383,Groudon,,,,,,,218Gen. III-IV,,,302V+,Continent,3.5,950.0,3,1.6,No Eggs Discovered,30840-31096,Slow,0,3,0,0,0,0,Red,0,,
+384,Rayquaza,,,,,,,220Gen. III-IV,,,306V+,Sky High,7.0,206.5,45,11.9,No Eggs Discovered,30840-31096,Slow,0,2,0,1,0,0,Green,0,,
+385,Jirachi,,,,,,,215Gen. III-IV,,,270V+,Wish,0.3,1.1,3,1.6,No Eggs Discovered,30840-31096,Slow,3,0,0,0,0,0,Yellow,100,,
+386,Deoxys,,,,,,,215Gen. III-IV,,,270V+,DNA,1.7,60.8,3,1.6,No Eggs Discovered,30840-31096,Slow,0,1,0,1,0,1,Red,0,,
+387,Turtwig,,,,,,,,64Gen. IV,,64V+,Tiny Leaf,0.4,10.2,45,11.9,"Monster,Grass",5140-5396,Medium Slow,0,1,0,0,0,0,Green,70,87.5,12.5
+388,Grotle,,,,,,,,141Gen. IV,,142V+,Grove,1.1,97.0,45,11.9,"Monster,Grass",5140-5396,Medium Slow,0,1,1,0,0,0,Green,70,87.5,12.5
+389,Torterra,,,,,,,,208Gen. IV,,236V+,Continent,2.2,310.0,45,11.9,"Monster,Grass",5140-5396,Medium Slow,0,2,1,0,0,0,Green,70,87.5,12.5
+390,Chimchar,,,,,,,,65Gen. IV,,62V+,Chimp,0.5,6.2,45,11.9,"Field,Human-Like",5140-5396,Medium Slow,0,0,0,0,0,1,Brown,70,87.5,12.5
+391,Monferno,,,,,,,,142Gen. IV,,142V+,Playful,0.9,22.0,45,11.9,"Field,Human-Like",5140-5396,Medium Slow,0,0,0,1,0,1,Brown,70,87.5,12.5
+392,Infernape,,,,,,,,209Gen. IV,,240V+,Flame,1.2,55.0,45,11.9,"Field,Human-Like",5140-5396,Medium Slow,0,1,0,1,0,1,Brown,70,87.5,12.5
+393,Piplup,,,,,,,,66Gen. IV,,63V+,Penguin,0.4,5.2,45,11.9,"Water 1,Field",5140-5396,Medium Slow,0,0,0,1,0,0,Blue,70,87.5,12.5
+394,Prinplup,,,,,,,,143Gen. IV,,142V+,Penguin,0.8,23.0,45,11.9,"Water 1,Field",5140-5396,Medium Slow,0,0,0,2,0,0,Blue,70,87.5,12.5
+395,Empoleon,,,,,,,,210Gen. IV,,239V+,Emperor,1.7,84.5,45,11.9,"Water 1,Field",5140-5396,Medium Slow,0,0,0,3,0,0,Blue,70,87.5,12.5
+396,Starly,,,,,,,,56Gen. IV,,49V+,Starling,0.3,2.0,255,43.9,Flying,3855-4111,Medium Slow,0,0,0,0,0,1,Brown,70,50,50
+397,Staravia,,,,,,,,113Gen. IV,,119V+,Starling,0.6,15.5,120,24.9,Flying,3855-4111,Medium Slow,0,0,0,0,0,2,Brown,70,50,50
+398,Staraptor,,,,,,,,172Gen. IV,,218V+,Predator,1.2,24.9,45,11.9,Flying,3855-4111,Medium Slow,0,3,0,0,0,0,Brown,70,50,50
+399,Bidoof,,,,,,,,58Gen. IV,,50V+,Plump Mouse,0.5,20.0,255,43.9,"Water 1,Field",3855-4111,Medium Fast,1,0,0,0,0,0,Brown,70,50,50
+400,Bibarel,,,,,,,,116Gen. IV,,144V+,Beaver,1.0,31.5,127,26,"Water 1,Field",3855-4111,Medium Fast,0,2,0,0,0,0,Brown,70,50,50
+401,Kricketot,,,,,,,,54Gen. IV,,39V+,Cricket,0.3,2.2,255,43.9,Bug,3855-4111,Medium Slow,0,0,1,0,0,0,Red,70,50,50
+402,Kricketune,,,,,,,,159Gen. IV,,134V+,Cricket,1.0,25.5,45,11.9,Bug,3855-4111,Medium Slow,0,2,0,0,0,0,Red,70,50,50
+403,Shinx,,,,,,,,60Gen. IV,,53V+,Flash,0.5,9.5,235,41.3,Field,5140-5396,Medium Slow,0,1,0,0,0,0,Blue,70,50,50
+404,Luxio,,,,,,,,117Gen. IV,,127V+,Spark,0.9,30.5,120,24.9,Field,5140-5396,Medium Slow,0,2,0,0,0,0,Blue,100,50,50
+405,Luxray,,,,,,,,194Gen. IV,,235V+,Gleam Eyes,1.4,42.0,45,11.9,Field,5140-5396,Medium Slow,0,3,0,0,0,0,Blue,70,50,50
+406,Budew,,,,,,,,68Gen. IV,,56V+,Bud,0.2,1.2,255,43.9,No Eggs Discovered,5140-5396,Medium Slow,0,0,0,1,0,0,Green,70,50,50
+407,Roserade,,,,,,,,204Gen. IV,,232V+,Bouquet,0.9,14.5,75,17.5,"Fairy,Grass",5140-5396,Medium Slow,0,0,0,3,0,0,Green,70,50,50
+408,Cranidos,,,,,,,,99Gen. IV,,70V+,Head Butt,0.9,31.5,45,11.9,Monster,7710-7966,Erratic,0,1,0,0,0,0,Blue,70,87.5,12.5
+409,Rampardos,,,,,,,,199Gen. IV,,173V+,Head Butt,1.6,102.5,45,11.9,Monster,7710-7966,Erratic,0,2,0,0,0,0,Blue,70,87.5,12.5
+410,Shieldon,,,,,,,,99Gen. IV,,70V+,Shield,0.5,57.0,45,11.9,Monster,7710-7966,Erratic,0,0,1,0,0,0,Gray,70,87.5,12.5
+411,Bastiodon,,,,,,,,199Gen. IV,,173V+,Shield,1.3,149.5,45,11.9,Monster,7710-7966,Erratic,0,0,2,0,0,0,Gray,70,87.5,12.5
+412,Burmy,,,,,,,,61Gen. IV,,45V+,Bagworm,0.2,3.4,120,24.9,Bug,3855-4111,Medium Fast,0,0,0,0,1,0,Green,70,50,50
+413,Wormadam,,,,,,,,159Gen. IV,,148V+,Bagworm,0.5,6.5,45,11.9,Bug,3855-4111,Medium Fast,0,0,0,0,2,0,Green,70,,
+414,Mothim,,,,,,,,159Gen. IV,,148V+,Moth,0.9,23.3,45,11.9,Bug,3855-4111,Medium Fast,0,1,0,1,0,0,Yellow,70,,
+415,Combee,,,,,,,,63Gen. IV,,49V+,Tiny Bee,0.3,5.5,120,24.9,Bug,3855-4111,Medium Slow,0,0,0,0,0,1,Yellow,70,87.5,12.5
+416,Vespiquen,,,,,,,,188Gen. IV,,166V+,Beehive,1.2,38.5,45,11.9,Bug,3855-4111,Medium Slow,0,0,1,0,1,0,Yellow,70,,
+417,Pachirisu,,,,,,,,120Gen. IV,,142V+,EleSquirrel,0.4,3.9,200,36.6,"Field,Fairy",2570-2826,Medium Fast,0,0,0,0,0,1,White,100,50,50
+418,Buizel,,,,,,,,75Gen. IV,,66V+,Sea Weasel,0.7,29.5,190,35.2,"Water 1,Field",5140-5396,Medium Fast,0,0,0,0,0,1,Brown,70,50,50
+419,Floatzel,,,,,,,,178Gen. IV,,173V+,Sea Weasel,1.1,33.5,75,17.5,"Water 1,Field",5140-5396,Medium Fast,0,0,0,0,0,2,Brown,70,50,50
+420,Cherubi,,,,,,,,68Gen. IV,,55V+,Cherry,0.4,3.3,190,35.2,"Fairy,Grass",5140-5396,Medium Fast,0,0,0,1,0,0,Pink,70,50,50
+421,Cherrim,,,,,,,,133Gen. IV,,158V+,Blossom,0.5,9.3,75,17.5,"Fairy,Grass",5140-5396,Medium Fast,0,0,0,2,0,0,Purple,70,50,50
+422,Shellos,,,,,,,,73Gen. IV,,65V+,Sea Slug,0.3,6.3,190,35.2,"Water 1,Amorphous",5140-5396,Medium Fast,1,0,0,0,0,0,Purple,70,50,50
+423,Gastrodon,,,,,,,,176Gen. IV,,166V+,Sea Slug,0.9,29.9,75,17.5,"Water 1,Amorphous",5140-5396,Medium Fast,2,0,0,0,0,0,Purple,70,50,50
+424,Ambipom,,,,,,,,186Gen. IV,,169V+,Long Tail,1.2,20.3,45,11.9,Field,5140-5396,Fast,0,0,0,0,0,2,Purple,100,50,50
+425,Drifloon,,,,,,,,127Gen. IV,,70V+,Balloon,0.4,1.2,125,25.7,Amorphous,7710-7966,Fluctuating,1,0,0,0,0,0,Purple,70,50,50
+426,Drifblim,,,,,,,,204Gen. IV,,174V+,Blimp,1.2,15.0,60,14.8,Amorphous,7710-7966,Fluctuating,2,0,0,0,0,0,Purple,70,50,50
+427,Buneary,,,,,,,,84Gen. IV,,70V+,Rabbit,0.4,5.5,190,35.2,"Field,Human-Like",5140-5396,Medium Fast,0,0,0,0,0,1,Brown,0,50,50
+428,Lopunny,,,,,,,,178Gen. IV,,168V+,Rabbit,1.2,33.3,60,14.8,"Field,Human-Like",5140-5396,Medium Fast,0,0,0,0,0,2,Brown,140,50,50
+429,Mismagius,,,,,,,,187Gen. IV,,173V+,Magical,0.9,4.4,45,11.9,Amorphous,6425-6681,Fast,0,0,0,1,1,0,Purple,35,50,50
+430,Honchkrow,,,,,,,,187Gen. IV,,177V+,Big Boss,0.9,27.3,30,8.8,Flying,5140-5396,Medium Slow,0,2,0,0,0,0,Black,35,50,50
+431,Glameow,,,,,,,,71Gen. IV,,62V+,Catty,0.5,3.9,190,35.2,Field,5140-5396,Fast,0,0,0,0,0,1,Gray,70,25,75
+432,Purugly,,,,,,,,183Gen. IV,,158V+,Tiger Cat,1.0,43.8,75,17.5,Field,5140-5396,Fast,0,0,0,0,0,2,Gray,70,25,75
+433,Chingling,,,,,,,,74Gen. IV,,57V+,Bell,0.2,0.6,120,24.9,No Eggs Discovered,6425-6681,Fast,0,0,0,1,0,0,Yellow,70,50,50
+434,Stunky,,,,,,,,79Gen. IV,,66V+,Skunk,0.4,19.2,225,39.9,Field,5140-5396,Medium Fast,0,0,0,0,0,1,Purple,70,50,50
+435,Skuntank,,,,,,,,209Gen. IV,,168V+,Skunk,1.0,38.0,60,14.8,Field,5140-5396,Medium Fast,2,0,0,0,0,0,Purple,70,50,50
+436,Bronzor,,,,,,,,72Gen. IV,,60V+,Bronze,0.5,60.5,255,43.9,Mineral,5140-5396,Medium Fast,0,0,1,0,0,0,Green,70,,
+437,Bronzong,,,,,,,,188Gen. IV,,175V+,Bronze Bell,1.3,187.0,90,20.1,Mineral,5140-5396,Medium Fast,0,0,1,0,1,0,Green,70,,
+438,Bonsly,,,,,,,,68Gen. IV,,58V+,Bonsai,0.5,15.0,255,43.9,No Eggs Discovered,5140-5396,Medium Fast,0,0,1,0,0,0,Brown,70,50,50
+439,Mime Jr.,,,,,,,,78Gen. IV,,62V+,Mime,0.6,13.0,145,28.7,No Eggs Discovered,6425-6681,Medium Fast,0,0,0,0,1,0,Pink,70,50,50
+440,Happiny,,,,,,,,255Gen. IV,,110V+,Playhouse,0.6,24.4,130,26.5,No Eggs Discovered,10280-10536,Fast,1,0,0,0,0,0,Pink,140,,
+441,Chatot,,,,,,,,107Gen. IV,,144V+,Music Note,0.5,1.9,30,8.8,Flying,5140-5396,Medium Slow,0,1,0,0,0,0,Black,35,50,50
+442,Spiritomb,,,,,,,,168Gen. IV,,170V+,Forbidden,1.0,108.0,100,21.7,Amorphous,7710-7966,Medium Fast,0,0,1,0,1,0,Purple,70,50,50
+443,Gible,,,,,,,,67Gen. IV,,60V+,Land Shark,0.7,20.5,45,11.9,"Monster,Dragon",10280-10536,Slow,0,1,0,0,0,0,Blue,70,50,50
+444,Gabite,,,,,,,,144Gen. IV,,144V+,Cave,1.4,56.0,45,11.9,"Monster,Dragon",10280-10536,Slow,0,2,0,0,0,0,Blue,70,50,50
+445,Garchomp,,,,,,,,218Gen. IV,,270V+,Mach,1.9,95.0,45,11.9,"Monster,Dragon",10280-10536,Slow,0,3,0,0,0,0,Blue,70,50,50
+446,Munchlax,,,,,,,,94Gen. IV,,78V+,Big Eater,0.6,105.0,50,12.9,No Eggs Discovered,10280-10536,Slow,1,0,0,0,0,0,Black,70,87.5,12.5
+447,Riolu,,,,,,,,72Gen. IV,,57V+,Emanation,0.7,20.2,75,17.5,No Eggs Discovered,6425-6681,Medium Slow,0,1,0,0,0,0,Blue,70,87.5,12.5
+448,Lucario,,,,,,,,204Gen. IV,,184V+,Aura,1.2,54.0,45,11.9,"Field,Human-Like",6425-6681,Medium Slow,0,1,0,1,0,0,Blue,70,87.5,12.5
+449,Hippopotas,,,,,,,,95Gen. IV,,66V+,Hippo,0.8,49.5,140,28,Field,7710-7966,Slow,0,0,1,0,0,0,Brown,70,50,50
+450,Hippowdon,,,,,,,,198Gen. IV,,184V+,Heavyweight,2.0,300.0,60,14.8,Field,7710-7966,Slow,0,0,2,0,0,0,Brown,70,50,50
+451,Skorupi,,,,,,,,114Gen. IV,,66V+,Scorpion,0.8,12.0,120,24.9,"Bug,Water 3",5140-5396,Slow,0,0,1,0,0,0,Purple,70,50,50
+452,Drapion,,,,,,,,204Gen. IV,,175V+,Ogre Scorpion,1.3,61.5,45,11.9,"Bug,Water 3",5140-5396,Slow,0,0,2,0,0,0,Purple,70,50,50
+453,Croagunk,,,,,,,,83Gen. IV,,60V+,Toxic Mouth,0.7,23.0,140,28,Human-Like,2570-2826,Medium Fast,0,1,0,0,0,0,Blue,100,50,50
+454,Toxicroak,,,,,,,,181Gen. IV,,172V+,Toxic Mouth,1.3,44.4,75,17.5,Human-Like,5140-5396,Medium Fast,0,2,0,0,0,0,Blue,70,50,50
+455,Carnivine,,,,,,,,164Gen. IV,,159V+,Bug Catcher,1.4,27.0,200,36.6,Grass,6425-6681,Slow,0,2,0,0,0,0,Green,70,50,50
+456,Finneon,,,,,,,,90Gen. IV,,66V+,Wing Fish,0.4,7.0,190,35.2,Water 2,5140-5396,Erratic,0,0,0,0,0,1,Blue,70,50,50
+457,Lumineon,,,,,,,,156Gen. IV,,161V+,Neon,1.2,24.0,75,17.5,Water 2,5140-5396,Erratic,0,0,0,0,0,2,Blue,70,50,50
+458,Mantyke,,,,,,,,108Gen. IV,,69V+,Kite,1.0,65.0,25,7.7,No Eggs Discovered,6425-6681,Slow,0,0,0,0,1,0,Blue,70,50,50
+459,Snover,,,,,,,,131Gen. IV,,67V+,Frost Tree,1.0,50.5,120,24.9,"Monster,Grass",5140-5396,Slow,0,1,0,0,0,0,White,70,50,50
+460,Abomasnow,,,,,,,,214Gen. IV,,173V+,Frost Tree,2.2,135.5,60,14.8,"Monster,Grass",5140-5396,Slow,0,1,0,1,0,0,White,70,50,50
+461,Weavile,,,,,,,,199Gen. IV,,179V+,Sharp Claw,1.1,34.0,45,11.9,Field,5140-5396,Medium Slow,0,1,0,0,0,1,Black,35,50,50
+462,Magnezone,,,,,,,,211Gen. IV,,241V+,Magnet Area,1.2,180.0,30,8.8,Mineral,5140-5396,Medium Fast,0,0,0,3,0,0,Gray,70,,
+463,Lickilicky,,,,,,,,193Gen. IV,,180V+,Licking,1.7,140.0,30,8.8,Monster,5140-5396,Medium Fast,3,0,0,0,0,0,Pink,70,50,50
+464,Rhyperior,,,,,,,,217Gen. IV,,241V+,Drill,2.4,282.8,30,8.8,"Monster,Field",5140-5396,Slow,0,3,0,0,0,0,Gray,70,50,50
+465,Tangrowth,,,,,,,,211Gen. IV,,187V+,Vine,2.0,128.6,30,8.8,Grass,5140-5396,Medium Fast,0,0,2,0,0,0,Blue,70,50,50
+466,Electivire,,,,,,,,199Gen. IV,,243V+,Thunderbolt,1.8,138.6,30,8.8,Human-Like,6425-6681,Medium Fast,0,3,0,0,0,0,Yellow,70,75,25
+467,Magmortar,,,,,,,,199Gen. IV,,243V+,Blast,1.6,68.0,30,8.8,Human-Like,6425-6681,Medium Fast,0,0,0,3,0,0,Red,70,75,25
+468,Togekiss,,,,,,,,220Gen. IV,,245V+,Jubilee,1.5,38.0,30,8.8,"Flying,Fairy",2570-2826,Fast,0,0,0,2,1,0,White,70,87.5,12.5
+469,Yanmega,,,,,,,,198Gen. IV,,180V+,Ogre Darner,1.9,51.5,30,8.8,Bug,5140-5396,Medium Fast,0,2,0,0,0,0,Green,70,50,50
+470,Leafeon,,,,,,,,196Gen. IV,,184V+,Verdant,1.0,25.5,45,11.9,Field,8995-9251,Medium Fast,0,0,2,0,0,0,Green,35,87.5,12.5
+471,Glaceon,,,,,,,,196Gen. IV,,184V+,Fresh Snow,0.8,25.9,45,11.9,Field,8995-9251,Medium Fast,0,0,0,2,0,0,Blue,35,87.5,12.5
+472,Gliscor,,,,,,,,192Gen. IV,,179V+,Fang Scorpion,2.0,42.5,30,8.8,Bug,5140-5396,Medium Slow,0,0,2,0,0,0,Purple,70,50,50
+473,Mamoswine,,,,,,,,207Gen. IV,,239V+,Twin Tusk,2.5,291.0,50,12.9,Field,5140-5396,Slow,0,3,0,0,0,0,Brown,70,50,50
+474,Porygon-Z,,,,,,,,185Gen. IV,,241V+,Virtual,0.9,34.0,30,8.8,Mineral,5140-5396,Medium Fast,0,0,0,3,0,0,Red,70,,
+475,Gallade,,,,,,,,208Gen. IV,,233V+,Blade,1.6,52.0,45,11.9,"Human-LikeGen VIII,Amorphous",5140-5396,Slow,0,3,0,0,0,0,White,35,,
+476,Probopass,,,,,,,,198Gen. IV,,184V+,Compass,1.4,340.0,60,14.8,Mineral,5140-5396,Medium Fast,0,0,1,0,2,0,Gray,70,50,50
+477,Dusknoir,,,,,,,,210Gen. IV,,236V+,Gripper,2.2,106.6,45,11.9,Amorphous,6425-6681,Fast,0,0,1,0,2,0,Black,35,50,50
+478,Froslass,,,,,,,,187Gen. IV,,168V+,Snow Land,1.3,26.6,75,17.5,"Fairy,Mineral",5140-5396,Medium Fast,0,0,0,0,0,2,White,70,,
+479,Rotom,,,,,,,,132Gen. IV,,154V+,Plasma,0.3,0.3,45,11.9,Amorphous,5140-5396,Medium Fast,0,0,0,1,0,1,Red,70,,
+480,Uxie,,,,,,,,210Gen. IV,,261V+,Knowledge,0.3,0.3,3,1.6,No Eggs Discovered,20560-20816,Slow,0,0,2,0,1,0,Yellow,140,,
+481,Mesprit,,,,,,,,210Gen. IV,,261V+,Emotion,0.3,0.3,3,1.6,No Eggs Discovered,20560-20816,Slow,0,1,0,1,1,0,Pink,140,,
+482,Azelf,,,,,,,,210Gen. IV,,261V+,Willpower,0.3,0.3,3,1.6,No Eggs Discovered,20560-20816,Slow,0,2,0,1,0,0,Blue,140,,
+483,Dialga,,,,,,,,220Gen. IV,,306V+,Temporal,5.4,683.0,3,1.6,No Eggs Discovered,30840-31096,Slow,0,0,0,3,0,0,White,0,,
+484,Palkia,,,,,,,,220Gen. IV,,306V+,Spatial,4.2,336.0,3,1.6,No Eggs Discovered,30840-31096,Slow,0,0,0,3,0,0,Purple,0,,
+485,Heatran,,,,,,,,215Gen. IV,,270V+,Lava Dome,1.7,430.0,3,1.6,No Eggs Discovered,2570-2826,Slow,0,0,0,3,0,0,Brown,100,50,50
+486,Regigigas,,,,,,,,220Gen. IV,,302V+,Colossal,3.7,420.0,3,1.6,No Eggs Discovered,30840-31096,Slow,0,3,0,0,0,0,White,0,,
+487,Giratina,,,,,,,,220Gen. IV,,306V+,Renegade,4.5,750.0,3,1.6,No Eggs Discovered,30840-31096,Slow,3,0,0,0,0,0,Black,0,,
+488,Cresselia,,,,,,,,210Gen. IV,,270V+,Lunar,1.5,85.6,3,1.6,No Eggs Discovered,30840-31096,Slow,0,0,0,0,3,0,Yellow,100,,
+489,Phione,,,,,,,,165Gen. IV,,216V+,Sea Drifter,0.4,3.1,30,8.8,"Water 1,Fairy",10280-10536,Slow,1,0,0,0,0,0,Blue,70,,
+490,Manaphy,,,,,,,,215Gen. IV,,270V+,Seafaring,0.3,1.4,3,1.6,"Water 1,Fairy",2570-2826,Slow,3,0,0,0,0,0,Blue,70,,
+491,Darkrai,,,,,,,,210Gen. IV,,270V+,Pitch-Black,1.5,50.5,3,1.6,No Eggs Discovered,30840-31096,Slow,0,0,0,2,0,1,Black,0,,
+492,Shaymin,,,,,,,,64Gen. IV,,270V+,Gratitude,0.2,2.1,45,11.9,No Eggs Discovered,30840-31096,Medium Slow,3,0,0,0,0,0,Green,100,,
+493,Arceus,,,,,,,,255Gen. IV,,324V+,Alpha,3.2,320.0,3,1.6,No Eggs Discovered,30840-31096,Slow,3,0,0,0,0,0,White,0,,
+494,Victini,270,,,,,,,,,,Victory,0.4,4.0,3,1.6,No Eggs Discovered,30840-31096,Slow,3,0,0,0,0,0,Yellow,100,,
+495,Snivy,62,,,,,,,,,,Grass Snake,0.6,8.1,45,11.9,"Field,Grass",5140-5396,Medium Slow,0,0,0,0,0,1,Green,70,87.5,12.5
+496,Servine,145,,,,,,,,,,Grass Snake,0.8,16.0,45,11.9,"Field,Grass",5140-5396,Medium Slow,0,0,0,0,0,2,Green,70,87.5,12.5
+497,Serperior,238,,,,,,,,,,Regal,3.3,63.0,45,11.9,"Field,Grass",5140-5396,Medium Slow,0,0,0,0,0,3,Green,70,87.5,12.5
+498,Tepig,62,,,,,,,,,,Fire Pig,0.5,9.9,45,11.9,Field,5140-5396,Medium Slow,1,0,0,0,0,0,Red,70,87.5,12.5
+499,Pignite,146,,,,,,,,,,Fire Pig,1.0,55.5,45,11.9,Field,5140-5396,Medium Slow,0,2,0,0,0,0,Red,70,87.5,12.5
+500,Emboar,238,,,,,,,,,,Mega Fire Pig,1.6,150.0,45,11.9,Field,5140-5396,Medium Slow,0,3,0,0,0,0,Red,70,87.5,12.5
+501,Oshawott,62,,,,,,,,,,Sea Otter,0.5,5.9,45,11.9,Field,5140-5396,Medium Slow,0,0,0,1,0,0,Blue,70,87.5,12.5
+502,Dewott,145,,,,,,,,,,Discipline,0.8,24.5,45,11.9,Field,5140-5396,Medium Slow,0,0,0,2,0,0,Blue,70,87.5,12.5
+503,Samurott,238,,,,,,,,,,Formidable,1.5,94.6,45,11.9,Field,5140-5396,Medium Slow,0,0,0,3,0,0,Blue,70,87.5,12.5
+504,Patrat,51,,,,,,,,,,Scout,0.5,11.6,255,43.9,Field,3855-4111,Medium Fast,0,1,0,0,0,0,Brown,70,50,50
+505,Watchog,147,,,,,,,,,,Lookout,1.1,27.0,255,43.9,Field,5140-5396,Medium Fast,0,2,0,0,0,0,Brown,70,50,50
+506,Lillipup,55,,,,,,,,,,Puppy,0.4,4.1,255,43.9,Field,3855-4111,Medium Slow,0,1,0,0,0,0,Brown,70,50,50
+507,Herdier,130,,,,,,,,,,Loyal Dog,0.9,14.7,120,24.9,Field,3855-4111,Medium Slow,0,2,0,0,0,0,Gray,70,50,50
+508,Stoutland,225,,,,,,,,,,Big-Hearted,1.2,61.0,45,11.9,Field,3855-4111,Medium Slow,0,3,0,0,0,0,Gray,70,50,50
+509,Purrloin,56,,,,,,,,,,Devious,0.4,10.1,255,43.9,Field,5140-5396,Medium Fast,0,0,0,0,0,1,Purple,70,50,50
+510,Liepard,156,,,,,,,,,,Cruel,1.1,37.5,90,20.1,Field,5140-5396,Medium Fast,0,0,0,0,0,2,Purple,70,50,50
+511,Pansage,63,,,,,,,,,,Grass Monkey,0.6,10.5,190,35.2,Field,5140-5396,Medium Fast,0,0,0,0,0,1,Green,70,87.5,12.5
+512,Simisage,174,,,,,,,,,,Thorn Monkey,1.1,30.5,75,17.5,Field,5140-5396,Medium Fast,0,0,0,0,0,2,Green,70,87.5,12.5
+513,Pansear,63,,,,,,,,,,High Temp,0.6,11.0,190,35.2,Field,5140-5396,Medium Fast,0,0,0,0,0,1,Red,70,87.5,12.5
+514,Simisear,174,,,,,,,,,,Ember,1.0,28.0,75,17.5,Field,5140-5396,Medium Fast,0,0,0,0,0,2,Red,70,87.5,12.5
+515,Panpour,63,,,,,,,,,,Spray,0.6,13.5,190,35.2,Field,5140-5396,Medium Fast,0,0,0,0,0,1,Blue,70,87.5,12.5
+516,Simipour,174,,,,,,,,,,Geyser,1.0,29.0,75,17.5,Field,5140-5396,Medium Fast,0,0,0,0,0,2,Blue,70,87.5,12.5
+517,Munna,58,,,,,,,,,,Dream Eater,0.6,23.3,190,35.2,Field,2570-2826,Fast,1,0,0,0,0,0,Pink,70,50,50
+518,Musharna,170,,,,,,,,,,Drowsing,1.1,60.5,75,17.5,Field,2570-2826,Fast,2,0,0,0,0,0,Pink,70,50,50
+519,Pidove,53,,,,,,,,,,Tiny Pigeon,0.3,2.1,255,43.9,Flying,3855-4111,Medium Slow,0,1,0,0,0,0,Gray,70,50,50
+520,Tranquill,125,,,,,,,,,,Wild Pigeon,0.6,15.0,120,24.9,Flying,3855-4111,Medium Slow,0,2,0,0,0,0,Gray,70,50,50
+521,Unfezant,220,,,,,,,,,,Proud,1.2,29.0,45,11.9,Flying,3855-4111,Medium Slow,0,3,0,0,0,0,Gray,70,50,50
+522,Blitzle,59,,,,,,,,,,Electrified,0.8,29.8,190,35.2,Field,5140-5396,Medium Fast,0,0,0,0,0,1,Black,70,50,50
+523,Zebstrika,174,,,,,,,,,,Thunderbolt,1.6,79.5,75,17.5,Field,5140-5396,Medium Fast,0,0,0,0,0,2,Black,70,50,50
+524,Roggenrola,56,,,,,,,,,,Mantle,0.4,18.0,255,43.9,Mineral,3855-4111,Medium Slow,0,0,1,0,0,0,Blue,70,50,50
+525,Boldore,137,,,,,,,,,,Ore,0.9,102.0,120,24.9,Mineral,3855-4111,Medium Slow,0,1,1,0,0,0,Blue,70,50,50
+526,Gigalith,232,,,,,,,,,,Compressed,1.7,260.0,45,11.9,Mineral,3855-4111,Medium Slow,0,3,0,0,0,0,Blue,70,50,50
+527,Woobat,65,,,,,,,,,,Bat,0.4,2.1,190,35.2,"Field,Flying",3855-4111,Medium Fast,0,0,0,0,0,1,Blue,70,50,50
+528,Swoobat,149,,,,,,,,,,Courting,0.9,10.5,45,11.9,"Field,Flying",3855-4111,Medium Fast,0,0,0,0,0,2,Blue,70,50,50
+529,Drilbur,66,,,,,,,,,,Mole,0.3,8.5,120,24.9,Field,5140-5396,Medium Fast,0,1,0,0,0,0,Gray,70,50,50
+530,Excadrill,178,,,,,,,,,,Subterrene,0.7,40.4,60,14.8,Field,5140-5396,Medium Fast,0,2,0,0,0,0,Gray,70,50,50
+531,Audino,390,,,,,,,,,,Hearing,1.1,31.0,255,43.9,Fairy,5140-5396,Fast,2,0,0,0,0,0,Pink,70,50,50
+532,Timburr,61,,,,,,,,,,Muscular,0.6,12.5,180,33.8,Human-Like,5140-5396,Medium Slow,0,1,0,0,0,0,Gray,70,75,25
+533,Gurdurr,142,,,,,,,,,,Muscular,1.2,40.0,90,20.1,Human-Like,5140-5396,Medium Slow,0,2,0,0,0,0,Gray,70,75,25
+534,Conkeldurr,227,,,,,,,,,,Muscular,1.4,87.0,45,11.9,Human-Like,5140-5396,Medium Slow,0,3,0,0,0,0,Brown,70,75,25
+535,Tympole,59,,,,,,,,,,Tadpole,0.5,4.5,255,43.9,Water 1,5140-5396,Medium Slow,0,0,0,0,0,1,Blue,70,50,50
+536,Palpitoad,134,,,,,,,,,,Vibration,0.8,17.0,120,24.9,Water 1,5140-5396,Medium Slow,2,0,0,0,0,0,Blue,70,50,50
+537,Seismitoad,229,,,,,,,,,,Vibration,1.5,62.0,45,11.9,Water 1,5140-5396,Medium Slow,3,0,0,0,0,0,Blue,70,50,50
+538,Throh,163,,,,,,,,,,Judo,1.3,55.5,45,11.9,Human-Like,5140-5396,Medium Fast,2,0,0,0,0,0,Red,70,,
+539,Sawk,163,,,,,,,,,,Karate,1.4,51.0,45,11.9,Human-Like,5140-5396,Medium Fast,0,2,0,0,0,0,Blue,70,,
+540,Sewaddle,62,,,,,,,,,,Sewing,0.3,2.5,255,43.9,Bug,3855-4111,Medium Slow,0,0,1,0,0,0,Yellow,70,50,50
+541,Swadloon,133,,,,,,,,,,Leaf-Wrapped,0.5,7.3,120,24.9,Bug,3855-4111,Medium Slow,0,0,2,0,0,0,Green,70,50,50
+542,Leavanny,225,,,,,,,,,,Nurturing,1.2,20.5,45,11.9,Bug,3855-4111,Medium Slow,0,3,0,0,0,0,Yellow,70,50,50
+543,Venipede,52,,,,,,,,,,Centipede,0.4,5.3,255,43.9,Bug,3855-4111,Medium Slow,0,0,1,0,0,0,Red,70,50,50
+544,Whirlipede,126,,,,,,,,,,Curlipede,1.2,58.5,120,24.9,Bug,3855-4111,Medium Slow,0,0,2,0,0,0,Gray,70,50,50
+545,Scolipede,218,,,,,,,,,,Megapede,2.5,200.5,45,11.9,Bug,5140-5396,Medium Slow,0,0,0,0,0,3,Red,70,50,50
+546,Cottonee,56,,,,,,,,,,Cotton Puff,0.3,0.6,190,35.2,"Grass,Fairy",5140-5396,Medium Fast,0,0,0,0,0,1,Green,70,50,50
+547,Whimsicott,168,,,,,,,,,,Windveiled,0.7,6.6,75,17.5,"Grass,Fairy",5140-5396,Medium Fast,0,0,0,0,0,2,Green,70,50,50
+548,Petilil,56,,,,,,,,,,Bulb,0.5,6.6,190,35.2,Grass,5140-5396,Medium Fast,0,0,0,1,0,0,Green,70,,
+549,Lilligant,168,,,,,,,,,,Flowering PokémonSpinning,1.1,16.3,75,17.5,Grass,5140-5396,Medium Fast,0,0,0,2,0,0,Green,70,,
+550,Basculin,161,,,,,,,,,,Hostile PokémonMellow,1.0,18.0,25,7.7,Water 2,10280-10536,Medium Fast,0,0,0,0,0,2,Green,70,50,50
+551,Sandile,58,,,,,,,,,,Desert Croc,0.7,15.2,180,33.8,Field,5140-5396,Medium Slow,0,1,0,0,0,0,Brown,70,50,50
+552,Krokorok,123,,,,,,,,,,Desert Croc,1.0,33.4,90,20.1,Field,5140-5396,Medium Slow,0,2,0,0,0,0,Brown,70,50,50
+553,Krookodile,234,,,,,,,,,,Intimidation,1.5,96.3,45,11.9,Field,5140-5396,Medium Slow,0,3,0,0,0,0,Red,70,50,50
+554,Darumaka,63,,,,,,,,,,Zen Charm,0.6,37.5,120,24.9,Field,5140-5396,Medium Slow,0,1,0,0,0,0,Red,70,50,50
+555,Darmanitan,168,,,,,,,,,,Blazing PokémonZen Charm,1.3,92.9,60,14.8,Field,5140-5396,Medium Slow,0,2,0,0,0,0,Red,70,50,50
+556,Maractus,161,,,,,,,,,,Cactus,1.0,28.0,255,43.9,Grass,5140-5396,Medium Fast,0,0,0,2,0,0,Green,70,50,50
+557,Dwebble,65,,,,,,,,,,Rock Inn,0.3,14.5,190,35.2,"Bug,Mineral",5140-5396,Medium Fast,0,0,1,0,0,0,Red,70,50,50
+558,Crustle,170,,,,,,,,,,Stone Home,1.4,200.0,75,17.5,"Bug,Mineral",5140-5396,Medium Fast,0,0,2,0,0,0,Red,70,50,50
+559,Scraggy,70,,,,,,,,,,Shedding,0.6,11.8,180,33.8,"Field,Dragon",3855-4111,Medium Fast,0,1,0,0,0,0,Yellow,35,50,50
+560,Scrafty,171,,,,,,,,,,Hoodlum,1.1,30.0,90,20.1,"Field,Dragon",3855-4111,Medium Fast,0,0,1,0,1,0,Red,70,50,50
+561,Sigilyph,172,,,,,,,,,,Avianoid,1.4,14.0,45,11.9,Flying,5140-5396,Medium Fast,0,0,0,2,0,0,Black,70,50,50
+562,Yamask,61,,,,,,,,,,Spirit,0.5,1.5,190,35.2,"Mineral,Amorphous",6425-6681,Medium Fast,0,0,1,0,0,0,Black,70,50,50
+563,Cofagrigus,169,,,,,,,,,,Coffin,1.7,76.5,90,20.1,"Mineral,Amorphous",6425-6681,Medium Fast,0,0,2,0,0,0,Yellow,70,50,50
+564,Tirtouga,71,,,,,,,,,,Prototurtle,0.7,16.5,45,11.9,"Water 1,Water 3",7710-7966,Medium Fast,0,0,1,0,0,0,Blue,70,87.5,12.5
+565,Carracosta,173,,,,,,,,,,Prototurtle,1.2,81.0,45,11.9,"Water 1,Water 3",7710-7966,Medium Fast,0,0,2,0,0,0,Blue,70,87.5,12.5
+566,Archen,71,,,,,,,,,,First Bird,0.5,9.5,45,11.9,"Flying,Water 3",7710-7966,Medium Fast,0,1,0,0,0,0,Yellow,70,87.5,12.5
+567,Archeops,177,,,,,,,,,,First Bird,1.4,32.0,45,11.9,"Flying,Water 3",7710-7966,Medium Fast,0,2,0,0,0,0,Yellow,70,87.5,12.5
+568,Trubbish,66,,,,,,,,,,Trash Bag,0.6,31.0,190,35.2,Mineral,5140-5396,Medium Fast,0,0,0,0,0,1,Green,70,50,50
+569,Garbodor,166,,,,,,,,,,Trash Heap,1.9,107.3,60,14.8,Mineral,5140-5396,Medium Fast,0,2,0,0,0,0,Green,70,50,50
+570,Zorua,66,,,,,,,,,,Tricky Fox PokémonSpiteful Fox,0.7,12.5,75,17.5,Field,6425-6681,Medium Slow,0,0,0,1,0,0,Gray,70,87.5,12.5
+571,Zoroark,179,,,,,,,,,,Illusion Fox PokémonBaneful Fox,1.6,81.1,45,11.9,Field,5140-5396,Medium Slow,0,0,0,2,0,0,Gray,70,87.5,12.5
+572,Minccino,60,,,,,,,,,,Chinchilla,0.4,5.8,255,43.9,Field,3855-4111,Fast,0,0,0,0,0,1,Gray,70,25,75
+573,Cinccino,165,,,,,,,,,,Scarf,0.5,7.5,60,14.8,Field,3855-4111,Fast,0,0,0,0,0,2,Gray,70,25,75
+574,Gothita,58,,,,,,,,,,Fixation,0.4,5.8,200,36.6,Human-Like,5140-5396,Medium Slow,0,0,0,0,1,0,Purple,70,25,75
+575,Gothorita,137,,,,,,,,,,Manipulate,0.7,18.0,100,21.7,Human-Like,5140-5396,Medium Slow,0,0,0,0,2,0,Purple,70,25,75
+576,Gothitelle,221,,,,,,,,,,Astral Body,1.5,44.0,50,12.9,Human-Like,5140-5396,Medium Slow,0,0,0,0,3,0,Purple,70,25,75
+577,Solosis,58,,,,,,,,,,Cell,0.3,1.0,200,36.6,Amorphous,5140-5396,Medium Slow,0,0,0,1,0,0,Green,70,50,50
+578,Duosion,130,,,,,,,,,,Mitosis,0.6,8.0,100,21.7,Amorphous,5140-5396,Medium Slow,0,0,0,2,0,0,Green,70,50,50
+579,Reuniclus,221,,,,,,,,,,Multiplying,1.0,20.1,50,12.9,Amorphous,5140-5396,Medium Slow,0,0,0,3,0,0,Green,70,50,50
+580,Ducklett,61,,,,,,,,,,Water Bird,0.5,5.5,190,35.2,"Water 1,Flying",5140-5396,Medium Fast,1,0,0,0,0,0,Blue,70,50,50
+581,Swanna,166,,,,,,,,,,White Bird,1.3,24.2,45,11.9,"Water 1,Flying",5140-5396,Medium Fast,0,0,0,0,0,2,White,70,50,50
+582,Vanillite,61,,,,,,,,,,Fresh Snow,0.4,5.7,255,43.9,Mineral,5140-5396,Slow,0,0,0,1,0,0,White,70,50,50
+583,Vanillish,138,,,,,,,,,,Icy Snow,1.1,41.0,120,24.9,Mineral,5140-5396,Slow,0,0,0,2,0,0,White,70,50,50
+584,Vanilluxe,241,,,,,,,,,,Snowstorm,1.3,57.5,45,11.9,Mineral,5140-5396,Slow,0,0,0,3,0,0,White,70,50,50
+585,Deerling,67,,,,,,,,,,Season,0.6,19.5,190,35.2,Field,5140-5396,Medium Fast,0,0,0,0,0,1,Pink,70,50,50
+586,Sawsbuck,166,,,,,,,,,,Season,1.9,92.5,75,17.5,Field,5140-5396,Medium Fast,0,2,0,0,0,0,Brown,70,50,50
+587,Emolga,150,,,,,,,,,,Sky Squirrel,0.4,5.0,200,36.6,Field,5140-5396,Medium Fast,0,0,0,0,0,2,White,70,50,50
+588,Karrablast,63,,,,,,,,,,Clamping,0.5,5.9,200,36.6,Bug,3855-4111,Medium Fast,0,1,0,0,0,0,Blue,70,50,50
+589,Escavalier,173,,,,,,,,,,Cavalry,1.0,33.0,75,17.5,Bug,3855-4111,Medium Fast,0,2,0,0,0,0,Gray,70,50,50
+590,Foongus,59,,,,,,,,,,Mushroom,0.2,1.0,190,35.2,Grass,5140-5396,Medium Fast,1,0,0,0,0,0,White,70,50,50
+591,Amoonguss,162,,,,,,,,,,Mushroom,0.6,10.5,75,17.5,Grass,5140-5396,Medium Fast,2,0,0,0,0,0,White,70,50,50
+592,Frillish,67,,,,,,,,,,Floating,1.2,33.0,190,35.2,Amorphous,5140-5396,Medium Fast,0,0,0,0,1,0,White,70,50,50
+593,Jellicent,168,,,,,,,,,,Floating,2.2,135.0,60,14.8,Amorphous,5140-5396,Medium Fast,0,0,0,0,2,0,White,70,50,50
+594,Alomomola,165,,,,,,,,,,Caring,1.2,31.6,75,17.5,"Water 1,Water 2",10280-10536,Fast,2,0,0,0,0,0,Pink,70,50,50
+595,Joltik,64,,,,,,,,,,Attaching,0.1,0.6,190,35.2,Bug,5140-5396,Medium Fast,0,0,0,0,0,1,Yellow,70,50,50
+596,Galvantula,165,,,,,,,,,,EleSpider,0.8,14.3,75,17.5,Bug,5140-5396,Medium Fast,0,0,0,0,0,2,Yellow,70,50,50
+597,Ferroseed,61,,,,,,,,,,Thorn Seed,0.6,18.8,255,43.9,"Grass,Mineral",5140-5396,Medium Fast,0,0,1,0,0,0,Gray,70,50,50
+598,Ferrothorn,171,,,,,,,,,,Thorn Pod,1.0,110.0,90,20.1,"Grass,Mineral",5140-5396,Medium Fast,0,0,2,0,0,0,Gray,70,50,50
+599,Klink,60,,,,,,,,,,Gear,0.3,21.0,130,26.5,Mineral,5140-5396,Medium Slow,0,0,1,0,0,0,Gray,70,,
+600,Klang,154,,,,,,,,,,Gear,0.6,51.0,60,14.8,Mineral,5140-5396,Medium Slow,0,0,2,0,0,0,Gray,70,,
+601,Klinklang,234,,,,,,,,,,Gear,0.6,81.0,30,8.8,Mineral,5140-5396,Medium Slow,0,0,3,0,0,0,Gray,70,,
+602,Tynamo,55,,,,,,,,,,EleFish,0.2,0.3,190,35.2,Amorphous,5140-5396,Slow,0,0,0,0,0,1,White,70,50,50
+603,Eelektrik,142,,,,,,,,,,EleFish,1.2,22.0,60,14.8,Amorphous,5140-5396,Slow,0,2,0,0,0,0,Blue,70,50,50
+604,Eelektross,232,,,,,,,,,,EleFish,2.1,80.5,30,8.8,Amorphous,5140-5396,Slow,0,3,0,0,0,0,Blue,70,50,50
+605,Elgyem,67,,,,,,,,,,Cerebral,0.5,9.0,255,43.9,Human-Like,5140-5396,Medium Fast,0,0,0,1,0,0,Blue,70,50,50
+606,Beheeyem,170,,,,,,,,,,Cerebral,1.0,34.5,90,20.1,Human-Like,5140-5396,Medium Fast,0,0,0,2,0,0,Brown,70,50,50
+607,Litwick,55,,,,,,,,,,Candle,0.3,3.1,190,35.2,Amorphous,5140-5396,Medium Slow,0,0,0,1,0,0,White,70,50,50
+608,Lampent,130,,,,,,,,,,Lamp,0.6,13.0,90,20.1,Amorphous,5140-5396,Medium Slow,0,0,0,2,0,0,Black,70,50,50
+609,Chandelure,234,,,,,,,,,,Luring,1.0,34.3,45,11.9,Amorphous,5140-5396,Medium Slow,0,0,0,3,0,0,Black,70,50,50
+610,Axew,64,,,,,,,,,,Tusk,0.6,18.0,75,17.5,"Monster,Dragon",10280-10536,Slow,0,1,0,0,0,0,Green,35,50,50
+611,Fraxure,144,,,,,,,,,,Axe Jaw,1.0,36.0,60,14.8,"Monster,Dragon",10280-10536,Slow,0,2,0,0,0,0,Green,35,50,50
+612,Haxorus,243,,,,,,,,,,Axe Jaw,1.8,105.5,45,11.9,"Monster,Dragon",10280-10536,Slow,0,3,0,0,0,0,Yellow,35,50,50
+613,Cubchoo,61,,,,,,,,,,Chill,0.5,8.5,120,24.9,Field,5140-5396,Medium Fast,0,1,0,0,0,0,White,70,50,50
+614,Beartic,177,,,,,,,,,,Freezing,2.6,260.0,60,14.8,Field,5140-5396,Medium Fast,0,2,0,0,0,0,White,70,50,50
+615,Cryogonal,180,,,,,,,,,,Crystallizing,1.1,148.0,25,7.7,Mineral,6425-6681,Medium Fast,0,0,0,0,2,0,Blue,70,,
+616,Shelmet,61,,,,,,,,,,Snail,0.4,7.7,200,36.6,Bug,3855-4111,Medium Fast,0,0,1,0,0,0,Red,70,50,50
+617,Accelgor,173,,,,,,,,,,Shell Out,0.8,25.3,75,17.5,Bug,3855-4111,Medium Fast,0,0,0,0,0,2,Red,70,50,50
+618,Stunfisk,165,,,,,,,,,,Trap,0.7,11.0,75,17.5,"Water 1,Amorphous",5140-5396,Medium Fast,2,0,0,0,0,0,Brown,70,50,50
+619,Mienfoo,70,,,,,,,,,,Martial Arts,0.9,20.0,180,33.8,"Field,Human-Like",6425-6681,Medium Slow,0,1,0,0,0,0,Yellow,70,50,50
+620,Mienshao,179,,,,,,,,,,Martial Arts,1.4,35.5,45,11.9,"Field,Human-Like",6425-6681,Medium Slow,0,2,0,0,0,0,Purple,70,50,50
+621,Druddigon,170,,,,,,,,,,Cave,1.6,139.0,45,11.9,"Dragon,Monster",7710-7966,Medium Fast,0,2,0,0,0,0,Red,70,50,50
+622,Golett,61,,,,,,,,,,Automaton,1.0,92.0,190,35.2,Mineral,6425-6681,Medium Fast,0,1,0,0,0,0,Green,70,,
+623,Golurk,169,,,,,,,,,,Automaton,2.8,330.0,90,20.1,Mineral,6425-6681,Medium Fast,0,2,0,0,0,0,Green,70,,
+624,Pawniard,68,,,,,,,,,,Sharp Blade,0.5,10.2,120,24.9,Human-Like,5140-5396,Medium Fast,0,1,0,0,0,0,Red,35,50,50
+625,Bisharp,172,,,,,,,,,,Sword Blade,1.6,70.0,45,11.9,Human-Like,5140-5396,Medium Fast,0,2,0,0,0,0,Red,35,50,50
+626,Bouffalant,172,,,,,,,,,,Bash Buffalo,1.6,94.6,45,11.9,Field,5140-5396,Medium Fast,0,2,0,0,0,0,Brown,70,50,50
+627,Rufflet,70,,,,,,,,,,Eaglet,0.5,10.5,190,35.2,Flying,5140-5396,Slow,0,1,0,0,0,0,White,70,,
+628,Braviary,179,,,,,,,,,,Valiant PokémonBattle Cry,1.5,41.0,60,14.8,Flying,5140-5396,Slow,0,2,0,0,0,0,Red,70,,
+629,Vullaby,74,,,,,,,,,,Diapered,0.5,9.0,190,35.2,Flying,5140-5396,Slow,0,0,1,0,0,0,Brown,35,,
+630,Mandibuzz,179,,,,,,,,,,Bone Vulture,1.2,39.5,60,14.8,Flying,5140-5396,Slow,0,0,0,2,0,0,Brown,35,,
+631,Heatmor,169,,,,,,,,,,Anteater,1.4,58.0,90,20.1,Field,5140-5396,Medium Fast,0,0,0,2,0,0,Red,70,50,50
+632,Durant,169,,,,,,,,,,Iron Ant,0.3,33.0,90,20.1,Bug,5140-5396,Medium Fast,0,0,2,0,0,0,Gray,70,50,50
+633,Deino,60,,,,,,,,,,Irate,0.8,17.3,45,11.9,Dragon,10280-10536,Slow,0,1,0,0,0,0,Blue,35,50,50
+634,Zweilous,147,,,,,,,,,,Hostile,1.4,50.0,45,11.9,Dragon,10280-10536,Slow,0,2,0,0,0,0,Blue,35,50,50
+635,Hydreigon,270,,,,,,,,,,Brutal,1.8,160.0,45,11.9,Dragon,10280-10536,Slow,0,0,0,3,0,0,Blue,35,50,50
+636,Larvesta,72,,,,,,,,,,Torch,1.1,28.8,45,11.9,Bug,10280-10536,Slow,0,1,0,0,0,0,White,70,50,50
+637,Volcarona,248,,,,,,,,,,Sun,1.6,46.0,15,5.2,Bug,10280-10536,Slow,0,0,0,3,0,0,White,70,50,50
+638,Cobalion,261,,,,,,,,,,Iron Will,2.1,250.0,3,1.6,No Eggs Discovered,20560-20816,Slow,0,0,3,0,0,0,Blue,35,,
+639,Terrakion,261,,,,,,,,,,Cavern,1.9,260.0,3,1.6,No Eggs Discovered,20560-20816,Slow,0,3,0,0,0,0,Gray,35,,
+640,Virizion,261,,,,,,,,,,Grassland,2.0,200.0,3,1.6,No Eggs Discovered,20560-20816,Slow,0,0,0,0,3,0,Green,35,,
+641,Tornadus,261,,,,,,,,,,Cyclone,1.5,63.0,3,1.6,No Eggs Discovered,30840-31096,Slow,0,3,0,0,0,0,Green,90,,
+642,Thundurus,261,,,,,,,,,,Bolt Strike,1.5,61.0,3,1.6,No Eggs Discovered,30840-31096,Slow,0,3,0,0,0,0,Blue,90,,
+643,Reshiram,306,,,,,,,,,,Vast White,3.2,330.0,3,1.6,No Eggs Discovered,30840-31096,Slow,0,0,0,3,0,0,White,0,,
+644,Zekrom,306,,,,,,,,,,Deep Black,2.9,345.0,3,1.6,No Eggs Discovered,30840-31096,Slow,0,3,0,0,0,0,Black,0,,
+645,Landorus,270,,,,,,,,,,Abundance,1.5,68.0,3,1.6,No Eggs Discovered,30840-31096,Slow,0,0,0,3,0,0,Brown,90,,
+646,Kyurem,297,,,,,,,,,,Boundary,3.0,325.0,3,1.6,No Eggs Discovered,30840-31096,Slow,1,1,0,1,0,0,Gray,0,,
+647,Keldeo,261,,,,,,,,,,Colt,1.4,48.5,3,1.6,No Eggs Discovered,20560-20816,Slow,0,0,0,3,0,0,Yellow,35,,
+648,Meloetta,270,,,,,,,,,,Melody,0.6,6.5,3,1.6,No Eggs Discovered,30840-31096,Slow,0,0,0,1,1,1,White,100,,
+649,Genesect,270,,,,,,,,,,Paleozoic,1.5,82.5,3,1.6,No Eggs Discovered,30840-31096,Slow,0,1,0,1,0,1,Purple,0,,
+650,Chespin,63,,,,,,,,,,Spiny Nut,0.4,9.0,45,11.9,Field,5140-5396,Medium Slow,0,0,1,0,0,0,Green,70,87.5,12.5
+651,Quilladin,142,,,,,,,,,,Spiny Armor,0.7,29.0,45,11.9,Field,5140-5396,Medium Slow,0,0,2,0,0,0,Green,70,87.5,12.5
+652,Chesnaught,239,,,,,,,,,,Spiny Armor,1.6,90.0,45,11.9,Field,5140-5396,Medium Slow,0,0,3,0,0,0,Green,70,87.5,12.5
+653,Fennekin,61,,,,,,,,,,Fox,0.4,9.4,45,11.9,Field,5140-5396,Medium Slow,0,0,0,1,0,0,Red,70,87.5,12.5
+654,Braixen,143,,,,,,,,,,Fox,1.0,14.5,45,11.9,Field,5140-5396,Medium Slow,0,0,0,2,0,0,Red,70,87.5,12.5
+655,Delphox,240,,,,,,,,,,Fox,1.5,39.0,45,11.9,Field,5140-5396,Medium Slow,0,0,0,3,0,0,Red,70,87.5,12.5
+656,Froakie,63,,,,,,,,,,Bubble Frog,0.3,7.0,45,11.9,Water 1,5140-5396,Medium Slow,0,0,0,0,0,1,Blue,70,87.5,12.5
+657,Frogadier,142,,,,,,,,,,Bubble Frog,0.6,10.9,45,11.9,Water 1,5140-5396,Medium Slow,0,0,0,0,0,2,Blue,70,87.5,12.5
+658,Greninja,239,,,,,,,,,,Ninja,1.5,40.0,45,11.9,"Water 1Greninja,No Eggs DiscoveredBattle Bond Greninja & Ash-Greninja",5140-5396,Medium Slow,0,0,0,0,0,3,Blue,70,87.5,12.5
+659,Bunnelby,47,,,,,,,,,,Digging,0.4,5.0,255,43.9,Field,3855-4111,Medium Fast,0,0,0,0,0,1,Brown,70,50,50
+660,Diggersby,148,,,,,,,,,,Digging,1.0,42.4,127,26,Field,3855-4111,Medium Fast,2,0,0,0,0,0,Brown,70,50,50
+661,Fletchling,56,,,,,,,,,,Tiny Robin,0.3,1.7,255,43.9,Flying,3855-4111,Medium Slow,0,0,0,0,0,1,Red,70,50,50
+662,Fletchinder,134,,,,,,,,,,Ember,0.7,16.0,120,24.9,Flying,3855-4111,Medium Slow,0,0,0,0,0,2,Red,70,50,50
+663,Talonflame,175,,,,,,,,,,Scorching,1.2,24.5,45,11.9,Flying,3855-4111,Medium Slow,0,0,0,0,0,3,Red,70,50,50
+664,Scatterbug,40,,,,,,,,,,Scatterdust,0.3,2.5,255,43.9,Bug,3855-4111,Medium Fast,0,0,1,0,0,0,Black,70,50,50
+665,Spewpa,75,,,,,,,,,,Scatterdust,0.3,8.4,120,24.9,Bug,3855-4111,Medium Fast,0,0,2,0,0,0,Black,70,50,50
+666,Vivillon,185,,,,,,,,,,Scale,1.2,17.0,45,11.9,Bug,3855-4111,Medium Fast,1,0,0,1,0,1,Pink,70,50,50
+667,Litleo,74,,,,,,,,,,Lion Cub,0.6,13.5,220,39.3,Field,5140-5396,Medium Slow,0,0,0,1,0,0,Brown,70,12.5,87.5
+668,Pyroar,177,,,,,,,,,,Royal,1.5,81.5,65,15.7,Field,5140-5396,Medium Slow,0,0,0,2,0,0,Brown,70,12.5,87.5
+669,Flabébé,61,,,,,,,,,,Single Bloom,0.1,0.1,225,39.9,Fairy,5140-5396,Medium Fast,0,0,0,0,1,0,White,70,,
+670,Floette,130,,,,,,,,,,Single Bloom,0.2,0.9,120,24.9,Fairy,5140-5396,Medium Fast,0,0,0,0,2,0,White,70,,
+671,Florges,248,,,,,,,,,,Garden,1.1,10.0,45,11.9,Fairy,5140-5396,Medium Fast,0,0,0,0,3,0,White,70,,
+672,Skiddo,70,,,,,,,,,,Mount,0.9,31.0,200,36.6,Field,5140-5396,Medium Fast,1,0,0,0,0,0,Brown,70,50,50
+673,Gogoat,186,,,,,,,,,,Mount,1.7,91.0,45,11.9,Field,5140-5396,Medium Fast,2,0,0,0,0,0,Brown,70,50,50
+674,Pancham,70,,,,,,,,,,Playful,0.6,8.0,220,39.3,"Field,Human-Like",6425-6681,Medium Fast,0,1,0,0,0,0,White,70,50,50
+675,Pangoro,173,,,,,,,,,,Daunting,2.1,136.0,65,15.7,"Field,Human-Like",6425-6681,Medium Fast,0,2,0,0,0,0,White,70,50,50
+676,Furfrou,165,,,,,,,,,,Poodle,1.2,28.0,160,30.9,Field,5140-5396,Medium Fast,0,0,0,0,0,1,White,70,50,50
+677,Espurr,71,,,,,,,,,,Restraint,0.3,3.5,190,35.2,Field,5140-5396,Medium Fast,0,0,0,0,0,1,Gray,70,50,50
+678,Meowstic,163,,,,,,,,,,Constraint,0.6,8.5,75,17.5,Field,5140-5396,Medium Fast,0,0,0,0,0,2,Blue,70,50,50
+679,Honedge,65,,,,,,,,,,Sword,0.8,2.0,180,33.8,Mineral,5140-5396,Medium Fast,0,0,1,0,0,0,Brown,70,50,50
+680,Doublade,157,,,,,,,,,,Sword,0.8,4.5,90,20.1,Mineral,5140-5396,Medium Fast,0,0,2,0,0,0,Brown,70,50,50
+681,Aegislash,234,,,,,,,,,,Royal Sword,1.7,53.0,45,11.9,Mineral,5140-5396,Medium Fast,0,0,2,0,1,0,Brown,70,50,50
+682,Spritzee,68,,,,,,,,,,Perfume,0.2,0.5,200,36.6,Fairy,5140-5396,Medium Fast,1,0,0,0,0,0,Pink,70,50,50
+683,Aromatisse,162,,,,,,,,,,Fragrance,0.8,15.5,140,28,Fairy,5140-5396,Medium Fast,2,0,0,0,0,0,Pink,70,50,50
+684,Swirlix,68,,,,,,,,,,Cotton Candy,0.4,3.5,200,36.6,Fairy,5140-5396,Medium Fast,0,0,1,0,0,0,White,70,50,50
+685,Slurpuff,168,,,,,,,,,,Meringue,0.8,5.0,140,28,Fairy,5140-5396,Medium Fast,0,0,2,0,0,0,White,70,50,50
+686,Inkay,58,,,,,,,,,,Revolving,0.4,3.5,190,35.2,"Water 1,Water 2",5140-5396,Medium Fast,0,1,0,0,0,0,Blue,70,50,50
+687,Malamar,169,,,,,,,,,,Overturning,1.5,47.0,80,18.4,"Water 1,Water 2",5140-5396,Medium Fast,0,2,0,0,0,0,Blue,70,50,50
+688,Binacle,61,,,,,,,,,,Two-Handed,0.5,31.0,120,24.9,Water 3,5140-5396,Medium Fast,0,1,0,0,0,0,Brown,70,50,50
+689,Barbaracle,175,,,,,,,,,,Collective,1.3,96.0,45,11.9,Water 3,5140-5396,Medium Fast,0,2,0,0,0,0,Brown,70,50,50
+690,Skrelp,64,,,,,,,,,,Mock Kelp,0.5,7.3,225,39.9,"Water 1,Dragon",5140-5396,Medium Fast,0,0,0,0,1,0,Brown,70,50,50
+691,Dragalge,173,,,,,,,,,,Mock Kelp,1.8,81.5,55,13.9,"Water 1,Dragon",5140-5396,Medium Fast,0,0,0,0,2,0,Brown,70,50,50
+692,Clauncher,66,,,,,,,,,,Water Gun,0.5,8.3,225,39.9,"Water 1,Water 3",3855-4111,Slow,0,0,0,1,0,0,Blue,70,50,50
+693,Clawitzer,100,,,,,,,,,,Howitzer,1.3,35.3,55,13.9,"Water 1,Water 3",3855-4111,Slow,0,0,0,2,0,0,Blue,70,50,50
+694,Helioptile,58,,,,,,,,,,Generator,0.5,6.0,190,35.2,"Monster,Dragon",5140-5396,Medium Fast,0,0,0,0,0,1,Yellow,70,50,50
+695,Heliolisk,168,,,,,,,,,,Generator,1.0,21.0,75,17.5,"Monster,Dragon",5140-5396,Medium Fast,0,0,0,1,0,1,Yellow,70,50,50
+696,Tyrunt,72,,,,,,,,,,Royal Heir,0.8,26.0,45,11.9,"Monster,Dragon",7710-7966,Medium Fast,0,1,0,0,0,0,Brown,70,87.5,12.5
+697,Tyrantrum,182,,,,,,,,,,Despot,2.5,270.0,45,11.9,"Monster,Dragon",7710-7966,Medium Fast,0,2,0,0,0,0,Red,70,87.5,12.5
+698,Amaura,72,,,,,,,,,,Tundra,1.3,25.2,45,11.9,Monster,7710-7966,Medium Fast,1,0,0,0,0,0,Blue,70,87.5,12.5
+699,Aurorus,104,,,,,,,,,,Tundra,2.7,225.0,45,11.9,Monster,7710-7966,Medium Fast,2,0,0,0,0,0,Blue,70,87.5,12.5
+700,Sylveon,184,,,,,,,,,,Intertwining,1.0,23.5,45,11.9,Field,8995-9251,Medium Fast,0,0,0,0,2,0,Pink,70,87.5,12.5
+701,Hawlucha,175,,,,,,,,,,Wrestling,0.8,21.5,100,21.7,"FlyingGen VIII,Human-Like",5140-5396,Medium Fast,0,2,0,0,0,0,Green,70,50,50
+702,Dedenne,151,,,,,,,,,,Antenna,0.2,2.2,180,33.8,"Field,Fairy",5140-5396,Medium Fast,0,0,0,0,0,2,Yellow,70,50,50
+703,Carbink,100,,,,,,,,,,Jewel,0.3,5.7,60,14.8,"Fairy,Mineral",6425-6681,Slow,0,0,1,0,1,0,Gray,70,,
+704,Goomy,60,,,,,,,,,,Soft Tissue,0.3,2.8,45,11.9,Dragon,10280-10536,Slow,0,0,0,0,1,0,Purple,35,50,50
+705,Sliggoo,158,,,,,,,,,,Soft Tissue PokémonSnail,0.8,17.5,45,11.9,Dragon,10280-10536,Slow,0,0,0,0,2,0,Purple,35,50,50
+706,Goodra,270,,,,,,,,,,Dragon PokémonShell Bunker,2.0,150.5,45,11.9,Dragon,10280-10536,Slow,0,0,0,0,3,0,Purple,35,50,50
+707,Klefki,165,,,,,,,,,,Key Ring,0.2,3.0,75,17.5,Mineral,5140-5396,Fast,0,0,1,0,0,0,Gray,70,50,50
+708,Phantump,62,,,,,,,,,,Stump,0.4,7.0,120,24.9,"Grass,Amorphous",5140-5396,Medium Fast,0,1,0,0,0,0,Brown,70,50,50
+709,Trevenant,166,,,,,,,,,,Elder Tree,1.5,71.0,60,14.8,"Grass,Amorphous",5140-5396,Medium Fast,0,2,0,0,0,0,Brown,70,50,50
+710,Pumpkaboo,67,,,,,,,,,,Pumpkin,0.3,3.5,120,24.9,Amorphous,5140-5396,Medium Fast,0,0,1,0,0,0,Brown,70,50,50
+711,Gourgeist,173,,,,,,,,,,Pumpkin,0.7,9.5,60,14.8,Amorphous,5140-5396,Medium Fast,0,0,2,0,0,0,Brown,70,50,50
+712,Bergmite,61,,,,,,,,,,Ice Chunk,1.0,99.5,190,35.2,"Monster,MineralGen VIII",5140-5396,Medium Fast,0,0,1,0,0,0,Blue,70,50,50
+713,Avalugg,180,,,,,,,,,,Iceberg,2.0,505.0,55,13.9,"Monster,MineralGen VIII",5140-5396,Medium Fast,0,0,2,0,0,0,Blue,70,50,50
+714,Noibat,49,,,,,,,,,,Sound Wave,0.5,8.0,190,35.2,"Flying,DragonGen VIII",5140-5396,Medium Fast,0,0,0,0,0,1,Purple,70,50,50
+715,Noivern,187,,,,,,,,,,Sound Wave,1.5,85.0,45,11.9,"Flying,DragonGen VIII",5140-5396,Medium Fast,0,0,0,0,0,2,Purple,70,50,50
+716,Xerneas,306,,,,,,,,,,Life,3.0,215.0,45,11.9,No Eggs Discovered,30840-31096,Slow,3,0,0,0,0,0,Blue,0,,
+717,Yveltal,306,,,,,,,,,,Destruction,5.8,203.0,45,11.9,No Eggs Discovered,30840-31096,Slow,3,0,0,0,0,0,Red,0,,
+718,Zygarde,270,,,,,,,,,,Order,5.0,305.0,3,1.6,No Eggs Discovered,30840-31096,Slow,3,0,0,0,0,0,Green,0,,
+719,Diancie,270,,,,,,,,,,Jewel,0.7,8.8,3,1.6,No Eggs Discovered,6425-6681,Slow,0,0,1,0,2,0,Pink,70,,
+720,Hoopa,270,,,,,,,,,,Mischief PokémonDjinn,0.5,9.0,3,1.6,No Eggs Discovered,30840-31096,Slow,0,0,0,3,0,0,Purple,100,,
+721,Volcanion,270,,,,,,,,,,Steam,1.7,195.0,3,1.6,No Eggs Discovered,30840-31096,Slow,0,0,0,3,0,0,Brown,100,,
+722,Rowlet,64,,,,,,,,,,Grass Quill,0.3,1.5,45,11.9,Flying,3855-4111,Medium Slow,1,0,0,0,0,0,Brown,70,87.5,12.5
+723,Dartrix,147,,,,,,,,,,Blade Quill,0.7,16.0,45,11.9,Flying,3855-4111,Medium Slow,2,0,0,0,0,0,Brown,70,87.5,12.5
+724,Decidueye,239,,,,,,,,,,Arrow Quill,1.6,36.6,45,11.9,Flying,3855-4111,Medium Slow,0,3,0,0,0,0,Brown,70,87.5,12.5
+725,Litten,64,,,,,,,,,,Fire Cat,0.4,4.3,45,11.9,Field,3855-4111,Medium Slow,0,0,0,0,0,1,Red,70,87.5,12.5
+726,Torracat,147,,,,,,,,,,Fire Cat,0.7,25.0,45,11.9,Field,3855-4111,Medium Slow,0,0,0,0,0,2,Red,70,87.5,12.5
+727,Incineroar,239,,,,,,,,,,Heel,1.8,83.0,45,11.9,Field,3855-4111,Medium Slow,0,3,0,0,0,0,Red,70,87.5,12.5
+728,Popplio,64,,,,,,,,,,Sea Lion,0.4,7.5,45,11.9,"Water 1,Field",3855-4111,Medium Slow,0,0,0,1,0,0,Blue,70,87.5,12.5
+729,Brionne,147,,,,,,,,,,Pop Star,0.6,17.5,45,11.9,"Water 1,Field",3855-4111,Medium Slow,0,0,0,2,0,0,Blue,70,87.5,12.5
+730,Primarina,239,,,,,,,,,,Soloist,1.8,44.0,45,11.9,"Water 1,Field",3855-4111,Medium Slow,0,0,0,3,0,0,Blue,70,87.5,12.5
+731,Pikipek,53,,,,,,,,,,Woodpecker,0.3,1.2,255,43.9,Flying,3855-4111,Medium Fast,0,1,0,0,0,0,Black,70,50,50
+732,Trumbeak,124,,,,,,,,,,Bugle Beak,0.6,14.8,120,24.9,Flying,3855-4111,Medium Fast,0,2,0,0,0,0,Black,70,50,50
+733,Toucannon,218,,,,,,,,,,Cannon,1.1,26.0,45,11.9,Flying,3855-4111,Medium Fast,0,3,0,0,0,0,Black,70,50,50
+734,Yungoos,51,,,,,,,,,,Loitering,0.4,6.0,255,43.9,Field,3855-4111,Medium Fast,0,1,0,0,0,0,Brown,70,50,50
+735,Gumshoos,146,,,,,,,,,,Stakeout,0.7,14.2,127,26,Field,3855-4111,Medium Fast,0,2,0,0,0,0,Brown,70,50,50
+736,Grubbin,60,,,,,,,,,,Larva,0.4,4.4,255,43.9,Bug,3855-4111,Medium Fast,0,1,0,0,0,0,Gray,70,50,50
+737,Charjabug,140,,,,,,,,,,Battery,0.5,10.5,120,24.9,Bug,3855-4111,Medium Fast,0,0,2,0,0,0,Green,70,50,50
+738,Vikavolt,225,,,,,,,,,,Stag Beetle,1.5,45.0,45,11.9,Bug,3855-4111,Medium Fast,0,0,0,3,0,0,Blue,70,50,50
+739,Crabrawler,68,,,,,,,,,,Boxing,0.6,7.0,225,39.9,Water 3,5140-5396,Medium Fast,0,1,0,0,0,0,Purple,70,50,50
+740,Crabominable,167,,,,,,,,,,Woolly Crab,1.7,180.0,60,14.8,Water 3,5140-5396,Medium Fast,0,2,0,0,0,0,White,70,50,50
+741,Oricorio,167,,,,,,,,,,Dancing,0.6,3.4,45,11.9,Flying,5140-5396,Medium Fast,0,0,0,2,0,0,Red,70,25,75
+742,Cutiefly,61,,,,,,,,,,Bee Fly,0.1,0.2,190,35.2,"Bug,Fairy",5140-5396,Medium Fast,0,0,0,0,0,1,Yellow,70,50,50
+743,Ribombee,162,,,,,,,,,,Bee Fly,0.2,0.5,75,17.5,"Bug,Fairy",5140-5396,Medium Fast,0,0,0,0,0,2,Yellow,70,50,50
+744,Rockruff,56,,,,,,,,,,Puppy,0.5,9.2,190,35.2,Field,3855-4111,Medium Fast,0,1,0,0,0,0,Brown,70,50,50
+745,Lycanroc,170,,,,,,,,,,Wolf,0.8,25.0,90,20.1,Field,3855-4111,Medium Fast,0,2,0,0,0,0,Brown,70,50,50
+746,Wishiwashi,61,,,,,,,,,,Small Fry,0.2,0.3,60,14.8,Water 2,3855-4111,Fast,1,0,0,0,0,0,Blue,70,50,50
+747,Mareanie,61,,,,,,,,,,Brutal Star,0.4,8.0,190,35.2,Water 1,5140-5396,Medium Fast,0,0,1,0,0,0,Blue,70,50,50
+748,Toxapex,173,,,,,,,,,,Brutal Star,0.7,14.5,75,17.5,Water 1,5140-5396,Medium Fast,0,0,2,0,0,0,Blue,70,50,50
+749,Mudbray,77,,,,,,,,,,Donkey,1.0,110.0,190,35.2,Field,5140-5396,Medium Fast,0,1,0,0,0,0,Brown,70,50,50
+750,Mudsdale,175,,,,,,,,,,Draft Horse,2.5,920.0,60,14.8,Field,5140-5396,Medium Fast,0,2,0,0,0,0,Brown,70,50,50
+751,Dewpider,54,,,,,,,,,,Water Bubble,0.3,4.0,200,36.6,"Water 1,Bug",3855-4111,Medium Fast,0,0,0,0,1,0,Green,70,50,50
+752,Araquanid,159,,,,,,,,,,Water Bubble,1.8,82.0,100,21.7,"Water 1,Bug",3855-4111,Medium Fast,0,0,0,0,2,0,Green,70,50,50
+753,Fomantis,50,,,,,,,,,,Sickle Grass,0.3,1.5,190,35.2,Grass,5140-5396,Medium Fast,0,1,0,0,0,0,Pink,70,50,50
+754,Lurantis,168,,,,,,,,,,Bloom Sickle,0.9,18.5,75,17.5,Grass,5140-5396,Medium Fast,0,2,0,0,0,0,Pink,70,50,50
+755,Morelull,57,,,,,,,,,,Illuminating,0.2,1.5,190,35.2,Grass,5140-5396,Medium Fast,0,0,0,0,1,0,Purple,70,50,50
+756,Shiinotic,142,,,,,,,,,,Illuminating,1.0,11.5,75,17.5,Grass,5140-5396,Medium Fast,0,0,0,0,2,0,Purple,70,50,50
+757,Salandit,64,,,,,,,,,,Toxic Lizard,0.6,4.8,120,24.9,"Monster,Dragon",5140-5396,Medium Fast,0,0,0,0,0,1,Black,70,87.5,12.5
+758,Salazzle,168,,,,,,,,,,Toxic Lizard,1.2,22.2,45,11.9,"Monster,Dragon",5140-5396,Medium Fast,0,0,0,0,0,2,Black,70,,
+759,Stufful,68,,,,,,,,,,Flailing,0.5,6.8,140,28,Field,3855-4111,Medium Fast,0,1,0,0,0,0,Pink,70,50,50
+760,Bewear,175,,,,,,,,,,Strong Arm,2.1,135.0,70,16.6,Field,3855-4111,Medium Fast,0,2,0,0,0,0,Pink,70,50,50
+761,Bounsweet,42,,,,,,,,,,Fruit,0.3,3.2,235,41.3,Grass,5140-5396,Medium Slow,1,0,0,0,0,0,Purple,70,,
+762,Steenee,102,,,,,,,,,,Fruit,0.7,8.2,120,24.9,Grass,5140-5396,Medium Slow,0,0,0,0,0,2,Purple,70,,
+763,Tsareena,230,,,,,,,,,,Fruit,1.2,21.4,45,11.9,Grass,5140-5396,Medium Slow,0,3,0,0,0,0,Purple,70,,
+764,Comfey,170,,,,,,,,,,Posy Picker,0.1,0.3,60,14.8,Grass,5140-5396,Fast,0,0,0,0,2,0,Green,70,25,75
+765,Oranguru,172,,,,,,,,,,Sage,1.5,76.0,45,11.9,Field,5140-5396,Slow,0,0,0,0,2,0,White,70,50,50
+766,Passimian,172,,,,,,,,,,Teamwork,2.0,82.8,45,11.9,Field,5140-5396,Slow,0,2,0,0,0,0,White,70,50,50
+767,Wimpod,46,,,,,,,,,,Turn Tail,0.5,12.0,90,20.1,"Bug,Water 3",5140-5396,Medium Fast,0,0,0,0,0,1,Gray,70,50,50
+768,Golisopod,186,,,,,,,,,,Hard Scale,2.0,108.0,45,11.9,"Bug,Water 3",5140-5396,Medium Fast,0,0,2,0,0,0,Gray,70,50,50
+769,Sandygast,64,,,,,,,,,,Sand Heap,0.5,70.0,140,28,Amorphous,3855-4111,Medium Fast,0,0,1,0,0,0,Brown,70,50,50
+770,Palossand,168,,,,,,,,,,Sand Castle,1.3,250.0,60,14.8,Amorphous,3855-4111,Medium Fast,0,0,2,0,0,0,Brown,70,50,50
+771,Pyukumuku,144,,,,,,,,,,Sea Cucumber,0.3,1.2,60,14.8,Water 1,3855-4111,Fast,0,0,0,0,2,0,Black,70,50,50
+772,Type: Null,107,,,,,,,,,,Synthetic,1.9,120.5,3,1.6,No Eggs Discovered,30840-31096,Slow,2,0,0,0,0,0,Gray,0,,
+773,Silvally,257,,,,,,,,,,Synthetic,2.3,100.5,3,1.6,No Eggs Discovered,30840-31096,Slow,3,0,0,0,0,0,Gray,0,,
+774,Minior,154,,,,,,,,,,Meteor,0.3,40.0,30,8.8,Mineral,6425-6681,Medium Slow,0,0,1,0,1,0,Brown,70,,
+775,Komala,168,,,,,,,,,,Drowsing,0.4,19.9,45,11.9,Field,5140-5396,Slow,0,2,0,0,0,0,Blue,70,50,50
+776,Turtonator,170,,,,,,,,,,Blast Turtle,2.0,212.0,70,16.6,"Monster,Dragon",5140-5396,Medium Fast,0,0,2,0,0,0,Red,70,50,50
+777,Togedemaru,152,,,,,,,,,,Roly-Poly,0.3,3.3,180,33.8,"Field,Fairy",2570-2826,Medium Fast,0,2,0,0,0,0,Gray,70,50,50
+778,Mimikyu,167,,,,,,,,,,Disguise,0.2,0.7,45,11.9,Amorphous,5140-5396,Medium Fast,0,0,0,0,2,0,Yellow,70,50,50
+779,Bruxish,166,,,,,,,,,,Gnash Teeth,0.9,19.0,80,18.4,Water 2,3855-4111,Medium Fast,0,2,0,0,0,0,Pink,70,50,50
+780,Drampa,170,,,,,,,,,,Placid,3.0,185.0,70,16.6,"Monster,Dragon",5140-5396,Medium Fast,0,0,0,2,0,0,White,70,50,50
+781,Dhelmise,181,,,,,,,,,,Sea Creeper,3.9,210.0,25,7.7,Mineral,6425-6681,Medium Fast,0,2,0,0,0,0,Green,70,,
+782,Jangmo-o,60,,,,,,,,,,Scaly,0.6,29.7,45,11.9,Dragon,10280-10536,Slow,0,0,1,0,0,0,Gray,70,50,50
+783,Hakamo-o,147,,,,,,,,,,Scaly,1.2,47.0,45,11.9,Dragon,10280-10536,Slow,0,0,2,0,0,0,Gray,70,50,50
+784,Kommo-o,270,,,,,,,,,,Scaly,1.6,78.2,45,11.9,Dragon,10280-10536,Slow,0,0,3,0,0,0,Gray,70,50,50
+785,Tapu Koko,257,,,,,,,,,,Land Spirit,1.8,20.5,3,1.6,No Eggs Discovered,3855-4111,Slow,0,0,0,0,0,3,Yellow,70,,
+786,Tapu Lele,257,,,,,,,,,,Land Spirit,1.2,18.6,3,1.6,No Eggs Discovered,3855-4111,Slow,0,0,0,3,0,0,Pink,70,,
+787,Tapu Bulu,257,,,,,,,,,,Land Spirit,1.9,45.5,3,1.6,No Eggs Discovered,3855-4111,Slow,0,3,0,0,0,0,Red,70,,
+788,Tapu Fini,257,,,,,,,,,,Land Spirit,1.3,21.2,3,1.6,No Eggs Discovered,3855-4111,Slow,0,0,0,0,3,0,Purple,70,,
+789,Cosmog,40,,,,,,,,,,Nebula,0.2,0.1,45,11.9,No Eggs Discovered,30840-31096,Slow,1,0,0,0,0,0,Blue,0,,
+790,Cosmoem,140,,,,,,,,,,Protostar,0.1,999.9,45,11.9,No Eggs Discovered,30840-31096,Slow,0,0,1,0,1,0,Blue,0,,
+791,Solgaleo,306,,,,,,,,,,Sunne,3.4,230.0,45,11.9,No Eggs Discovered,30840-31096,Slow,0,3,0,0,0,0,White,0,,
+792,Lunala,306,,,,,,,,,,Moone,4.0,120.0,45,11.9,No Eggs Discovered,30840-31096,Slow,0,0,0,3,0,0,Purple,0,,
+793,Nihilego,257,,,,,,,,,,Parasite,1.2,55.5,45,11.9,No Eggs Discovered,30840-31096,Slow,0,0,0,0,3,0,White,0,,
+794,Buzzwole,257,,,,,,,,,,Swollen,2.4,333.6,45,11.9,No Eggs Discovered,30840-31096,Slow,0,1,2,0,0,0,Red,0,,
+795,Pheromosa,257,,,,,,,,,,Lissome,1.8,25.0,45,11.9,No Eggs Discovered,30840-31096,Slow,0,0,0,0,0,3,White,0,,
+796,Xurkitree,257,,,,,,,,,,Glowing,3.8,100.0,45,11.9,No Eggs Discovered,30840-31096,Slow,0,0,0,3,0,0,Black,0,,
+797,Celesteela,257,,,,,,,,,,Launch,9.2,999.9,45,11.9,No Eggs Discovered,30840-31096,Slow,0,1,1,1,0,0,Green,0,,
+798,Kartana,257,,,,,,,,,,Drawn Sword,0.3,0.1,45,11.9,No Eggs Discovered,30840-31096,Slow,0,3,0,0,0,0,White,0,,
+799,Guzzlord,257,,,,,,,,,,Junkivore,5.5,888.0,45,11.9,No Eggs Discovered,30840-31096,Slow,3,0,0,0,0,0,Black,0,,
+800,Necrozma,270,,,,,,,,,,Prism,2.4,230.0,255,43.9,No Eggs Discovered,30840-31096,Slow,0,1,0,2,0,0,Black,0,,
+801,Magearna,270,,,,,,,,,,Artificial,1.0,80.5,3,1.6,No Eggs Discovered,30840-31096,Slow,0,0,0,3,0,0,Gray,0,,
+802,Marshadow,270,,,,,,,,,,Gloomdweller,0.7,22.2,3,1.6,No Eggs Discovered,30840-31096,Slow,0,2,0,0,0,1,Gray,0,,
+803,Poipole,189,,,,,,,,,,Poison Pin,0.6,1.8,45,11.9,No Eggs Discovered,30840-31096,Slow,0,0,0,0,0,1,Purple,0,,
+804,Naganadel,243,,,,,,,,,,Poison Pin,3.6,150.0,45,11.9,No Eggs Discovered,30840-31096,Slow,0,0,0,3,0,0,Purple,0,,
+805,Stakataka,257,,,,,,,,,,Rampart,5.5,820.0,30,8.8,No Eggs Discovered,30840-31096,Slow,0,0,3,0,0,0,Gray,0,,
+806,Blacephalon,257,,,,,,,,,,Fireworks,1.8,13.0,30,8.8,No Eggs Discovered,30840-31096,Slow,0,0,0,3,0,0,White,0,,
+807,Zeraora,270,,,,,,,,,,Thunderclap,1.5,44.5,3,1.6,No Eggs Discovered,30840-31096,Slow,0,0,0,0,0,3,Yellow,0,,
+808,Meltan,135,,,,,,,,,,Hex Nut,0.2,8.0,3,1.6,No Eggs Discovered,30840-31096,Slow,0,1,0,0,0,0,Gray,0,,
+809,Melmetal,270,,,,,,,,,,Hex Nut,2.5,800.0,3,1.6,No Eggs Discovered,30840-31096,Slow,0,3,0,0,0,0,Gray,Unknown,,
+810,Grookey,62,,,,,,,,,,Chimp,0.3,5.0,45,11.9,"Field,Grass",5140-5396,Medium Slow,0,1,0,0,0,0,Green,50,87.5,12.5
+811,Thwackey,147,,,,,,,,,,Beat,0.7,14.0,45,11.9,"Field,Grass",5140-5396,Medium Slow,0,2,0,0,0,0,Green,50,87.5,12.5
+812,Rillaboom,265,,,,,,,,,,Drummer,2.1,90.0,45,11.9,"Field,Grass",5140-5396,Medium Slow,0,3,0,0,0,0,Green,50,87.5,12.5
+813,Scorbunny,62,,,,,,,,,,Rabbit,0.3,4.5,45,11.9,"Field,Human-Like",5140-5396,Medium Slow,0,0,0,0,0,1,White,50,87.5,12.5
+814,Raboot,147,,,,,,,,,,Rabbit,0.6,9.0,45,11.9,"Field,Human-Like",5140-5396,Medium Slow,0,0,0,0,0,2,Gray,50,87.5,12.5
+815,Cinderace,265,,,,,,,,,,Striker,1.4,33.0,45,11.9,"Field,Human-Like",5140-5396,Medium Slow,0,0,0,0,0,3,White,50,87.5,12.5
+816,Sobble,62,,,,,,,,,,Water Lizard,0.3,4.0,45,11.9,"Water 1,Field",5140-5396,Medium Slow,0,0,0,0,1,1,Blue,50,87.5,12.5
+817,Drizzile,147,,,,,,,,,,Water Lizard,0.7,11.5,45,11.9,"Water 1,Field",5140-5396,Medium Slow,0,0,0,2,0,0,Blue,50,87.5,12.5
+818,Inteleon,265,,,,,,,,,,Secret Agent,1.9,45.2,45,11.9,"Water 1,Field",5140-5396,Medium Slow,0,0,0,0,0,3,Blue,50,87.5,12.5
+819,Skwovet,55,,,,,,,,,,Cheeky,0.3,2.5,255,43.9,Field,5140-5396,Medium Fast,1,0,0,0,0,0,Brown,50,50,50
+820,Greedent,161,,,,,,,,,,Greedy,0.6,6.0,90,20.1,Field,5140-5396,Medium Fast,2,0,0,0,0,0,Brown,50,50,50
+821,Rookidee,49,,,,,,,,,,Tiny Bird,0.2,1.8,255,43.9,Flying,3855-4111,Medium Slow,0,0,0,0,0,1,Blue,50,50,50
+822,Corvisquire,128,,,,,,,,,,Raven,0.8,16.0,120,24.9,Flying,3855-4111,Medium Slow,0,0,0,0,0,2,Blue,50,50,50
+823,Corviknight,248,,,,,,,,,,Raven,2.2,75.0,45,11.9,Flying,3855-4111,Medium Slow,0,0,3,0,0,0,Purple,50,50,50
+824,Blipbug,36,,,,,,,,,,Larva,0.4,8.0,255,43.9,Bug,3855-4111,Medium Fast,0,0,0,0,1,0,Blue,50,50,50
+825,Dottler,117,,,,,,,,,,Radome,0.4,19.5,120,24.9,Bug,3855-4111,Medium Fast,0,0,0,0,2,0,Yellow,50,50,50
+826,Orbeetle,253,,,,,,,,,,Seven Spot,0.4,40.8,45,11.9,Bug,3855-4111,Medium Fast,0,0,0,0,3,0,Red,50,50,50
+827,Nickit,49,,,,,,,,,,Fox,0.6,8.9,255,43.9,Field,3855-4111,Fast,0,0,0,0,1,0,Brown,50,50,50
+828,Thievul,159,,,,,,,,,,Fox,1.2,19.9,127,26,Field,3855-4111,Fast,0,0,0,0,2,0,Brown,50,50,50
+829,Gossifleur,50,,,,,,,,,,Flowering,0.4,2.2,190,35.2,Grass,5140-5396,Medium Fast,0,0,0,0,1,0,Green,50,50,50
+830,Eldegoss,161,,,,,,,,,,Cotton Bloom,0.5,2.5,75,17.5,Grass,5140-5396,Medium Fast,0,0,0,0,2,0,Green,50,50,50
+831,Wooloo,122,,,,,,,,,,Sheep,0.6,6.0,255,43.9,Field,3855-4111,Medium Fast,0,0,1,0,0,0,White,50,50,50
+832,Dubwool,172,,,,,,,,,,Sheep,1.3,43.0,127,26,Field,3855-4111,Medium Fast,0,0,2,0,0,0,White,50,50,50
+833,Chewtle,57,,,,,,,,,,Snapping,0.3,8.5,255,43.9,"Monster,Water 1",5140-5396,Medium Fast,0,1,0,0,0,0,Green,50,50,50
+834,Drednaw,170,,,,,,,,,,Bite,1.0,115.5,75,17.5,"Monster,Water 1",5140-5396,Medium Fast,0,2,0,0,0,0,Green,50,50,50
+835,Yamper,54,,,,,,,,,,Puppy,0.3,13.5,255,43.9,Field,5140-5396,Fast,1,0,0,0,0,0,Yellow,50,50,50
+836,Boltund,172,,,,,,,,,,Dog,1.0,34.0,45,11.9,Field,5140-5396,Fast,0,0,0,0,0,2,Yellow,50,50,50
+837,Rolycoly,48,,,,,,,,,,Coal,0.3,12.0,255,43.9,Mineral,3855-4111,Medium Slow,0,0,1,0,0,0,Black,50,50,50
+838,Carkol,144,,,,,,,,,,Coal,1.1,78.0,120,24.9,Mineral,3855-4111,Medium Slow,0,0,2,0,0,0,Black,50,50,50
+839,Coalossal,255,,,,,,,,,,Coal,2.8,310.5,45,11.9,Mineral,3855-4111,Medium Slow,0,0,3,0,0,0,Black,50,50,50
+840,Applin,52,,,,,,,,,,Apple Core,0.2,0.5,255,43.9,"Grass,Dragon",5140-5396,Erratic,0,0,1,0,0,0,Green,50,50,50
+841,Flapple,170,,,,,,,,,,Apple Wing,0.3,1.0,45,11.9,"Grass,Dragon",5140-5396,Erratic,0,2,0,0,0,0,Green,50,50,50
+842,Appletun,170,,,,,,,,,,Apple Nectar,0.4,13.0,45,11.9,"Grass,Dragon",5140-5396,Erratic,2,0,0,0,0,0,Green,50,50,50
+843,Silicobra,63,,,,,,,,,,Sand Snake,2.2,7.6,255,43.9,"Field,Dragon",5140-5396,Medium Fast,0,0,1,0,0,0,Green,50,50,50
+844,Sandaconda,179,,,,,,,,,,Sand Snake,3.8,65.5,120,24.9,"Field,Dragon",5140-5396,Medium Fast,0,0,2,0,0,0,Green,50,50,50
+845,Cramorant,166,,,,,,,,,,Gulp,0.8,18.0,45,11.9,"Water 1,Flying",5140-5396,Medium Fast,0,0,0,0,2,0,Blue,50,50,50
+846,Arrokuda,56,,,,,,,,,,Rush,0.5,1.0,255,43.9,Water 2,5140-5396,Slow,0,0,0,0,0,1,Brown,50,50,50
+847,Barraskewda,172,,,,,,,,,,Skewer,1.3,30.0,60,14.8,Water 2,5140-5396,Slow,0,0,0,0,0,2,Brown,50,50,50
+848,Toxel,48,,,,,,,,,,Baby,0.4,11.0,75,17.5,No Eggs Discovered,6425-6681,Medium Slow,0,0,0,1,0,0,Purple,50,50,50
+849,Toxtricity,176,,,,,,,,,,Punk,1.6,40.0,45,11.9,Human-Like,6425-6681,Medium Slow,0,0,0,2,0,0,Purple,50,50,50
+850,Sizzlipede,61,,,,,,,,,,Radiator,0.7,1.0,190,35.2,Bug,5140-5396,Medium Fast,0,1,0,0,0,0,Red,50,50,50
+851,Centiskorch,184,,,,,,,,,,Radiator,3.0,120.0,75,17.5,Bug,5140-5396,Medium Fast,0,2,0,0,0,0,Red,50,50,50
+852,Clobbopus,62,,,,,,,,,,Tantrum,0.6,4.0,180,33.8,"Water 1,Human-Like",6425-6681,Medium Slow,0,1,0,0,0,0,Brown,50,50,50
+853,Grapploct,168,,,,,,,,,,Jujitsu,1.6,39.0,45,11.9,"Water 1,Human-Like",6425-6681,Medium Slow,0,2,0,0,0,0,Blue,50,50,50
+854,Sinistea,62,,,,,,,,,,Black Tea,0.1,0.2,120,24.9,"Mineral,Amorphous",5140-5396,Medium Fast,0,0,0,1,0,0,Purple,50,,
+855,Polteageist,178,,,,,,,,,,Black Tea,0.2,0.4,60,14.8,"Mineral,Amorphous",5140-5396,Medium Fast,0,0,0,2,0,0,Purple,50,,
+856,Hatenna,53,,,,,,,,,,Calm,0.4,3.4,235,41.3,Fairy,5140-5396,Slow,0,0,0,1,0,0,Pink,50,,
+857,Hattrem,130,,,,,,,,,,Serene,0.6,4.8,120,24.9,Fairy,5140-5396,Slow,0,0,0,2,0,0,Pink,50,,
+858,Hatterene,255,,,,,,,,,,Silent,2.1,5.1,45,11.9,Fairy,5140-5396,Slow,0,0,0,3,0,0,Pink,50,,
+859,Impidimp,53,,,,,,,,,,Wily,0.4,5.5,255,43.9,"Fairy,Human-Like",5140-5396,Medium Fast,0,0,0,1,0,0,Pink,50,,
+860,Morgrem,130,,,,,,,,,,Devious,0.8,12.5,120,24.9,"Fairy,Human-Like",5140-5396,Medium Fast,0,0,0,2,0,0,Pink,50,,
+861,Grimmsnarl,255,,,,,,,,,,Bulk Up,1.5,61.0,45,11.9,"Fairy,Human-Like",5140-5396,Medium Fast,0,3,0,0,0,0,Purple,50,,
+862,Obstagoon,260,,,,,,,,,,Blocking,1.6,46.0,45,11.9,Field,3855-4111,Medium Fast,0,0,3,0,0,0,Gray,50,50,50
+863,Perrserker,154,,,,,,,,,,Viking,0.8,28.0,90,20.1,Field,5140-5396,Medium Fast,0,2,0,0,0,0,Brown,50,50,50
+864,Cursola,179,,,,,,,,,,Coral,1.0,0.4,30,8.8,"Water 1,Water 3",5140-5396,Fast,0,0,0,2,0,0,White,50,25,75
+865,Sirfetch'd,177,,,,,,,,,,Wild Duck,0.8,117.0,45,11.9,"Flying,Field",5140-5396,Medium Fast,0,2,0,0,0,0,White,50,50,50
+866,Mr. Rime,182,,,,,,,,,,Comedian,1.5,58.2,45,11.9,Human-Like,6425-6681,Medium Fast,0,0,0,3,0,0,Purple,50,50,50
+867,Runerigus,169,,,,,,,,,,Grudge,1.6,66.6,90,20.1,"Mineral,Amorphous",6425-6681,Medium Fast,0,0,2,0,0,0,Gray,50,50,50
+868,Milcery,54,,,,,,,,,,Cream,0.2,0.3,200,36.6,"Fairy,Amorphous",5140-5396,Medium Fast,0,0,0,0,1,0,White,50,,
+869,Alcremie,173,,,,,,,,,,Cream,0.3,0.5,100,21.7,"Fairy,Amorphous",5140-5396,Medium Fast,0,0,0,0,2,0,White,50,,
+870,Falinks,165,,,,,,,,,,Formation,3.0,62.0,45,11.9,"Fairy,Mineral",6425-6681,Medium Fast,0,2,0,0,1,0,Yellow,50,,
+871,Pincurchin,152,,,,,,,,,,Sea Urchin,0.3,1.0,75,17.5,"Water 1,Amorphous",5140-5396,Medium Fast,0,2,0,0,0,0,Purple,50,50,50
+872,Snom,37,,,,,,,,,,Worm,0.3,3.8,190,35.2,Bug,5140-5396,Medium Fast,0,0,0,1,0,0,White,50,50,50
+873,Frosmoth,166,,,,,,,,,,Frost Moth,1.3,42.0,75,17.5,Bug,5140-5396,Medium Fast,0,0,0,2,0,0,White,50,50,50
+874,Stonjourner,165,,,,,,,,,,Big Rock,2.5,520.0,60,14.8,Mineral,6425-6681,Slow,0,0,2,0,0,0,Gray,50,50,50
+875,Eiscue,165,,,,,,,,,,Penguin,1.4,89.0,60,14.8,"Water 1,Field",6425-6681,Slow,0,0,2,0,0,0,Blue,50,50,50
+876,Indeedee,166,,,,,,,,,,Emotion,0.9,28.0,30,8.8,Fairy,10280-10536,Fast,0,0,0,2,0,0,Purple,140,50,50
+877,Morpeko,153,,,,,,,,,,Two-Sided,0.3,3.0,180,33.8,"Field,Fairy",2570-2826,Medium Fast,0,0,0,0,0,2,Yellow,50,50,50
+878,Cufant,66,,,,,,,,,,Copperderm,1.2,100.0,190,35.2,"Field,Mineral",6425-6681,Medium Fast,0,1,0,0,0,0,Yellow,50,50,50
+879,Copperajah,175,,,,,,,,,,Copperderm,3.0,650.0,90,20.1,"Field,Mineral",6425-6681,Medium Fast,0,2,0,0,0,0,Green,50,50,50
+880,Dracozolt,177,,,,,,,,,,Fossil,1.8,190.0,45,11.9,No Eggs Discovered,8995-9251,Slow,0,2,0,0,0,0,Green,50,,
+881,Arctozolt,177,,,,,,,,,,Fossil,2.3,150.0,45,11.9,No Eggs Discovered,8995-9251,Slow,0,2,0,0,0,0,Blue,50,,
+882,Dracovish,177,,,,,,,,,,Fossil,2.3,215.0,45,11.9,No Eggs Discovered,8995-9251,Slow,0,0,2,0,0,0,Green,50,,
+883,Arctovish,177,,,,,,,,,,Fossil,2.0,175.0,45,11.9,No Eggs Discovered,8995-9251,Slow,0,0,2,0,0,0,Blue,50,,
+884,Duraludon,187,,,,,,,,,,Alloy,1.8,40.0,45,11.9,"Mineral,Dragon",7710-7966,Medium Fast,0,0,0,2,0,0,White,50,50,50
+885,Dreepy,54,,,,,,,,,,Lingering,0.5,2.0,45,11.9,"Amorphous,Dragon",10280-10536,Slow,0,0,0,0,0,1,Green,50,50,50
+886,Drakloak,144,,,,,,,,,,Caretaker,1.4,11.0,45,11.9,"Amorphous,Dragon",10280-10536,Slow,0,0,0,0,0,2,Green,50,50,50
+887,Dragapult,300,,,,,,,,,,Stealth,3.0,50.0,45,11.9,"Amorphous,Dragon",10280-10536,Slow,0,0,0,0,0,3,Green,50,50,50
+888,Zacian,335,,,,,,,,,,Warrior,2.8,110.0,10,3.9,No Eggs Discovered,30840-31096,Slow,0,0,0,0,0,3,Blue,0,,
+889,Zamazenta,335,,,,,,,,,,Warrior,2.9,210.0,10,3.9,No Eggs Discovered,30840-31096,Slow,0,0,0,0,0,3,Red,0,,
+890,Eternatus,345,,,,,,,,,,Gigantic,20.0,950.0,255,43.9,No Eggs Discovered,30840-31096,Slow,3,0,0,0,0,0,Purple,0,,
+891,Kubfu,77,,,,,,,,,,Wushu,0.6,12.0,3,1.6,No Eggs Discovered,30840-31096,Slow,0,1,0,0,0,0,Gray,50,87.5,12.5
+892,Urshifu,275,,,,,,,,,,Wushu,1.9,105.0,3,1.6,No Eggs Discovered,30840-31096,Slow,0,3,0,0,0,0,Gray,50,87.5,12.5
+893,Zarude,300,,,,,,,,,,Rogue Monkey,1.8,70.0,3,1.6,No Eggs Discovered,30840-31096,Slow,0,3,0,0,0,0,Black,0,,
+894,Regieleki,290,,,,,,,,,,Electron,1.2,145.0,3,1.6,No Eggs Discovered,30840-31096,Slow,0,0,0,0,0,3,Yellow,35,,
+895,Regidrago,290,,,,,,,,,,Dragon Orb,2.1,200.0,3,1.6,No Eggs Discovered,30840-31096,Slow,3,0,0,0,0,0,Green,35,,
+896,Glastrier,290,,,,,,,,,,Wild Horse,2.2,800.0,3,1.6,No Eggs Discovered,30840-31096,Slow,0,3,0,0,0,0,White,35,,
+897,Spectrier,290,,,,,,,,,,Swift Horse,2.0,44.5,3,1.6,No Eggs Discovered,30840-31096,Slow,0,0,0,3,0,0,Black,35,,
+898,Calyrex,250,,,,,,,,,,King PokémonHigh King,1.1,7.7,3,1.6,No Eggs Discovered,30840-31096,Slow,3,0,0,0,0,0,Green,100,,
+899,Wyrdeer,263,,,,,,,,,,Big Horn,1.8,95.1,45,11.9,Field,5140-5396,Slow,0,1,0,1,0,0,Gray,50,50,50
+900,Kleavor,175,,,,,,,,,,Axe,1.8,89.0,15,5.2,Bug,5140-5396,Medium Fast,0,2,0,0,0,0,Brown,50,50,50
+901,Ursaluna,275,,,,,,,,,,Peat,2.4,290.0,20,6.5,Field,5140-5396,Medium Fast,0,3,0,0,0,0,Brown,50,50,50
+902,Basculegion,265,,,,,,,,,,Big Fish,3.0,110.0,45,11.9,Water 2,5140-5396,Medium Fast,2,0,0,0,0,0,Green,50,50,50
+903,Sneasler,102,,,,,,,,,,Free Climb,1.3,43.0,20,6.5,Field,5140-5396,Medium Slow,0,1,0,0,0,1,Blue,50,50,50
+904,Overqwil,179,,,,,,,,,,Pin Cluster,2.5,60.5,45,11.9,Water 2,5140-5396,Medium Fast,0,2,0,0,0,0,Black,50,50,50
+905,Enamorus,116,,,,,,,,,,Love-Hate,1.6,48.0,3,1.6,No Eggs Discovered,5140-5396,Slow,0,0,0,3,0,0,Pink,50,,
+906,Sprigatito,62,,,,,,,,,,Grass Cat,0.4,4.1,45,11.9,"Field,Grass",5140-5396,Medium Slow,0,0,0,0,0,1,Green,50,87.5,12.5
+907,Floragato,144,,,,,,,,,,Grass Cat,0.9,12.2,45,11.9,"Field,Grass",5140-5396,Medium Slow,0,0,0,0,0,2,Green,50,87.5,12.5
+908,Meowscarada,265,,,,,,,,,,Magician,1.5,31.2,45,11.9,"Field,Grass",5140-5396,Medium Slow,0,0,0,0,0,3,Green,50,87.5,12.5
+909,Fuecoco,62,,,,,,,,,,Fire Croc,0.4,9.8,45,11.9,Field,5140-5396,Medium Slow,1,0,0,0,0,0,Red,50,87.5,12.5
+910,Crocalor,144,,,,,,,,,,Fire Croc,1.0,30.7,45,11.9,Field,5140-5396,Medium Slow,0,0,0,2,0,0,Red,50,87.5,12.5
+911,Skeledirge,265,,,,,,,,,,Singer,1.6,326.5,45,11.9,Field,5140-5396,Medium Slow,0,0,0,3,0,0,Red,50,87.5,12.5
+912,Quaxly,62,,,,,,,,,,Duckling,0.5,6.1,45,11.9,"Flying,Water 1",5140-5396,Medium Slow,0,1,0,0,0,0,White,50,87.5,12.5
+913,Quaxwell,144,,,,,,,,,,Practicing,1.2,21.5,45,11.9,"Flying,Water 1",5140-5396,Medium Slow,0,2,0,0,0,0,Blue,50,87.5,12.5
+914,Quaquaval,265,,,,,,,,,,Dancer,1.8,61.9,45,11.9,"Flying,Water 1",5140-5396,Medium Slow,0,3,0,0,0,0,Blue,50,87.5,12.5
+915,Lechonk,51,,,,,,,,,,Hog,0.5,10.2,255,43.9,Field,3855-4111,Medium Fast,1,0,0,0,0,0,Gray,50,50,50
+916,Oinkologne,171,,,,,,,,,,Hog,1.0,120.0,100,21.7,Field,3855-4111,Medium Fast,2,0,0,0,0,0,Gray,50,50,50
+917,Tarountula,42,,,,,,,,,,String Ball,0.3,4.0,255,43.9,Bug,3855-4111,Erratic,0,0,1,0,0,0,White,50,50,50
+918,Spidops,141,,,,,,,,,,Trap,1.0,16.5,120,24.9,Bug,3855-4111,Erratic,0,0,2,0,0,0,Green,50,50,50
+919,Nymble,42,,,,,,,,,,Grasshopper,0.2,1.0,190,35.2,Bug,5140-5396,Medium Fast,0,1,0,0,0,0,Gray,20,50,50
+920,Lokix,158,,,,,,,,,,Grasshopper,1.0,17.5,30,8.8,Bug,5140-5396,Medium Fast,0,2,0,0,0,0,Gray,0,50,50
+921,Pawmi,48,,,,,,,,,,Mouse,0.3,2.5,190,35.2,Field,3855-4111,Medium Fast,0,0,0,0,0,1,Yellow,50,50,50
+922,Pawmo,123,,,,,,,,,,Mouse,0.4,6.5,80,18.4,Field,3855-4111,Medium Fast,0,0,0,0,0,2,Yellow,50,50,50
+923,Pawmot,245,,,,,,,,,,Hands-On,0.9,41.0,45,11.9,Field,3855-4111,Medium Fast,0,3,0,0,0,0,Yellow,50,50,50
+924,Tandemaus,61,,,,,,,,,,Couple,0.3,1.8,150,29.5,"Field,Fairy",2570-2826,Fast,0,0,0,0,0,1,White,50,,
+925,Maushold,165,,,,,,,,,,Family,0.3,2.8,75,17.5,"Field,Fairy",2570-2826,Fast,0,0,0,0,0,2,White,50,,
+926,Fidough,62,,,,,,,,,,Puppy,0.3,10.9,190,35.2,"Field,Mineral",5140-5396,Medium Slow,0,0,0,0,0,1,Yellow,50,50,50
+927,Dachsbun,167,,,,,,,,,,Dog,0.5,14.9,90,20.1,"Field,Mineral",5140-5396,Medium Slow,0,0,0,0,0,2,Brown,50,50,50
+928,Smoliv,52,,,,,,,,,,Olive,0.3,6.5,255,43.9,Grass,5140-5396,Medium Slow,0,0,0,1,0,0,Green,50,50,50
+929,Dolliv,124,,,,,,,,,,Olive,0.6,11.9,120,24.9,Grass,5140-5396,Medium Slow,0,0,0,2,0,0,Green,50,50,50
+930,Arboliva,255,,,,,,,,,,Olive,1.4,48.2,45,11.9,Grass,5140-5396,Medium Slow,0,0,0,3,0,0,Green,50,50,50
+931,Squawkabilly,146,,,,,,,,,,Parrot,0.6,2.4,190,35.2,Flying,3855-4111,Erratic,0,1,0,0,0,0,Green,50,50,50
+932,Nacli,56,,,,,,,,,,Rock Salt,0.4,16.0,255,43.9,Mineral,5140-5396,Medium Slow,0,0,1,0,0,0,Brown,50,50,50
+933,Naclstack,124,,,,,,,,,,Rock Salt,0.6,105,120,24.9,Mineral,5140-5396,Medium Slow,0,0,2,0,0,0,Brown,50,50,50
+934,Garganacl,250,,,,,,,,,,Rock Salt,2.3,240.0,45,11.9,Mineral,5140-5396,Medium Slow,0,0,3,0,0,0,Brown,50,50,50
+935,Charcadet,51,,,,,,,,,,Fire Child,0.6,10.5,90,20.1,Human-Like,8995-9251,Slow,0,0,0,1,0,0,Red,50,50,50
+936,Armarouge,263,,,,,,,,,,Fire Warrior,1.5,85.0,25,7.7,Human-Like,8995-9251,Slow,0,0,0,2,0,0,Red,20,50,50
+937,Ceruledge,263,,,,,,,,,,Fire Blades,1.6,62.0,25,7.7,Human-Like,8995-9251,Slow,0,2,0,0,0,0,Blue,20,50,50
+938,Tadbulb,54,,,,,,,,,,EleTadpole,0.3,0.4,190,35.2,Water 1,5140-5396,Medium Fast,1,0,0,0,0,0,Yellow,50,50,50
+939,Bellibolt,173,,,,,,,,,,EleFrog,1.2,113.0,50,12.9,Water 1,5140-5396,Medium Fast,2,0,0,0,0,0,Green,50,50,50
+940,Wattrel,56,,,,,,,,,,Storm Petrel,0.4,3.6,180,33.8,"Water 1,Flying",5140-5396,Medium Slow,0,0,0,0,0,1,Black,50,50,50
+941,Kilowattrel,172,,,,,,,,,,Frigatebird,1.4,38.6,90,20.1,"Water 1,Flying",5140-5396,Medium Slow,0,0,0,0,0,2,Yellow,50,50,50
+942,Maschiff,68,,,,,,,,,,Rascal,0.5,16,150,29.5,Field,5140-5396,Medium Slow,0,1,0,0,0,0,Brown,50,50,50
+943,Mabosstiff,177,,,,,,,,,,Boss,1.1,61,75,17.5,Field,5140-5396,Medium Slow,0,2,0,0,0,0,Gray,50,50,50
+944,Shroodle,58,,,,,,,,,,Toxic Mouse,0.2,0.7,190,35.2,Field,5140-5396,Medium Slow,0,0,0,0,0,1,Gray,50,50,50
+945,Grafaiai,170,,,,,,,,,,Toxic Monkey,0.7,27.2,90,20.1,Field,5140-5396,Medium Slow,0,0,0,0,0,2,Gray,50,50,50
+946,Bramblin,55,,,,,,,,,,Tumbleweed,0.6,0.6,190,35.2,Grass,5140-5396,Medium Fast,0,1,0,0,0,0,Brown,50,50,50
+947,Brambleghast,168,,,,,,,,,,Tumbleweed,1.2,6.0,45,11.9,Grass,5140-5396,Medium Fast,0,2,0,0,0,0,Brown,50,50,50
+948,Toedscool,67,,,,,,,,,,Woodear,0.9,33.0,190,35.2,Grass,5140-5396,Medium Slow,0,0,0,0,1,0,Yellow,50,50,50
+949,Toedscruel,180,,,,,,,,,,Woodear,1.9,58.0,90,20.1,Grass,5140-5396,Medium Slow,0,0,0,0,2,0,Black,50,50,50
+950,Klawf,158,,,,,,,,,,Ambush,1.3,79.0,120,24.9,Water 3,8995-9251,Medium Fast,0,0,2,0,0,0,Red,50,50,50
+951,Capsakid,61,,,,,,,,,,Spicy Pepper,0.3,3,190,35.2,Grass,5140-5396,Medium Fast,0,1,0,0,0,0,Green,50,50,50
+952,Scovillain,170,,,,,,,,,,Spicy Pepper,0.9,15,75,17.5,Grass,5140-5396,Medium Fast,0,2,0,0,0,0,Green,50,50,50
+953,Rellor,54,,,,,,,,,,Rolling,0.2,1,190,35.2,Bug,5140-5396,Fast,0,0,1,0,0,0,Brown,50,50,50
+954,Rabsca,165,,,,,,,,,,Rolling,0.3,3.5,45,11.9,Bug,5140-5396,Fast,0,0,0,2,0,0,Green,50,50,50
+955,Flittle,51,,,,,,,,,,Frill,0.2,1.5,120,24.9,Flying,5140-5396,Medium Slow,0,0,0,0,0,1,Yellow,50,50,50
+956,Espathra,168,,,,,,,,,,Ostrich,1.9,90.0,60,14.8,Flying,5140-5396,Medium Slow,0,0,0,0,0,2,Yellow,50,50,50
+957,Tinkatink,59,,,,,,,,,,Metalsmith,0.4,8.9,190,35.2,Fairy,5140-5396,Medium Slow,0,0,0,0,1,0,Pink,50,,
+958,Tinkatuff,133,,,,,,,,,,Hammer,0.7,59.1,90,20.1,Fairy,5140-5396,Medium Slow,0,0,0,0,2,0,Pink,50,,
+959,Tinkaton,253,,,,,,,,,,Hammer,0.7,112.8,45,11.9,Fairy,5140-5396,Medium Slow,0,0,0,0,3,0,Pink,50,,
+960,Wiglett,49,,,,,,,,,,Garden Eel,1.2,1.8,255,43.9,Water 3,5140-5396,Medium Fast,0,0,0,0,0,1,White,50,50,50
+961,Wugtrio,149,,,,,,,,,,Garden Eel,1.2,5.4,50,12.9,Water 3,5140-5396,Medium Fast,0,0,0,0,0,2,Red,50,50,50
+962,Bombirdier,243,,,,,,,,,,Item Drop,1.5,42.9,25,7.7,Flying,8995-9251,Slow,0,2,0,0,0,0,White,50,50,50
+963,Finizen,63,,,,,,,,,,Dolphin,1.3,60.2,200,36.6,"Field,Water 2",10280-10536,Slow,0,0,0,0,0,1,Blue,50,50,50
+964,Palafin,160,,,,,,,,,,Dolphin PokémonHero,1.3,60.2,45,11.9,"Field,Water 2",10280-10536,Slow,2,0,0,0,0,0,Blue,50,50,50
+965,Varoom,60,,,,,,,,,,Single-Cyl,1,35,190,35.2,Mineral,5140-5396,Medium Fast,0,1,0,0,0,0,Gray,50,50,50
+966,Revavroom,175,,,,,,,,,,Multi-Cyl,1.8,120.0,75,17.5,Mineral,5140-5396,Medium Fast,0,2,0,0,0,0,Gray,50,50,50
+967,Cyclizar,175,,,,,,,,,,Mount,1.6,63.0,190,35.2,Field,7710-7966,Medium Slow,0,0,0,0,0,2,Green,50,50,50
+968,Orthworm,240,,,,,,,,,,Earthworm,2.5,310.0,25,7.7,Field,8995-9251,Slow,0,0,2,0,0,0,Pink,50,50,50
+969,Glimmet,70,,,,,,,,,,Ore,0.7,8.0,70,16.6,Mineral,7710-7966,Medium Slow,0,0,0,1,0,0,Blue,50,50,50
+970,Glimmora,184,,,,,,,,,,Ore,1.5,45.0,25,7.7,Mineral,7710-7966,Medium Slow,0,0,0,2,0,0,Blue,50,50,50
+971,Greavard,58,,,,,,,,,,Ghost Dog,0.6,35.0,120,24.9,Field,5140-5396,Medium Slow,0,1,0,0,0,0,White,50,50,50
+972,Houndstone,171,,,,,,,,,,Ghost Dog,2.0,15.0,60,14.8,Field,5140-5396,Medium Slow,0,2,0,0,0,0,White,50,50,50
+973,Flamigo,175,,,,,,,,,,Synchronize,1.6,37.0,100,21.7,Flying,5140-5396,Medium Slow,0,2,0,0,0,0,Pink,50,50,50
+974,Cetoddle,67,,,,,,,,,,Terra Whale,1.2,45.0,150,29.5,Field,6425-6681,Medium Slow,1,0,0,0,0,0,White,50,50,50
+975,Cetitan,182,,,,,,,,,,Terra Whale,4.5,700.0,50,12.9,Field,6425-6681,Medium Slow,2,0,0,0,0,0,White,50,50,50
+976,Veluza,167,,,,,,,,,,Jettison,2.5,90,100,21.7,Water 2,5140-5396,Fast,0,2,0,0,0,0,Gray,50,50,50
+977,Dondozo,265,,,,,,,,,,Big Catfish,12.0,220.0,25,7.7,Water 2,10280-10536,Slow,3,0,0,0,0,0,Blue,50,50,50
+978,Tatsugiri,166,,,,,,,,,,Mimicry,0.3,8.0,100,21.7,Water 2,8995-9251,Medium Slow,0,0,0,2,0,0,Pink,50,50,50
+979,Annihilape,268,,,,,,,,,,Rage Monkey,1.2,56.0,45,11.9,Field,5140-5396,Medium Fast,0,3,0,0,0,0,Gray,50,50,50
+980,Clodsire,151,,,,,,,,,,Spiny Fish,1.8,223.0,90,20.1,"Water 1,Field",5140-5396,Medium Fast,2,0,0,0,0,0,Brown,50,50,50
+981,Farigiraf,260,,,,,,,,,,Long Neck,3.2,160.0,45,11.9,Field,5140-5396,Medium Fast,3,0,0,0,0,0,Brown,50,50,50
+982,Dudunsparce,182,,,,,,,,,,Land Snake,3.6,39.2,45,11.9,Field,5140-5396,Medium Fast,2,0,0,0,0,0,Yellow,50,50,50
+983,Kingambit,275,,,,,,,,,,Big Blade,2.0,120.0,25,7.7,Human-Like,5140-5396,Medium Fast,0,3,0,0,0,0,Black,50,50,50
+984,Great Tusk,285,,,,,,,,,,Paradox,2.2,320.0,30,8.8,No Eggs Discovered,12850-13106,Slow,0,3,0,0,0,0,Purple,0,,
+985,Scream Tail,285,,,,,,,,,,Paradox,1.2,8.0,50,12.9,No Eggs Discovered,12850-13106,Slow,3,0,0,0,0,0,Pink,0,,
+986,Brute Bonnet,285,,,,,,,,,,Paradox,1.2,21.0,50,12.9,No Eggs Discovered,12850-13106,Slow,0,3,0,0,0,0,Gray,0,,
+987,Flutter Mane,285,,,,,,,,,,Paradox,1.4,4.0,30,8.8,No Eggs Discovered,12850-13106,Slow,0,0,0,1,1,1,Gray,0,,
+988,Slither Wing,285,,,,,,,,,,Paradox,3.2,92.0,30,8.8,No Eggs Discovered,12850-13106,Slow,0,3,0,0,0,0,Red,0,,
+989,Sandy Shocks,285,,,,,,,,,,Paradox,2.3,60.0,30,8.8,No Eggs Discovered,12850-13106,Slow,0,0,0,3,0,0,Gray,0,,
+990,Iron Treads,285,,,,,,,,,,Paradox,0.9,240.0,30,8.8,No Eggs Discovered,12850-13106,Slow,0,0,3,0,0,0,Gray,0,,
+991,Iron Bundle,285,,,,,,,,,,Paradox,0.6,11.0,50,12.9,No Eggs Discovered,12850-13106,Slow,0,0,0,0,0,3,Red,0,,
+992,Iron Hands,285,,,,,,,,,,Paradox,1.8,380.7,50,12.9,No Eggs Discovered,12850-13106,Slow,0,3,0,0,0,0,Gray,0,,
+993,Iron Jugulis,285,,,,,,,,,,Paradox,1.3,111.0,30,8.8,No Eggs Discovered,12850-13106,Slow,0,0,0,3,0,0,Blue,0,,
+994,Iron Moth,285,,,,,,,,,,Paradox,1.2,36.0,30,8.8,No Eggs Discovered,12850-13106,Slow,0,0,0,3,0,0,Yellow,0,,
+995,Iron Thorns,285,,,,,,,,,,Paradox,1.6,303.0,30,8.8,No Eggs Discovered,12850-13106,Slow,0,3,0,0,0,0,Green,0,,
+996,Frigibax,64,,,,,,,,,,Ice Fin,0.5,17.0,45,11.9,"Dragon,Mineral",10280-10536,Slow,0,1,0,0,0,0,Gray,50,50,50
+997,Arctibax,148,,,,,,,,,,Ice Fin,0.8,30.0,25,7.7,"Dragon,Mineral",10280-10536,Slow,0,2,0,0,0,0,Gray,50,50,50
+998,Baxcalibur,300,,,,,,,,,,Ice Dragon,2.1,210.0,10,3.9,"Dragon,Mineral",10280-10536,Slow,0,3,0,0,0,0,Gray,50,50,50
+999,Gimmighoul,60,,,,,,,,,,Coin Chest PokémonCoin Hunter,0.3,5.0,45,11.9,No Eggs Discovered,12850-13106,Slow,0,0,0,1,0,0,Brown,50,,
+1000,Gholdengo,275,,,,,,,,,,Coin Entity,1.2,30.0,45,11.9,No Eggs Discovered,12850-13106,Slow,0,0,0,2,0,0,Yellow,50,,
+1001,Wo-Chien,285,,,,,,,,,,Ruinous,1.5,74.2,6,2.6,No Eggs Discovered,12850-13106,Slow,0,0,0,0,3,0,Brown,0,,
+1002,Chien-Pao,285,,,,,,,,,,Ruinous,1.9,152.2,6,2.6,No Eggs Discovered,12850-13106,Slow,0,0,0,0,0,3,White,0,,
+1003,Ting-Lu,285,,,,,,,,,,Ruinous,2.7,699.7,6,2.6,No Eggs Discovered,12850-13106,Slow,0,0,3,0,0,0,Brown,0,,
+1004,Chi-Yu,285,,,,,,,,,,Ruinous,0.4,4.9,6,2.6,No Eggs Discovered,12850-13106,Slow,0,0,0,3,0,0,Red,0,,
+1005,Roaring Moon,295,,,,,,,,,,Paradox,2.0,380.0,10,3.9,No Eggs Discovered,12850-13106,Slow,0,3,0,0,0,0,Green,0,,
+1006,Iron Valiant,295,,,,,,,,,,Paradox,1.4,35.0,10,3.9,No Eggs Discovered,12850-13106,Slow,0,3,0,0,0,0,White,0,,
+1007,Koraidon,335,,,,,,,,,,Paradox,2.5,303.0,3,1.6,No Eggs Discovered,12850-13106,Slow,0,3,0,0,0,0,Red,0,,
+1008,Miraidon,335,,,,,,,,,,Paradox,3.5,240.0,3,1.6,No Eggs Discovered,12850-13106,Slow,0,0,0,3,0,0,Blue,0,,

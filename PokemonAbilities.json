@@ -1,0 +1,4399 @@
+{
+  "Fletchinder": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Flame Body"
+  }, 
+  "Sirfetch'd": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Steadfast"
+  }, 
+  "Seedot": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Chlorophyll"
+  }, 
+  "Buneary": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Run Away"
+  }, 
+  "Archeops": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Defeatist"
+  }, 
+  "Mandibuzz": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Big Pecks"
+  }, 
+  "Swellow": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Guts"
+  }, 
+  "Eevee": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Run Away"
+  }, 
+  "Torracat": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Blaze"
+  }, 
+  "Poliwrath": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Water Absorb"
+  }, 
+  "Emolga": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Static"
+  }, 
+  "Butterfree": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Compound Eyes"
+  }, 
+  "Gliscor": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Hyper Cutter"
+  }, 
+  "Wobbuffet": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Shadow Tag"
+  }, 
+  "Cresselia": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Levitate"
+  }, 
+  "Druddigon": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Rough Skin"
+  }, 
+  "Tangela": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Chlorophyll"
+  }, 
+  "Roggenrola": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sturdy"
+  }, 
+  "Oricorio": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Dancer"
+  }, 
+  "Frogadier": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Torrent"
+  }, 
+  "Cufant": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sheer Force"
+  }, 
+  "Absol": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Pressure"
+  }, 
+  "Rowlet": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Overgrow"
+  }, 
+  "Azurill": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Thick Fat"
+  }, 
+  "Silicobra": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sand Spit"
+  }, 
+  "Arceus": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Multitype"
+  }, 
+  "Magnemite": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Magnet Pull"
+  }, 
+  "Sceptile": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Overgrow"
+  }, 
+  "Linoone": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Pickup"
+  }, 
+  "Lillipup": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Vital Spirit"
+  }, 
+  "Cleffa": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Cute Charm"
+  }, 
+  "Lapras": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Water Absorb"
+  }, 
+  "Bronzor": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Levitate"
+  }, 
+  "Krookodile": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Intimidate"
+  }, 
+  "Mankey": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Vital Spirit"
+  }, 
+  "Mawile": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Hyper Cutter"
+  }, 
+  "Gothorita": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Frisk"
+  }, 
+  "Eiscue": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Ice Face"
+  }, 
+  "Palkia": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Pressure"
+  }, 
+  "Raticate": {
+    "second": "Cacophony", 
+    "first": "Run Away"
+  }, 
+  "Snubbull": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Intimidate"
+  }, 
+  "Sharpedo": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Rough Skin"
+  }, 
+  "Houndour": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Early Bird"
+  }, 
+  "Stoutland": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Intimidate"
+  }, 
+  "Vikavolt": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Levitate"
+  }, 
+  "Lurantis": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Leaf Guard"
+  }, 
+  "Aggron": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sturdy"
+  }, 
+  "Slowbro": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Oblivious"
+  }, 
+  "Slakoth": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Truant"
+  }, 
+  "Celebi": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Natural Cure"
+  }, 
+  "Ampharos": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Static"
+  }, 
+  "Omastar": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swift Swim"
+  }, 
+  "Skrelp": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Poison Point"
+  }, 
+  "Binacle": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sniper"
+  }, 
+  "Zorua": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Illusion"
+  }, 
+  "Ledian": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swarm"
+  }, 
+  "Walrein": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Thick Fat"
+  }, 
+  "Carkol": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Steam Engine"
+  }, 
+  "Basculin": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Reckless"
+  }, 
+  "Eelektrik": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Levitate"
+  }, 
+  "Eternatus": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Pressure"
+  }, 
+  "Durant": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swarm"
+  }, 
+  "Tapu Bulu": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Grassy Surge"
+  }, 
+  "Swirlix": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sweet Veil"
+  }, 
+  "Araquanid": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Water Bubble"
+  }, 
+  "Huntail": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swift Swim"
+  }, 
+  "Cosmog": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Unaware"
+  }, 
+  "Ambipom": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Technician"
+  }, 
+  "Piloswine": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Oblivious"
+  }, 
+  "Rufflet": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Keen Eye"
+  }, 
+  "Gabite": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sand Veil"
+  }, 
+  "Pansear": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Gluttony"
+  }, 
+  "Doduo": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Run Away"
+  }, 
+  "Rotom": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Levitate"
+  }, 
+  "Pansage": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Gluttony"
+  }, 
+  "Crawdaunt": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Hyper Cutter"
+  }, 
+  "Crobat": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Inner Focus"
+  }, 
+  "Hakamo-o": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Bulletproof"
+  }, 
+  "Swanna": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Keen Eye"
+  }, 
+  "Ducklett": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Keen Eye"
+  }, 
+  "Celesteela": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Beast Boost"
+  }, 
+  "Kommo-o": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Bulletproof"
+  }, 
+  "Skuntank": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Stench"
+  }, 
+  "Bibarel": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Simple"
+  }, 
+  "Meowstic": {
+    "second": "Cacophony", 
+    "first": "Keen Eye"
+  }, 
+  "Gothitelle": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Frisk"
+  }, 
+  "Squirtle": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Torrent"
+  }, 
+  "Exploud": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Soundproof"
+  }, 
+  "Wimpod": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Wimp Out"
+  }, 
+  "Skiploom": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Chlorophyll"
+  }, 
+  "Unfezant": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Big Pecks"
+  }, 
+  "Deino": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Hustle"
+  }, 
+  "Archen": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Defeatist"
+  }, 
+  "Mime Jr.": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Soundproof"
+  }, 
+  "Klang": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Plus"
+  }, 
+  "Remoraid": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Hustle"
+  }, 
+  "Seismitoad": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swift Swim"
+  }, 
+  "Swinub": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Oblivious"
+  }, 
+  "Misdreavus": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Levitate"
+  }, 
+  "Totodile": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Torrent"
+  }, 
+  "Maractus": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Water Absorb"
+  }, 
+  "Stufful": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Fluffy"
+  }, 
+  "Zebstrika": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Lightning Rod"
+  }, 
+  "Empoleon": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Torrent"
+  }, 
+  "Wooper": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Damp"
+  }, 
+  "Makuhita": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Thick Fat"
+  }, 
+  "Alakazam": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Synchronize"
+  }, 
+  "Dragalge": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Poison Point"
+  }, 
+  "Cherrim": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Flower Gift"
+  }, 
+  "Seel": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Thick Fat"
+  }, 
+  "Zamazenta": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Dauntless Shield"
+  }, 
+  "Salandit": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Corrosion"
+  }, 
+  "Klink": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Plus"
+  }, 
+  "Carbink": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Clear Body"
+  }, 
+  "Darmanitan": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sheer Force"
+  }, 
+  "Turtonator": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Shell Armor"
+  }, 
+  "Popplio": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Torrent"
+  }, 
+  "Thwackey": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Overgrow"
+  }, 
+  "Vanillish": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Ice Body"
+  }, 
+  "Reuniclus": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Overcoat"
+  }, 
+  "Rillaboom": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Overgrow"
+  }, 
+  "Lickitung": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Own Tempo"
+  }, 
+  "Tapu Koko": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Electric Surge"
+  }, 
+  "Magearna": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Soul-Heart"
+  }, 
+  "Snorunt": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Inner Focus"
+  }, 
+  "Aipom": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Run Away"
+  }, 
+  "Breloom": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Effect Spore"
+  }, 
+  "Skwovet": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Cheek Pouch"
+  }, 
+  "Drowzee": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Insomnia"
+  }, 
+  "Goldeen": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swift Swim"
+  }, 
+  "Pidgey": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Keen Eye"
+  }, 
+  "Yanma": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Speed Boost"
+  }, 
+  "Meowth": {
+    "second": "Cacophony", 
+    "first": "Pickup"
+  }, 
+  "Fennekin": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Blaze"
+  }, 
+  "Kirlia": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Synchronize"
+  }, 
+  "Torkoal": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "White Smoke"
+  }, 
+  "Espurr": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Keen Eye"
+  }, 
+  "Whismur": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Soundproof"
+  }, 
+  "Victreebel": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Chlorophyll"
+  }, 
+  "Skiddo": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sap Sipper"
+  }, 
+  "Genesect": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Download"
+  }, 
+  "Nidorino": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Poison Point"
+  }, 
+  "Nidorina": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Poison Point"
+  }, 
+  "Regigigas": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Slow Start"
+  }, 
+  "Tentacruel": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Clear Body"
+  }, 
+  "Lickilicky": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Own Tempo"
+  }, 
+  "Weepinbell": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Chlorophyll"
+  }, 
+  "Slurpuff": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sweet Veil"
+  }, 
+  "Tapu Fini": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Misty Surge"
+  }, 
+  "Necrozma": {
+    "second": "Neuroforce", 
+    "hidden": "Cacophony", 
+    "first": "Prism Armor"
+  }, 
+  "Dodrio": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Run Away"
+  }, 
+  "Dartrix": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Overgrow"
+  }, 
+  "Grookey": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Overgrow"
+  }, 
+  "Goodra": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sap Sipper"
+  }, 
+  "Alomomola": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Healer"
+  }, 
+  "Vespiquen": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Pressure"
+  }, 
+  "Trapinch": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Hyper Cutter"
+  }, 
+  "Cobalion": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Justified"
+  }, 
+  "Floatzel": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swift Swim"
+  }, 
+  "Electrode": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Soundproof"
+  }, 
+  "Gourgeist": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Pickup"
+  }, 
+  "Togepi": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Hustle"
+  }, 
+  "Copperajah": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sheer Force"
+  }, 
+  "Larvesta": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Flame Body"
+  }, 
+  "Solrock": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Levitate"
+  }, 
+  "Aegislash": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Stance Change"
+  }, 
+  "Stonjourner": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Power Spot"
+  }, 
+  "Woobat": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Unaware"
+  }, 
+  "Leavanny": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swarm"
+  }, 
+  "Trevenant": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Natural Cure"
+  }, 
+  "Sealeo": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Thick Fat"
+  }, 
+  "Bergmite": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Own Tempo"
+  }, 
+  "Clamperl": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Shell Armor"
+  }, 
+  "Octillery": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Suction Cups"
+  }, 
+  "Electabuzz": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Static"
+  }, 
+  "Venonat": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Compound Eyes"
+  }, 
+  "Treecko": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Overgrow"
+  }, 
+  "Pumpkaboo": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Pickup"
+  }, 
+  "Mr._Rime": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Tangled Feet"
+  }, 
+  "Pikachu": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Static"
+  }, 
+  "Zoroark": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Illusion"
+  }, 
+  "Jynx": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Oblivious"
+  }, 
+  "Galvantula": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Compound Eyes"
+  }, 
+  "Manaphy": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Hydration"
+  }, 
+  "Hitmonchan": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Keen Eye"
+  }, 
+  "Numel": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Oblivious"
+  }, 
+  "Bunnelby": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Pickup"
+  }, 
+  "Clefable": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Cute Charm"
+  }, 
+  "Cherubi": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Chlorophyll"
+  }, 
+  "Fletchling": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Big Pecks"
+  }, 
+  "Qwilfish": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Poison Point"
+  }, 
+  "Jangmo-o": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Bulletproof"
+  }, 
+  "Latias": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Levitate"
+  }, 
+  "Claydol": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Levitate"
+  }, 
+  "Sudowoodo": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sturdy"
+  }, 
+  "Hatterene": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Healer"
+  }, 
+  "Starmie": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Illuminate"
+  }, 
+  "Chinchou": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Volt Absorb"
+  }, 
+  "Steelix": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Rock Head"
+  }, 
+  "Lunala": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Shadow Shield"
+  }, 
+  "Phanpy": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Pickup"
+  }, 
+  "Ninetales": {
+    "second": "Cacophony", 
+    "first": "Flash Fire"
+  }, 
+  "Gulpin": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Liquid Ooze"
+  }, 
+  "Azumarill": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Thick Fat"
+  }, 
+  "Runerigus": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Wandering Spirit"
+  }, 
+  "Glalie": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Inner Focus"
+  }, 
+  "Camerupt": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Magma Armor"
+  }, 
+  "Jirachi": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Serene Grace"
+  }, 
+  "Mareanie": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Merciless"
+  }, 
+  "Joltik": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Compound Eyes"
+  }, 
+  "Hydreigon": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Levitate"
+  }, 
+  "Wingull": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Keen Eye"
+  }, 
+  "Golisopod": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Emergency Exit"
+  }, 
+  "Carracosta": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Solid Rock"
+  }, 
+  "Gallade": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Steadfast"
+  }, 
+  "Staryu": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Illuminate"
+  }, 
+  "Heliolisk": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Dry Skin"
+  }, 
+  "Thievul": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Run Away"
+  }, 
+  "Weezing": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Levitate"
+  }, 
+  "Swoobat": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Unaware"
+  }, 
+  "Mareep": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Static"
+  }, 
+  "Salazzle": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Corrosion"
+  }, 
+  "Spiritomb": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Pressure"
+  }, 
+  "Reshiram": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Turboblaze"
+  }, 
+  "Paras": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Effect Spore"
+  }, 
+  "Liepard": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Limber"
+  }, 
+  "Pidove": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Big Pecks"
+  }, 
+  "Sandslash": {
+    "second": "Cacophony", 
+    "first": "Sand Veil"
+  }, 
+  "Kangaskhan": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Early Bird"
+  }, 
+  "Magmortar": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Flame Body"
+  }, 
+  "Aron": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sturdy"
+  }, 
+  "Machamp": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Guts"
+  }, 
+  "Tympole": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swift Swim"
+  }, 
+  "Grotle": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Overgrow"
+  }, 
+  "Omanyte": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swift Swim"
+  }, 
+  "Slowpoke": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Oblivious"
+  }, 
+  "Abomasnow": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Snow Warning"
+  }, 
+  "Gligar": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Hyper Cutter"
+  }, 
+  "Exeggutor": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Chlorophyll"
+  }, 
+  "Frosmoth": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Shield Dust"
+  }, 
+  "Boltund": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Strong Jaw"
+  }, 
+  "Barboach": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Oblivious"
+  }, 
+  "Parasect": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Effect Spore"
+  }, 
+  "Cursola": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Weak Armor"
+  }, 
+  "Grovyle": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Overgrow"
+  }, 
+  "Minun": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Minus"
+  }, 
+  "Budew": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Natural Cure"
+  }, 
+  "Ditto": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Limber"
+  }, 
+  "Grubbin": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swarm"
+  }, 
+  "Eelektross": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Levitate"
+  }, 
+  "Sandygast": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Water Compaction"
+  }, 
+  "Dottler": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swarm"
+  }, 
+  "Mudkip": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Torrent"
+  }, 
+  "Mantyke": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swift Swim"
+  }, 
+  "Diancie": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Clear Body"
+  }, 
+  "Mesprit": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Levitate"
+  }, 
+  "Flab\u00e9b\u00e9": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Flower Veil"
+  }, 
+  "Bisharp": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Defiant"
+  }, 
+  "Toxtricity": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Punk Rock"
+  }, 
+  "Zangoose": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Immunity"
+  }, 
+  "Kyurem": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Pressure"
+  }, 
+  "Sigilyph": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Wonder Skin"
+  }, 
+  "Psyduck": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Damp"
+  }, 
+  "Florges": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Flower Veil"
+  }, 
+  "Nidoqueen": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Poison Point"
+  }, 
+  "Altaria": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Natural Cure"
+  }, 
+  "Jellicent": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Water Absorb"
+  }, 
+  "Chandelure": {
+    "second": "Shadow Tag", 
+    "hidden": "Cacophony", 
+    "first": "Flash Fire"
+  }, 
+  "Deoxys": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Pressure"
+  }, 
+  "Meloetta": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Serene Grace"
+  }, 
+  "Togekiss": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Hustle"
+  }, 
+  "Luxio": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Rivalry"
+  }, 
+  "Oranguru": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Inner Focus"
+  }, 
+  "Venusaur": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Overgrow"
+  }, 
+  "Tepig": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Blaze"
+  }, 
+  "Blastoise": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Torrent"
+  }, 
+  "Latios": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Levitate"
+  }, 
+  "Cubchoo": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Snow Cloak"
+  }, 
+  "Pachirisu": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Run Away"
+  }, 
+  "Fearow": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Keen Eye"
+  }, 
+  "Marill": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Thick Fat"
+  }, 
+  "Piplup": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Torrent"
+  }, 
+  "Bulbasaur": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Overgrow"
+  }, 
+  "Jigglypuff": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Cute Charm"
+  }, 
+  "Cascoon": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Shed Skin"
+  }, 
+  "Abra": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Synchronize"
+  }, 
+  "Ralts": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Synchronize"
+  }, 
+  "Muk": {
+    "second": "Cacophony", 
+    "first": "Stench"
+  }, 
+  "Boldore": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sturdy"
+  }, 
+  "Marshtomp": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Torrent"
+  }, 
+  "Throh": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Guts"
+  }, 
+  "Wartortle": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Torrent"
+  }, 
+  "Wigglytuff": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Cute Charm"
+  }, 
+  "Inteleon": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Torrent"
+  }, 
+  "Pignite": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Blaze"
+  }, 
+  "Deerling": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Chlorophyll"
+  }, 
+  "Magikarp": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swift Swim"
+  }, 
+  "Pawniard": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Defiant"
+  }, 
+  "Dusknoir": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Pressure"
+  }, 
+  "Baltoy": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Levitate"
+  }, 
+  "Pidgeotto": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Keen Eye"
+  }, 
+  "Rattata": {
+    "second": "Cacophony", 
+    "first": "Run Away"
+  }, 
+  "Girafarig": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Inner Focus"
+  }, 
+  "Granbull": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Intimidate"
+  }, 
+  "Kabutops": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swift Swim"
+  }, 
+  "Venipede": {
+    "second": "Quick Feet", 
+    "hidden": "Cacophony", 
+    "first": "Poison Point"
+  }, 
+  "Vulpix": {
+    "second": "Cacophony", 
+    "first": "Flash Fire"
+  }, 
+  "Sylveon": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Cute Charm"
+  }, 
+  "Haunter": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Levitate"
+  }, 
+  "Bellsprout": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Chlorophyll"
+  }, 
+  "Tangrowth": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Chlorophyll"
+  }, 
+  "Togedemaru": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Iron Barbs"
+  }, 
+  "Dedenne": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Cheek Pouch"
+  }, 
+  "Pheromosa": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Beast Boost"
+  }, 
+  "Nosepass": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sturdy"
+  }, 
+  "Type: Null": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Battle Armor"
+  }, 
+  "Slaking": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Truant"
+  }, 
+  "Spearow": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Keen Eye"
+  }, 
+  "Chikorita": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Overgrow"
+  }, 
+  "Scyther": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swarm"
+  }, 
+  "Honchkrow": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Insomnia"
+  }, 
+  "Lycanroc": {
+    "second": "Tough Claws", 
+    "first": "Keen Eye"
+  }, 
+  "Litten": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Blaze"
+  }, 
+  "Magnezone": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Magnet Pull"
+  }, 
+  "Togetic": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Hustle"
+  }, 
+  "Sewaddle": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swarm"
+  }, 
+  "Vigoroth": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Vital Spirit"
+  }, 
+  "Palossand": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Water Compaction"
+  }, 
+  "Corvisquire": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Keen Eye"
+  }, 
+  "Quagsire": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Damp"
+  }, 
+  "Duskull": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Levitate"
+  }, 
+  "Masquerain": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Intimidate"
+  }, 
+  "Luvdisc": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swift Swim"
+  }, 
+  "Aromatisse": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Healer"
+  }, 
+  "Phantump": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Natural Cure"
+  }, 
+  "Gyarados": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Intimidate"
+  }, 
+  "Axew": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Rivalry"
+  }, 
+  "Metapod": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Shed Skin"
+  }, 
+  "Spheal": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Thick Fat"
+  }, 
+  "Bayleef": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Overgrow"
+  }, 
+  "Heatran": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Flash Fire"
+  }, 
+  "Ponyta": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Run Away"
+  }, 
+  "Watchog": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Illuminate"
+  }, 
+  "Quilava": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Blaze"
+  }, 
+  "Taillow": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Guts"
+  }, 
+  "Hariyama": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Thick Fat"
+  }, 
+  "Ivysaur": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Overgrow"
+  }, 
+  "Chingling": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Levitate"
+  }, 
+  "Magcargo": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Magma Armor"
+  }, 
+  "Whiscash": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Oblivious"
+  }, 
+  "Vileplume": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Chlorophyll"
+  }, 
+  "Slowking": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Oblivious"
+  }, 
+  "Dustox": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Shield Dust"
+  }, 
+  "Lopunny": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Cute Charm"
+  }, 
+  "Charjabug": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Battery"
+  }, 
+  "Vanilluxe": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Ice Body"
+  }, 
+  "Beldum": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Clear Body"
+  }, 
+  "Bastiodon": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sturdy"
+  }, 
+  "Sandshrew": {
+    "second": "Cacophony", 
+    "first": "Sand Veil"
+  }, 
+  "Mudbray": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Own Tempo"
+  }, 
+  "Carvanha": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Rough Skin"
+  }, 
+  "Shroomish": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Effect Spore"
+  }, 
+  "Venomoth": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Shield Dust"
+  }, 
+  "Hawlucha": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Limber"
+  }, 
+  "Delibird": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Vital Spirit"
+  }, 
+  "Furret": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Run Away"
+  }, 
+  "Whimsicott": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Prankster"
+  }, 
+  "Grimmsnarl": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Prankster"
+  }, 
+  "Larvitar": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Guts"
+  }, 
+  "Medicham": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Pure Power"
+  }, 
+  "Furfrou": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Fur Coat"
+  }, 
+  "Guzzlord": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Beast Boost"
+  }, 
+  "Golbat": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Inner Focus"
+  }, 
+  "Gengar": {
+    "second": "Levitate", 
+    "hidden": "Cacophony", 
+    "first": "Cursed Body"
+  }, 
+  "Bouffalant": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Reckless"
+  }, 
+  "Chimecho": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Levitate"
+  }, 
+  "Pyroar": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Rivalry"
+  }, 
+  "Dewpider": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Water Bubble"
+  }, 
+  "Blitzle": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Lightning Rod"
+  }, 
+  "Primarina": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Torrent"
+  }, 
+  "Braviary": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Keen Eye"
+  }, 
+  "Lumineon": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swift Swim"
+  }, 
+  "Spoink": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Thick Fat"
+  }, 
+  "Finneon": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swift Swim"
+  }, 
+  "Elgyem": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Telepathy"
+  }, 
+  "Pichu": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Static"
+  }, 
+  "Tapu Lele": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Psychic Surge"
+  }, 
+  "Amaura": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Refrigerate"
+  }, 
+  "Crustle": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sturdy"
+  }, 
+  "Weavile": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Pressure"
+  }, 
+  "Gothita": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Frisk"
+  }, 
+  "Magby": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Flame Body"
+  }, 
+  "Smeargle": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Own Tempo"
+  }, 
+  "Gigalith": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sturdy"
+  }, 
+  "Keldeo": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Justified"
+  }, 
+  "Manectric": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Static"
+  }, 
+  "Bruxish": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Dazzling"
+  }, 
+  "Illumise": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Oblivious"
+  }, 
+  "Registeel": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Clear Body"
+  }, 
+  "Xatu": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Synchronize"
+  }, 
+  "Scraggy": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Shed Skin"
+  }, 
+  "Brionne": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Torrent"
+  }, 
+  "Poochyena": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Run Away"
+  }, 
+  "Silvally": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "RKS System"
+  }, 
+  "Azelf": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Levitate"
+  }, 
+  "Virizion": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Justified"
+  }, 
+  "Floette": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Flower Veil"
+  }, 
+  "Shuckle": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sturdy"
+  }, 
+  "Kakuna": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Shed Skin"
+  }, 
+  "Orbeetle": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swarm"
+  }, 
+  "Seaking": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swift Swim"
+  }, 
+  "Electrike": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Static"
+  }, 
+  "Minior": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Shields Down"
+  }, 
+  "Torterra": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Overgrow"
+  }, 
+  "Morelull": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Illuminate"
+  }, 
+  "Bounsweet": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Leaf Guard"
+  }, 
+  "Crabominable": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Hyper Cutter"
+  }, 
+  "Clawitzer": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Mega Launcher"
+  }, 
+  "Cyndaquil": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Blaze"
+  }, 
+  "Coalossal": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Steam Engine"
+  }, 
+  "Malamar": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Suction Cups"
+  }, 
+  "Staravia": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Intimidate"
+  }, 
+  "Entei": {
+    "second": "Flash Fire", 
+    "hidden": "Cacophony", 
+    "first": "Pressure"
+  }, 
+  "Prinplup": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Torrent"
+  }, 
+  "Beheeyem": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Telepathy"
+  }, 
+  "Dunsparce": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Serene Grace"
+  }, 
+  "Murkrow": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Insomnia"
+  }, 
+  "Braixen": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Blaze"
+  }, 
+  "Hattrem": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Healer"
+  }, 
+  "Spewpa": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Shed Skin"
+  }, 
+  "Dusclops": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Pressure"
+  }, 
+  "Ariados": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swarm"
+  }, 
+  "Foongus": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Effect Spore"
+  }, 
+  "Rookidee": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Keen Eye"
+  }, 
+  "Vullaby": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Big Pecks"
+  }, 
+  "Tsareena": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Leaf Guard"
+  }, 
+  "Yanmega": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Speed Boost"
+  }, 
+  "Simisage": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Gluttony"
+  }, 
+  "Cinderace": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Blaze"
+  }, 
+  "Sunflora": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Chlorophyll"
+  }, 
+  "Silcoon": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Shed Skin"
+  }, 
+  "Porygon-Z": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Adaptability"
+  }, 
+  "Lombre": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swift Swim"
+  }, 
+  "Volcarona": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Flame Body"
+  }, 
+  "Applin": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Ripen"
+  }, 
+  "Roserade": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Natural Cure"
+  }, 
+  "Corsola": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Hustle"
+  }, 
+  "Loudred": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Soundproof"
+  }, 
+  "Frillish": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Water Absorb"
+  }, 
+  "Kadabra": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Synchronize"
+  }, 
+  "Purugly": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Thick Fat"
+  }, 
+  "Uxie": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Levitate"
+  }, 
+  "Beedrill": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swarm"
+  }, 
+  "Regirock": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Clear Body"
+  }, 
+  "Drifblim": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Aftermath"
+  }, 
+  "Hitmonlee": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Limber"
+  }, 
+  "Gorebyss": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swift Swim"
+  }, 
+  "Mimikyu": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Disguise"
+  }, 
+  "Duraludon": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Light Metal"
+  }, 
+  "Lampent": {
+    "second": "Shadow Tag", 
+    "hidden": "Cacophony", 
+    "first": "Flash Fire"
+  }, 
+  "Cacturne": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sand Veil"
+  }, 
+  "Raichu": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Static"
+  }, 
+  "Musharna": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Forewarn"
+  }, 
+  "Emboar": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Blaze"
+  }, 
+  "Noivern": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Frisk"
+  }, 
+  "Blaziken": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Blaze"
+  }, 
+  "Mismagius": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Levitate"
+  }, 
+  "Rhydon": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Lightning Rod"
+  }, 
+  "Poliwhirl": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Water Absorb"
+  }, 
+  "Farfetch'd": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Keen Eye"
+  }, 
+  "Komala": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Comatose"
+  }, 
+  "Vivillon": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Shield Dust"
+  }, 
+  "Comfey": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Flower Veil"
+  }, 
+  "Ferrothorn": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Iron Barbs"
+  }, 
+  "Sunkern": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Chlorophyll"
+  }, 
+  "Eldegoss": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Cotton Down"
+  }, 
+  "Milotic": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Marvel Scale"
+  }, 
+  "Aerodactyl": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Rock Head"
+  }, 
+  "Gossifleur": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Cotton Down"
+  }, 
+  "Koffing": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Levitate"
+  }, 
+  "Toxapex": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Merciless"
+  }, 
+  "Infernape": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Blaze"
+  }, 
+  "Dhelmise": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Steelworker"
+  }, 
+  "Shellder": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Shell Armor"
+  }, 
+  "Skorupi": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Battle Armor"
+  }, 
+  "Chewtle": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Strong Jaw"
+  }, 
+  "Drizzile": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Torrent"
+  }, 
+  "Dratini": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Shed Skin"
+  }, 
+  "Starly": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Keen Eye"
+  }, 
+  "Aurorus": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Refrigerate"
+  }, 
+  "Mantine": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swift Swim"
+  }, 
+  "Pineco": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sturdy"
+  }, 
+  "Golett": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Iron Fist"
+  }, 
+  "Doublade": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "No Guard"
+  }, 
+  "Shellos": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sticky Hold"
+  }, 
+  "Bonsly": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sturdy"
+  }, 
+  "Leafeon": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Leaf Guard"
+  }, 
+  "Corphish": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Hyper Cutter"
+  }, 
+  "Arcanine": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Intimidate"
+  }, 
+  "Hippopotas": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sand Stream"
+  }, 
+  "Igglybuff": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Cute Charm"
+  }, 
+  "Noctowl": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Insomnia"
+  }, 
+  "Cofagrigus": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Mummy"
+  }, 
+  "Snorlax": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Immunity"
+  }, 
+  "Articuno": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Pressure"
+  }, 
+  "Roselia": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Natural Cure"
+  }, 
+  "Rhyperior": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Lightning Rod"
+  }, 
+  "Morgrem": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Prankster"
+  }, 
+  "Golem": {
+    "second": "Cacophony", 
+    "first": "Rock Head"
+  }, 
+  "Pinsir": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Hyper Cutter"
+  }, 
+  "Incineroar": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Blaze"
+  }, 
+  "Pangoro": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Iron Fist"
+  }, 
+  "Banette": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Insomnia"
+  }, 
+  "Whirlipede": {
+    "second": "Quick Feet", 
+    "hidden": "Cacophony", 
+    "first": "Poison Point"
+  }, 
+  "Mudsdale": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Own Tempo"
+  }, 
+  "Servine": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Overgrow"
+  }, 
+  "Purrloin": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Limber"
+  }, 
+  "Tauros": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Intimidate"
+  }, 
+  "Drakloak": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Clear Body"
+  }, 
+  "Shelgon": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Rock Head"
+  }, 
+  "Raikou": {
+    "second": "Volt Absorb", 
+    "hidden": "Cacophony", 
+    "first": "Pressure"
+  }, 
+  "Dracozolt": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Volt Absorb"
+  }, 
+  "Greninja": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Torrent"
+  }, 
+  "Arbok": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Intimidate"
+  }, 
+  "Toxel": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Rattled"
+  }, 
+  "Sizzlipede": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Flash Fire"
+  }, 
+  "Porygon2": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Trace"
+  }, 
+  "Mamoswine": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Oblivious"
+  }, 
+  "Trubbish": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Stench"
+  }, 
+  "Chansey": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Natural Cure"
+  }, 
+  "Cosmoem": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sturdy"
+  }, 
+  "Clauncher": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Mega Launcher"
+  }, 
+  "Plusle": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Plus"
+  }, 
+  "Geodude": {
+    "second": "Cacophony", 
+    "first": "Rock Head"
+  }, 
+  "Morpeko": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Hunger Switch"
+  }, 
+  "Politoed": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Water Absorb"
+  }, 
+  "Donphan": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sturdy"
+  }, 
+  "Noibat": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Frisk"
+  }, 
+  "Croagunk": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Anticipation"
+  }, 
+  "Primeape": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Vital Spirit"
+  }, 
+  "Hoothoot": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Insomnia"
+  }, 
+  "Relicanth": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swift Swim"
+  }, 
+  "Tyrogue": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Guts"
+  }, 
+  "Decidueye": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Overgrow"
+  }, 
+  "Sawsbuck": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Chlorophyll"
+  }, 
+  "Dialga": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Pressure"
+  }, 
+  "Cramorant": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Gulp Missile"
+  }, 
+  "Amoonguss": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Effect Spore"
+  }, 
+  "Jolteon": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Volt Absorb"
+  }, 
+  "Swablu": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Natural Cure"
+  }, 
+  "Flapple": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Ripen"
+  }, 
+  "Kricketot": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Shed Skin"
+  }, 
+  "Heatmor": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Gluttony"
+  }, 
+  "Golduck": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Damp"
+  }, 
+  "Chimchar": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Blaze"
+  }, 
+  "Chesnaught": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Overgrow"
+  }, 
+  "Sandile": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Intimidate"
+  }, 
+  "Raboot": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Blaze"
+  }, 
+  "Gible": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sand Veil"
+  }, 
+  "Ekans": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Intimidate"
+  }, 
+  "Umbreon": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Synchronize"
+  }, 
+  "Xurkitree": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Beast Boost"
+  }, 
+  "Flaaffy": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Static"
+  }, 
+  "Heracross": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swarm"
+  }, 
+  "Feraligatr": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Torrent"
+  }, 
+  "Toxicroak": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Anticipation"
+  }, 
+  "Voltorb": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Soundproof"
+  }, 
+  "Panpour": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Gluttony"
+  }, 
+  "Cottonee": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Prankster"
+  }, 
+  "Dragonite": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Inner Focus"
+  }, 
+  "Lileep": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Suction Cups"
+  }, 
+  "Vaporeon": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Water Absorb"
+  }, 
+  "Swadloon": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Leaf Guard"
+  }, 
+  "Dragonair": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Shed Skin"
+  }, 
+  "Snom": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Shield Dust"
+  }, 
+  "Smoochum": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Oblivious"
+  }, 
+  "Klinklang": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Plus"
+  }, 
+  "Impidimp": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Prankster"
+  }, 
+  "Terrakion": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Justified"
+  }, 
+  "Dubwool": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Fluffy"
+  }, 
+  "Conkeldurr": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Guts"
+  }, 
+  "Gastly": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Levitate"
+  }, 
+  "Mothim": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swarm"
+  }, 
+  "Toucannon": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Keen Eye"
+  }, 
+  "Teddiursa": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Pickup"
+  }, 
+  "Hypno": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Insomnia"
+  }, 
+  "Machoke": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Guts"
+  }, 
+  "Porygon": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Trace"
+  }, 
+  "Audino": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Healer"
+  }, 
+  "Jumpluff": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Chlorophyll"
+  }, 
+  "Drifloon": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Aftermath"
+  }, 
+  "Drapion": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Battle Armor"
+  }, 
+  "Probopass": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sturdy"
+  }, 
+  "Excadrill": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sand Rush"
+  }, 
+  "Bewear": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Fluffy"
+  }, 
+  "Solosis": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Overcoat"
+  }, 
+  "Gurdurr": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Guts"
+  }, 
+  "Arctovish": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Water Absorb"
+  }, 
+  "Timburr": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Guts"
+  }, 
+  "Steenee": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Leaf Guard"
+  }, 
+  "Sawk": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sturdy"
+  }, 
+  "Samurott": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Torrent"
+  }, 
+  "Patrat": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Run Away"
+  }, 
+  "Stunky": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Stench"
+  }, 
+  "Thundurus": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Prankster"
+  }, 
+  "Chespin": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Overgrow"
+  }, 
+  "Corviknight": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Pressure"
+  }, 
+  "Pancham": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Iron Fist"
+  }, 
+  "Spritzee": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Healer"
+  }, 
+  "Sableye": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Keen Eye"
+  }, 
+  "Seviper": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Shed Skin"
+  }, 
+  "Dugtrio": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sand Veil"
+  }, 
+  "Typhlosion": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Blaze"
+  }, 
+  "Golurk": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Iron Fist"
+  }, 
+  "Volcanion": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Water Absorb"
+  }, 
+  "Dwebble": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sturdy"
+  }, 
+  "Appletun": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Ripen"
+  }, 
+  "Scizor": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swarm"
+  }, 
+  "Persian": {
+    "second": "Cacophony", 
+    "first": "Limber"
+  }, 
+  "Nidoking": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Poison Point"
+  }, 
+  "Zapdos": {
+    "second": "Lightning Rod", 
+    "hidden": "Cacophony", 
+    "first": "Pressure"
+  }, 
+  "Ninjask": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Speed Boost"
+  }, 
+  "Charmander": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Blaze"
+  }, 
+  "Shiinotic": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Illuminate"
+  }, 
+  "Karrablast": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swarm"
+  }, 
+  "Nincada": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Compound Eyes"
+  }, 
+  "Grumpig": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Thick Fat"
+  }, 
+  "Moltres": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Pressure"
+  }, 
+  "Flareon": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Flash Fire"
+  }, 
+  "Crabrawler": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Hyper Cutter"
+  }, 
+  "Kabuto": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swift Swim"
+  }, 
+  "Hatenna": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Healer"
+  }, 
+  "Turtwig": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Overgrow"
+  }, 
+  "Chatot": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Keen Eye"
+  }, 
+  "Fraxure": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Rivalry"
+  }, 
+  "Stantler": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Intimidate"
+  }, 
+  "Shinx": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Rivalry"
+  }, 
+  "Zubat": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Inner Focus"
+  }, 
+  "Rockruff": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Keen Eye"
+  }, 
+  "Glameow": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Limber"
+  }, 
+  "Helioptile": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Dry Skin"
+  }, 
+  "Charizard": {
+    "hidden": "Cacophony", 
+    "first": "Blaze"
+  }, 
+  "Blipbug": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swarm"
+  }, 
+  "Cutiefly": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Honey Gather"
+  }, 
+  "Minccino": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Cute Charm"
+  }, 
+  "Tropius": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Chlorophyll"
+  }, 
+  "Zacian": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Intrepid Sword"
+  }, 
+  "Horsea": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swift Swim"
+  }, 
+  "Petilil": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Chlorophyll"
+  }, 
+  "Luxray": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Rivalry"
+  }, 
+  "Lotad": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swift Swim"
+  }, 
+  "Mienshao": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Inner Focus"
+  }, 
+  "Honedge": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "No Guard"
+  }, 
+  "Sentret": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Run Away"
+  }, 
+  "Snover": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Snow Warning"
+  }, 
+  "Gogoat": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sap Sipper"
+  }, 
+  "Flygon": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Levitate"
+  }, 
+  "Escavalier": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swarm"
+  }, 
+  "Rolycoly": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Steam Engine"
+  }, 
+  "Sliggoo": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sap Sipper"
+  }, 
+  "Marshadow": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Technician"
+  }, 
+  "Sandaconda": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sand Spit"
+  }, 
+  "Houndoom": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Early Bird"
+  }, 
+  "Kartana": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Beast Boost"
+  }, 
+  "Landorus": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sand Force"
+  }, 
+  "Zigzagoon": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Pickup"
+  }, 
+  "Lugia": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Pressure"
+  }, 
+  "Onix": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Rock Head"
+  }, 
+  "Clefairy": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Cute Charm"
+  }, 
+  "Grimer": {
+    "second": "Cacophony", 
+    "first": "Stench"
+  }, 
+  "Bagon": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Rock Head"
+  }, 
+  "Magneton": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Magnet Pull"
+  }, 
+  "Duosion": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Overcoat"
+  }, 
+  "Forretress": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sturdy"
+  }, 
+  "Skarmory": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Keen Eye"
+  }, 
+  "Burmy": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Shed Skin"
+  }, 
+  "Goomy": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sap Sipper"
+  }, 
+  "Volbeat": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Illuminate"
+  }, 
+  "Unown": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Levitate"
+  }, 
+  "Oddish": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Chlorophyll"
+  }, 
+  "Bronzong": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Levitate"
+  }, 
+  "Delcatty": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Cute Charm"
+  }, 
+  "Accelgor": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Hydration"
+  }, 
+  "Mightyena": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Intimidate"
+  }, 
+  "Caterpie": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Shield Dust"
+  }, 
+  "Growlithe": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Intimidate"
+  }, 
+  "Hoopa": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Magician"
+  }, 
+  "Munna": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Forewarn"
+  }, 
+  "Groudon": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Drought"
+  }, 
+  "Wynaut": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Shadow Tag"
+  }, 
+  "Kyogre": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Drizzle"
+  }, 
+  "Barraskewda": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swift Swim"
+  }, 
+  "Alcremie": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sweet Veil"
+  }, 
+  "Grapploct": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Limber"
+  }, 
+  "Rayquaza": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Air Lock"
+  }, 
+  "Diglett": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sand Veil"
+  }, 
+  "Diggersby": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Pickup"
+  }, 
+  "Garchomp": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sand Veil"
+  }, 
+  "Skitty": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Cute Charm"
+  }, 
+  "Pincurchin": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Lightning Rod"
+  }, 
+  "Zekrom": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Teravolt"
+  }, 
+  "Wurmple": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Shield Dust"
+  }, 
+  "Pikipek": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Keen Eye"
+  }, 
+  "Cinccino": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Cute Charm"
+  }, 
+  "Tentacool": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Clear Body"
+  }, 
+  "Scrafty": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Shed Skin"
+  }, 
+  "Lilligant": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Chlorophyll"
+  }, 
+  "Wailmer": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Water Veil"
+  }, 
+  "Dewott": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Torrent"
+  }, 
+  "Magmar": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Flame Body"
+  }, 
+  "Indeedee": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Inner Focus"
+  }, 
+  "Lucario": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Steadfast"
+  }, 
+  "Rampardos": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Mold Breaker"
+  }, 
+  "Feebas": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swift Swim"
+  }, 
+  "Charmeleon": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Blaze"
+  }, 
+  "Buizel": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swift Swim"
+  }, 
+  "Scolipede": {
+    "second": "Quick Feet", 
+    "hidden": "Cacophony", 
+    "first": "Poison Point"
+  }, 
+  "Serperior": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Overgrow"
+  }, 
+  "Shieldon": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sturdy"
+  }, 
+  "Pyukumuku": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Innards Out"
+  }, 
+  "Victini": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Victory Star"
+  }, 
+  "Phione": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Hydration"
+  }, 
+  "Froslass": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Snow Cloak"
+  }, 
+  "Oshawott": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Torrent"
+  }, 
+  "Staraptor": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Intimidate"
+  }, 
+  "Giratina": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Pressure"
+  }, 
+  "Beartic": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Snow Cloak"
+  }, 
+  "Cloyster": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Shell Armor"
+  }, 
+  "Yungoos": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Stakeout"
+  }, 
+  "Obstagoon": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Reckless"
+  }, 
+  "Vibrava": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Levitate"
+  }, 
+  "Salamence": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Intimidate"
+  }, 
+  "Arctozolt": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Volt Absorb"
+  }, 
+  "Drampa": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Berserk"
+  }, 
+  "Meditite": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Pure Power"
+  }, 
+  "Yamask": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Mummy"
+  }, 
+  "Garbodor": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Stench"
+  }, 
+  "Marowak": {
+    "second": "Cacophony", 
+    "first": "Rock Head"
+  }, 
+  "Glaceon": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Snow Cloak"
+  }, 
+  "Litleo": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Rivalry"
+  }, 
+  "Surskit": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swift Swim"
+  }, 
+  "Croconaw": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Torrent"
+  }, 
+  "Graveler": {
+    "second": "Cacophony", 
+    "first": "Rock Head"
+  }, 
+  "Happiny": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Natural Cure"
+  }, 
+  "Darkrai": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Bad Dreams"
+  }, 
+  "Arrokuda": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swift Swim"
+  }, 
+  "Mew": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Synchronize"
+  }, 
+  "Hippowdon": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sand Stream"
+  }, 
+  "Centiskorch": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Flash Fire"
+  }, 
+  "Bellossom": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Chlorophyll"
+  }, 
+  "Perrserker": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Battle Armor"
+  }, 
+  "Blissey": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Natural Cure"
+  }, 
+  "Xerneas": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Fairy Aura"
+  }, 
+  "Darumaka": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Hustle"
+  }, 
+  "Metagross": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Clear Body"
+  }, 
+  "Tyrunt": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Strong Jaw"
+  }, 
+  "Palpitoad": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swift Swim"
+  }, 
+  "Lanturn": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Volt Absorb"
+  }, 
+  "Litwick": {
+    "second": "Shadow Tag", 
+    "hidden": "Cacophony", 
+    "first": "Flash Fire"
+  }, 
+  "Quilladin": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Overgrow"
+  }, 
+  "Zweilous": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Hustle"
+  }, 
+  "Beautifly": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swarm"
+  }, 
+  "Poliwag": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Water Absorb"
+  }, 
+  "Delphox": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Blaze"
+  }, 
+  "Herdier": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Intimidate"
+  }, 
+  "Buzzwole": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Beast Boost"
+  }, 
+  "Pelipper": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Keen Eye"
+  }, 
+  "Avalugg": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Own Tempo"
+  }, 
+  "Talonflame": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Flame Body"
+  }, 
+  "Swalot": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Liquid Ooze"
+  }, 
+  "Zygarde": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Aura Break"
+  }, 
+  "Inkay": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Suction Cups"
+  }, 
+  "Meganium": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Overgrow"
+  }, 
+  "Monferno": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Blaze"
+  }, 
+  "Mr. Mime": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Soundproof"
+  }, 
+  "Greedent": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Cheek Pouch"
+  }, 
+  "Barbaracle": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sniper"
+  }, 
+  "Wailord": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Water Veil"
+  }, 
+  "Yveltal": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Dark Aura"
+  }, 
+  "Nihilego": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Beast Boost"
+  }, 
+  "Simisear": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Gluttony"
+  }, 
+  "Mienfoo": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Inner Focus"
+  }, 
+  "Wormadam": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Anticipation"
+  }, 
+  "Shelmet": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Hydration"
+  }, 
+  "Elekid": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Static"
+  }, 
+  "Ribombee": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Honey Gather"
+  }, 
+  "Ursaring": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Guts"
+  }, 
+  "Anorith": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Battle Armor"
+  }, 
+  "Tyrantrum": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Strong Jaw"
+  }, 
+  "Gardevoir": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Synchronize"
+  }, 
+  "Tynamo": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Levitate"
+  }, 
+  "Combee": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Honey Gather"
+  }, 
+  "Krokorok": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Intimidate"
+  }, 
+  "Stunfisk": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Static"
+  }, 
+  "Mewtwo": {
+    "hidden": "Cacophony", 
+    "first": "Pressure"
+  }, 
+  "Tranquill": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Big Pecks"
+  }, 
+  "Riolu": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Steadfast"
+  }, 
+  "Combusken": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Blaze"
+  }, 
+  "Drilbur": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sand Rush"
+  }, 
+  "Scatterbug": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Shield Dust"
+  }, 
+  "Castform": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Forecast"
+  }, 
+  "Clobbopus": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Limber"
+  }, 
+  "Fomantis": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Leaf Guard"
+  }, 
+  "Spinda": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Own Tempo"
+  }, 
+  "Cradily": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Suction Cups"
+  }, 
+  "Pidgeot": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Keen Eye"
+  }, 
+  "Trumbeak": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Keen Eye"
+  }, 
+  "Dragapult": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Clear Body"
+  }, 
+  "Kingler": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Hyper Cutter"
+  }, 
+  "Exeggcute": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Chlorophyll"
+  }, 
+  "Klefki": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Prankster"
+  }, 
+  "Lunatone": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Levitate"
+  }, 
+  "Swampert": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Torrent"
+  }, 
+  "Sinistea": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Weak Armor"
+  }, 
+  "Vanillite": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Ice Body"
+  }, 
+  "Rapidash": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Run Away"
+  }, 
+  "Lairon": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sturdy"
+  }, 
+  "Ho-Oh": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Pressure"
+  }, 
+  "Krabby": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Hyper Cutter"
+  }, 
+  "Electivire": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Motor Drive"
+  }, 
+  "Suicune": {
+    "second": "Water Absorb", 
+    "hidden": "Cacophony", 
+    "first": "Pressure"
+  }, 
+  "Seadra": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Poison Point"
+  }, 
+  "Tirtouga": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Solid Rock"
+  }, 
+  "Nidoran\u2640": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Poison Point"
+  }, 
+  "Nidoran\u2642": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Poison Point"
+  }, 
+  "Slugma": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Magma Armor"
+  }, 
+  "Hoppip": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Chlorophyll"
+  }, 
+  "Wooloo": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Fluffy"
+  }, 
+  "Tornadus": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Prankster"
+  }, 
+  "Polteageist": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Weak Armor"
+  }, 
+  "Metang": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Clear Body"
+  }, 
+  "Gastrodon": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sticky Hold"
+  }, 
+  "Gloom": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Chlorophyll"
+  }, 
+  "Sobble": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Torrent"
+  }, 
+  "Natu": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Synchronize"
+  }, 
+  "Carnivine": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Levitate"
+  }, 
+  "Shaymin": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Natural Cure"
+  }, 
+  "Tyranitar": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sand Stream"
+  }, 
+  "Passimian": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Receiver"
+  }, 
+  "Falinks": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Battle Armor"
+  }, 
+  "Bidoof": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Simple"
+  }, 
+  "Solgaleo": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Full Metal Body"
+  }, 
+  "Munchlax": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Pickup"
+  }, 
+  "Pupitar": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Shed Skin"
+  }, 
+  "Nuzleaf": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Chlorophyll"
+  }, 
+  "Haxorus": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Rivalry"
+  }, 
+  "Weedle": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Shield Dust"
+  }, 
+  "Shuppet": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Insomnia"
+  }, 
+  "Kricketune": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swarm"
+  }, 
+  "Miltank": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Thick Fat"
+  }, 
+  "Snivy": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Overgrow"
+  }, 
+  "Machop": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Guts"
+  }, 
+  "Spinarak": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swarm"
+  }, 
+  "Froakie": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Torrent"
+  }, 
+  "Cacnea": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sand Veil"
+  }, 
+  "Nickit": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Run Away"
+  }, 
+  "Simipour": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Gluttony"
+  }, 
+  "Cranidos": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Mold Breaker"
+  }, 
+  "Dewgong": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Thick Fat"
+  }, 
+  "Kecleon": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Color Change"
+  }, 
+  "Shiftry": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Chlorophyll"
+  }, 
+  "Scorbunny": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Blaze"
+  }, 
+  "Cryogonal": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Levitate"
+  }, 
+  "Ludicolo": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swift Swim"
+  }, 
+  "Rhyhorn": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Lightning Rod"
+  }, 
+  "Torchic": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Blaze"
+  }, 
+  "Yamper": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Ball Fetch"
+  }, 
+  "Regice": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Clear Body"
+  }, 
+  "Armaldo": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Battle Armor"
+  }, 
+  "Espeon": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Synchronize"
+  }, 
+  "Milcery": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Sweet Veil"
+  }, 
+  "Gumshoos": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Stakeout"
+  }, 
+  "Cubone": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Rock Head"
+  }, 
+  "Ferroseed": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Iron Barbs"
+  }, 
+  "Drednaw": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Strong Jaw"
+  }, 
+  "Dreepy": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Clear Body"
+  }, 
+  "Shedinja": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Wonder Guard"
+  }, 
+  "Wishiwashi": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Schooling"
+  }, 
+  "Sneasel": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Inner Focus"
+  }, 
+  "Ledyba": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swarm"
+  }, 
+  "Hitmontop": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Intimidate"
+  }, 
+  "Dracovish": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Water Absorb"
+  }, 
+  "Kingdra": {
+    "second": "Cacophony", 
+    "hidden": "Cacophony", 
+    "first": "Swift Swim"
+  }
+}
