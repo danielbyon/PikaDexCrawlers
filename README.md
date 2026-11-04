@@ -15,3 +15,10 @@ To update PikaDex's source revision, review the crawler change, update the
 source reference in PikaDex, check every manifest-declared input checksum, and
 run the documented generation and native verification workflow. A changed
 input is not approved by changing the pin alone.
+
+## Migration record
+
+The extraction preserved the imported source bytes, including inherited
+trailing whitespace in 40 files. The accepted exception is limited to the
+exact paths listed in [MIGRATION.md](MIGRATION.md). New source, configuration,
+and documentation continue to use the repository's normal whitespace checks.
