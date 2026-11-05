@@ -1,0 +1,11 @@
+# Cached third-party pages are excluded by path from current and history scans.
+title = "PikaDexCrawlers security scan"
+
+[extend]
+useDefault = true
+
+[allowlist]
+description = "Exclude local cached third-party web pages"
+paths = [
+  '''(^|/)Cached/''',
+]

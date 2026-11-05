@@ -1,0 +1,3912 @@
+{
+  "Bulbasaur": {
+    "first": "Overgrow",
+    "hidden": "Chlorophyll"
+  },
+  "Ivysaur": {
+    "first": "Overgrow",
+    "hidden": "Chlorophyll"
+  },
+  "Venusaur": {
+    "first": "Overgrow",
+    "hidden": "Chlorophyll"
+  },
+  "Charmander": {
+    "first": "Blaze",
+    "hidden": "Solar Power"
+  },
+  "Charmeleon": {
+    "first": "Blaze",
+    "hidden": "Solar Power"
+  },
+  "Charizard": {
+    "first": "Blaze",
+    "hidden": "Solar Power"
+  },
+  "Squirtle": {
+    "first": "Torrent",
+    "hidden": "Rain Dish"
+  },
+  "Wartortle": {
+    "first": "Torrent",
+    "hidden": "Rain Dish"
+  },
+  "Blastoise": {
+    "first": "Torrent",
+    "hidden": "Rain Dish"
+  },
+  "Caterpie": {
+    "first": "Shield Dust",
+    "hidden": "Run Away"
+  },
+  "Metapod": {
+    "first": "Shed Skin"
+  },
+  "Butterfree": {
+    "first": "Compound Eyes",
+    "hidden": "Tinted Lens"
+  },
+  "Weedle": {
+    "first": "Shield Dust",
+    "hidden": "Run Away"
+  },
+  "Kakuna": {
+    "first": "Shed Skin"
+  },
+  "Beedrill": {
+    "first": "Swarm",
+    "hidden": "Sniper"
+  },
+  "Pidgey": {
+    "first": "Keen Eye",
+    "hidden": "Big Pecks"
+  },
+  "Pidgeotto": {
+    "first": "Keen Eye",
+    "hidden": "Big Pecks"
+  },
+  "Pidgeot": {
+    "first": "Keen Eye",
+    "hidden": "Big Pecks"
+  },
+  "Rattata": {
+    "first": "Run Away",
+    "second": "Thick Fat"
+  },
+  "Raticate": {
+    "first": "Run Away",
+    "second": "Thick Fat"
+  },
+  "Spearow": {
+    "first": "Keen Eye",
+    "hidden": "Sniper"
+  },
+  "Fearow": {
+    "first": "Keen Eye",
+    "hidden": "Sniper"
+  },
+  "Ekans": {
+    "first": "Intimidate",
+    "hidden": "Unnerve"
+  },
+  "Arbok": {
+    "first": "Intimidate",
+    "hidden": "Unnerve"
+  },
+  "Pikachu": {
+    "first": "Static",
+    "hidden": "Lightning Rod"
+  },
+  "Raichu": {
+    "first": "Static",
+    "second": "Lightning Rod"
+  },
+  "Sandshrew": {
+    "first": "Sand Veil",
+    "second": "Slush Rush"
+  },
+  "Sandslash": {
+    "first": "Sand Veil",
+    "second": "Slush Rush"
+  },
+  "Nidoran\u2640": {
+    "first": "Poison Point",
+    "hidden": "Hustle"
+  },
+  "Nidorina": {
+    "first": "Poison Point",
+    "hidden": "Hustle"
+  },
+  "Nidoqueen": {
+    "first": "Poison Point",
+    "hidden": "Sheer Force"
+  },
+  "Nidoran\u2642": {
+    "first": "Poison Point",
+    "hidden": "Hustle"
+  },
+  "Nidorino": {
+    "first": "Poison Point",
+    "hidden": "Hustle"
+  },
+  "Nidoking": {
+    "first": "Poison Point",
+    "hidden": "Sheer Force"
+  },
+  "Clefairy": {
+    "first": "Cute Charm",
+    "hidden": "Friend Guard"
+  },
+  "Clefable": {
+    "first": "Cute Charm",
+    "hidden": "Unaware"
+  },
+  "Vulpix": {
+    "first": "Flash Fire",
+    "second": "Snow Warning"
+  },
+  "Ninetales": {
+    "first": "Flash Fire",
+    "second": "Snow Warning"
+  },
+  "Jigglypuff": {
+    "first": "Cute Charm",
+    "hidden": "Friend Guard"
+  },
+  "Wigglytuff": {
+    "first": "Cute Charm",
+    "hidden": "Frisk"
+  },
+  "Zubat": {
+    "first": "Inner Focus",
+    "hidden": "Infiltrator"
+  },
+  "Golbat": {
+    "first": "Inner Focus",
+    "hidden": "Infiltrator"
+  },
+  "Oddish": {
+    "first": "Chlorophyll",
+    "hidden": "Run Away"
+  },
+  "Gloom": {
+    "first": "Chlorophyll",
+    "hidden": "Stench"
+  },
+  "Vileplume": {
+    "first": "Chlorophyll",
+    "hidden": "Effect Spore"
+  },
+  "Paras": {
+    "first": "Effect Spore",
+    "hidden": "Damp"
+  },
+  "Parasect": {
+    "first": "Effect Spore",
+    "hidden": "Damp"
+  },
+  "Venonat": {
+    "first": "Compound Eyes",
+    "hidden": "Run Away"
+  },
+  "Venomoth": {
+    "first": "Shield Dust",
+    "hidden": "Wonder Skin"
+  },
+  "Diglett": {
+    "first": "Sand Veil",
+    "second": "Sand Veil",
+    "hidden": "Sand Force"
+  },
+  "Dugtrio": {
+    "first": "Sand Veil",
+    "second": "Sand Veil",
+    "hidden": "Sand Force"
+  },
+  "Meowth": {
+    "first": "Pickup",
+    "second": "Rattled"
+  },
+  "Persian": {
+    "first": "Limber",
+    "second": "Rattled"
+  },
+  "Psyduck": {
+    "first": "Damp",
+    "hidden": "Swift Swim"
+  },
+  "Golduck": {
+    "first": "Damp",
+    "hidden": "Swift Swim"
+  },
+  "Mankey": {
+    "first": "Vital Spirit",
+    "hidden": "Defiant"
+  },
+  "Primeape": {
+    "first": "Vital Spirit",
+    "hidden": "Defiant"
+  },
+  "Growlithe": {
+    "first": "Intimidate",
+    "second": "Rock Head"
+  },
+  "Arcanine": {
+    "first": "Intimidate",
+    "second": "Rock Head"
+  },
+  "Poliwag": {
+    "first": "Water Absorb",
+    "hidden": "Swift Swim"
+  },
+  "Poliwhirl": {
+    "first": "Water Absorb",
+    "hidden": "Swift Swim"
+  },
+  "Poliwrath": {
+    "first": "Water Absorb",
+    "hidden": "Swift Swim"
+  },
+  "Abra": {
+    "first": "Synchronize",
+    "hidden": "Magic Guard"
+  },
+  "Kadabra": {
+    "first": "Synchronize",
+    "hidden": "Magic Guard"
+  },
+  "Alakazam": {
+    "first": "Synchronize",
+    "hidden": "Magic Guard"
+  },
+  "Machop": {
+    "first": "Guts",
+    "hidden": "Steadfast"
+  },
+  "Machoke": {
+    "first": "Guts",
+    "hidden": "Steadfast"
+  },
+  "Machamp": {
+    "first": "Guts",
+    "hidden": "Steadfast"
+  },
+  "Bellsprout": {
+    "first": "Chlorophyll",
+    "hidden": "Gluttony"
+  },
+  "Weepinbell": {
+    "first": "Chlorophyll",
+    "hidden": "Gluttony"
+  },
+  "Victreebel": {
+    "first": "Chlorophyll",
+    "hidden": "Gluttony"
+  },
+  "Tentacool": {
+    "first": "Clear Body",
+    "hidden": "Rain Dish"
+  },
+  "Tentacruel": {
+    "first": "Clear Body",
+    "hidden": "Rain Dish"
+  },
+  "Geodude": {
+    "first": "Rock Head",
+    "second": "Galvanize"
+  },
+  "Graveler": {
+    "first": "Rock Head",
+    "second": "Galvanize"
+  },
+  "Golem": {
+    "first": "Rock Head",
+    "second": "Galvanize"
+  },
+  "Ponyta": {
+    "first": "Run Away",
+    "second": "Anticipation"
+  },
+  "Rapidash": {
+    "first": "Run Away",
+    "second": "Anticipation"
+  },
+  "Slowpoke": {
+    "first": "Oblivious",
+    "second": "Gluttony",
+    "hidden": "Regenerator"
+  },
+  "Slowbro": {
+    "first": "Oblivious",
+    "second": "Quick Draw",
+    "hidden": "Regenerator"
+  },
+  "Magnemite": {
+    "first": "Magnet Pull",
+    "hidden": "Analytic"
+  },
+  "Magneton": {
+    "first": "Magnet Pull",
+    "hidden": "Analytic"
+  },
+  "Farfetch'd": {
+    "first": "Keen Eye",
+    "second": "Scrappy"
+  },
+  "Doduo": {
+    "first": "Run Away",
+    "hidden": "Tangled Feet"
+  },
+  "Dodrio": {
+    "first": "Run Away",
+    "hidden": "Tangled Feet"
+  },
+  "Seel": {
+    "first": "Thick Fat",
+    "hidden": "Ice Body"
+  },
+  "Dewgong": {
+    "first": "Thick Fat",
+    "hidden": "Ice Body"
+  },
+  "Grimer": {
+    "first": "Stench",
+    "second": "Power of Alchemy"
+  },
+  "Muk": {
+    "first": "Stench",
+    "second": "Power of Alchemy"
+  },
+  "Shellder": {
+    "first": "Shell Armor",
+    "hidden": "Overcoat"
+  },
+  "Cloyster": {
+    "first": "Shell Armor",
+    "hidden": "Overcoat"
+  },
+  "Gastly": {
+    "first": "Levitate"
+  },
+  "Haunter": {
+    "first": "Levitate"
+  },
+  "Gengar": {
+    "first": "Cursed Body",
+    "second": "Levitate"
+  },
+  "Onix": {
+    "first": "Rock Head",
+    "hidden": "Weak Armor"
+  },
+  "Drowzee": {
+    "first": "Insomnia",
+    "hidden": "Inner Focus"
+  },
+  "Hypno": {
+    "first": "Insomnia",
+    "hidden": "Inner Focus"
+  },
+  "Krabby": {
+    "first": "Hyper Cutter",
+    "hidden": "Sheer Force"
+  },
+  "Kingler": {
+    "first": "Hyper Cutter",
+    "hidden": "Sheer Force"
+  },
+  "Voltorb": {
+    "first": "Soundproof",
+    "hidden": "Aftermath"
+  },
+  "Electrode": {
+    "first": "Soundproof",
+    "hidden": "Aftermath"
+  },
+  "Exeggcute": {
+    "first": "Chlorophyll",
+    "hidden": "Harvest"
+  },
+  "Exeggutor": {
+    "first": "Chlorophyll",
+    "second": "Frisk",
+    "hidden": "Harvest"
+  },
+  "Cubone": {
+    "first": "Rock Head",
+    "hidden": "Battle Armor"
+  },
+  "Marowak": {
+    "first": "Rock Head",
+    "second": "Rock Head"
+  },
+  "Hitmonlee": {
+    "first": "Limber",
+    "hidden": "Unburden"
+  },
+  "Hitmonchan": {
+    "first": "Keen Eye",
+    "hidden": "Inner Focus"
+  },
+  "Lickitung": {
+    "first": "Own Tempo",
+    "hidden": "Cloud Nine"
+  },
+  "Koffing": {
+    "first": "Levitate",
+    "second": "Stench"
+  },
+  "Weezing": {
+    "first": "Levitate",
+    "second": "Misty Surge"
+  },
+  "Rhyhorn": {
+    "first": "Lightning Rod",
+    "hidden": "Reckless"
+  },
+  "Rhydon": {
+    "first": "Lightning Rod",
+    "hidden": "Reckless"
+  },
+  "Chansey": {
+    "first": "Natural Cure",
+    "hidden": "Healer"
+  },
+  "Tangela": {
+    "first": "Chlorophyll",
+    "hidden": "Regenerator"
+  },
+  "Kangaskhan": {
+    "first": "Early Bird",
+    "hidden": "Inner Focus"
+  },
+  "Horsea": {
+    "first": "Swift Swim",
+    "hidden": "Damp"
+  },
+  "Seadra": {
+    "first": "Poison Point",
+    "hidden": "Damp"
+  },
+  "Goldeen": {
+    "first": "Swift Swim",
+    "hidden": "Lightning Rod"
+  },
+  "Seaking": {
+    "first": "Swift Swim",
+    "hidden": "Lightning Rod"
+  },
+  "Staryu": {
+    "first": "Illuminate",
+    "hidden": "Analytic"
+  },
+  "Starmie": {
+    "first": "Illuminate",
+    "hidden": "Analytic"
+  },
+  "Mr. Mime": {
+    "first": "Soundproof",
+    "second": "Ice Body"
+  },
+  "Scyther": {
+    "first": "Swarm",
+    "hidden": "Steadfast"
+  },
+  "Jynx": {
+    "first": "Oblivious",
+    "hidden": "Dry Skin"
+  },
+  "Electabuzz": {
+    "first": "Static",
+    "hidden": "Vital Spirit"
+  },
+  "Magmar": {
+    "first": "Flame Body",
+    "hidden": "Vital Spirit"
+  },
+  "Pinsir": {
+    "first": "Hyper Cutter",
+    "hidden": "Moxie"
+  },
+  "Tauros": {
+    "first": "Intimidate",
+    "second": "Cud Chew"
+  },
+  "Magikarp": {
+    "first": "Swift Swim",
+    "hidden": "Rattled"
+  },
+  "Gyarados": {
+    "first": "Intimidate",
+    "hidden": "Moxie"
+  },
+  "Lapras": {
+    "first": "Water Absorb",
+    "hidden": "Hydration"
+  },
+  "Ditto": {
+    "first": "Limber",
+    "hidden": "Imposter"
+  },
+  "Eevee": {
+    "first": "Run Away",
+    "hidden": "Anticipation"
+  },
+  "Vaporeon": {
+    "first": "Water Absorb",
+    "hidden": "Hydration"
+  },
+  "Jolteon": {
+    "first": "Volt Absorb",
+    "hidden": "Quick Feet"
+  },
+  "Flareon": {
+    "first": "Flash Fire",
+    "hidden": "Guts"
+  },
+  "Porygon": {
+    "first": "Trace",
+    "hidden": "Analytic"
+  },
+  "Omanyte": {
+    "first": "Swift Swim",
+    "hidden": "Weak Armor"
+  },
+  "Omastar": {
+    "first": "Swift Swim",
+    "hidden": "Weak Armor"
+  },
+  "Kabuto": {
+    "first": "Swift Swim",
+    "hidden": "Weak Armor"
+  },
+  "Kabutops": {
+    "first": "Swift Swim",
+    "hidden": "Weak Armor"
+  },
+  "Aerodactyl": {
+    "first": "Rock Head",
+    "hidden": "Unnerve"
+  },
+  "Snorlax": {
+    "first": "Immunity",
+    "hidden": "Gluttony"
+  },
+  "Articuno": {
+    "first": "Pressure",
+    "second": "Snow Cloak"
+  },
+  "Zapdos": {
+    "first": "Pressure",
+    "second": "Lightning Rod"
+  },
+  "Moltres": {
+    "first": "Pressure",
+    "second": "Flame Body"
+  },
+  "Dratini": {
+    "first": "Shed Skin",
+    "hidden": "Marvel Scale"
+  },
+  "Dragonair": {
+    "first": "Shed Skin",
+    "hidden": "Marvel Scale"
+  },
+  "Dragonite": {
+    "first": "Inner Focus",
+    "hidden": "Multiscale"
+  },
+  "Mewtwo": {
+    "first": "Pressure",
+    "hidden": "Unnerve"
+  },
+  "Mew": {
+    "first": "Synchronize"
+  },
+  "Chikorita": {
+    "first": "Overgrow",
+    "hidden": "Leaf Guard"
+  },
+  "Bayleef": {
+    "first": "Overgrow",
+    "hidden": "Leaf Guard"
+  },
+  "Meganium": {
+    "first": "Overgrow",
+    "hidden": "Leaf Guard"
+  },
+  "Cyndaquil": {
+    "first": "Blaze",
+    "hidden": "Flash Fire"
+  },
+  "Quilava": {
+    "first": "Blaze",
+    "hidden": "Flash Fire"
+  },
+  "Typhlosion": {
+    "first": "Blaze",
+    "second": "Frisk"
+  },
+  "Totodile": {
+    "first": "Torrent",
+    "hidden": "Sheer Force"
+  },
+  "Croconaw": {
+    "first": "Torrent",
+    "hidden": "Sheer Force"
+  },
+  "Feraligatr": {
+    "first": "Torrent",
+    "hidden": "Sheer Force"
+  },
+  "Sentret": {
+    "first": "Run Away",
+    "hidden": "Frisk"
+  },
+  "Furret": {
+    "first": "Run Away",
+    "hidden": "Frisk"
+  },
+  "Hoothoot": {
+    "first": "Insomnia",
+    "hidden": "Tinted Lens"
+  },
+  "Noctowl": {
+    "first": "Insomnia",
+    "hidden": "Tinted Lens"
+  },
+  "Ledyba": {
+    "first": "Swarm",
+    "hidden": "Rattled"
+  },
+  "Ledian": {
+    "first": "Swarm",
+    "hidden": "Iron Fist"
+  },
+  "Spinarak": {
+    "first": "Swarm",
+    "hidden": "Sniper"
+  },
+  "Ariados": {
+    "first": "Swarm",
+    "hidden": "Sniper"
+  },
+  "Crobat": {
+    "first": "Inner Focus",
+    "hidden": "Infiltrator"
+  },
+  "Chinchou": {
+    "first": "Volt Absorb",
+    "hidden": "Water Absorb"
+  },
+  "Lanturn": {
+    "first": "Volt Absorb",
+    "hidden": "Water Absorb"
+  },
+  "Pichu": {
+    "first": "Static",
+    "hidden": "Lightning Rod"
+  },
+  "Cleffa": {
+    "first": "Cute Charm",
+    "hidden": "Friend Guard"
+  },
+  "Igglybuff": {
+    "first": "Cute Charm",
+    "hidden": "Friend Guard"
+  },
+  "Togepi": {
+    "first": "Hustle",
+    "hidden": "Super Luck"
+  },
+  "Togetic": {
+    "first": "Hustle",
+    "hidden": "Super Luck"
+  },
+  "Natu": {
+    "first": "Synchronize",
+    "hidden": "Magic Bounce"
+  },
+  "Xatu": {
+    "first": "Synchronize",
+    "hidden": "Magic Bounce"
+  },
+  "Mareep": {
+    "first": "Static",
+    "hidden": "Plus"
+  },
+  "Flaaffy": {
+    "first": "Static",
+    "hidden": "Plus"
+  },
+  "Ampharos": {
+    "first": "Static",
+    "hidden": "Plus"
+  },
+  "Bellossom": {
+    "first": "Chlorophyll",
+    "hidden": "Healer"
+  },
+  "Marill": {
+    "first": "Thick Fat",
+    "hidden": "Sap Sipper"
+  },
+  "Azumarill": {
+    "first": "Thick Fat",
+    "hidden": "Sap Sipper"
+  },
+  "Sudowoodo": {
+    "first": "Sturdy",
+    "hidden": "Rattled"
+  },
+  "Politoed": {
+    "first": "Water Absorb",
+    "hidden": "Drizzle"
+  },
+  "Hoppip": {
+    "first": "Chlorophyll",
+    "hidden": "Infiltrator"
+  },
+  "Skiploom": {
+    "first": "Chlorophyll",
+    "hidden": "Infiltrator"
+  },
+  "Jumpluff": {
+    "first": "Chlorophyll",
+    "hidden": "Infiltrator"
+  },
+  "Aipom": {
+    "first": "Run Away",
+    "hidden": "Skill Link"
+  },
+  "Sunkern": {
+    "first": "Chlorophyll",
+    "hidden": "Early Bird"
+  },
+  "Sunflora": {
+    "first": "Chlorophyll",
+    "hidden": "Early Bird"
+  },
+  "Yanma": {
+    "first": "Speed Boost",
+    "hidden": "Frisk"
+  },
+  "Wooper": {
+    "first": "Damp",
+    "second": "Poison Point",
+    "hidden": "Unaware"
+  },
+  "Quagsire": {
+    "first": "Damp",
+    "hidden": "Unaware"
+  },
+  "Espeon": {
+    "first": "Synchronize",
+    "hidden": "Magic Bounce"
+  },
+  "Umbreon": {
+    "first": "Synchronize",
+    "hidden": "Inner Focus"
+  },
+  "Murkrow": {
+    "first": "Insomnia",
+    "hidden": "Prankster"
+  },
+  "Slowking": {
+    "first": "Oblivious",
+    "second": "Curious Medicine",
+    "hidden": "Regenerator"
+  },
+  "Misdreavus": {
+    "first": "Levitate"
+  },
+  "Unown": {
+    "first": "Levitate"
+  },
+  "Wobbuffet": {
+    "first": "Shadow Tag",
+    "hidden": "Telepathy"
+  },
+  "Girafarig": {
+    "first": "Inner Focus",
+    "hidden": "Sap Sipper"
+  },
+  "Pineco": {
+    "first": "Sturdy",
+    "hidden": "Overcoat"
+  },
+  "Forretress": {
+    "first": "Sturdy",
+    "hidden": "Overcoat"
+  },
+  "Dunsparce": {
+    "first": "Serene Grace",
+    "hidden": "Rattled"
+  },
+  "Gligar": {
+    "first": "Hyper Cutter",
+    "hidden": "Immunity"
+  },
+  "Steelix": {
+    "first": "Rock Head",
+    "hidden": "Sheer Force"
+  },
+  "Snubbull": {
+    "first": "Intimidate",
+    "hidden": "Rattled"
+  },
+  "Granbull": {
+    "first": "Intimidate",
+    "hidden": "Rattled"
+  },
+  "Qwilfish": {
+    "first": "Poison Point",
+    "hidden": "Intimidate"
+  },
+  "Scizor": {
+    "first": "Swarm",
+    "hidden": "Light Metal"
+  },
+  "Shuckle": {
+    "first": "Sturdy",
+    "hidden": "Contrary"
+  },
+  "Heracross": {
+    "first": "Swarm",
+    "hidden": "Moxie"
+  },
+  "Sneasel": {
+    "first": "Inner Focus",
+    "hidden": "Pickpocket"
+  },
+  "Teddiursa": {
+    "first": "Pickup",
+    "hidden": "Honey Gather"
+  },
+  "Ursaring": {
+    "first": "Guts",
+    "hidden": "Unnerve"
+  },
+  "Slugma": {
+    "first": "Magma Armor",
+    "hidden": "Weak Armor"
+  },
+  "Magcargo": {
+    "first": "Magma Armor",
+    "hidden": "Weak Armor"
+  },
+  "Swinub": {
+    "first": "Oblivious",
+    "hidden": "Thick Fat"
+  },
+  "Piloswine": {
+    "first": "Oblivious",
+    "hidden": "Thick Fat"
+  },
+  "Corsola": {
+    "first": "Hustle",
+    "second": "Cursed Body"
+  },
+  "Remoraid": {
+    "first": "Hustle",
+    "hidden": "Moody"
+  },
+  "Octillery": {
+    "first": "Suction Cups",
+    "hidden": "Moody"
+  },
+  "Delibird": {
+    "first": "Vital Spirit",
+    "hidden": "Insomnia"
+  },
+  "Mantine": {
+    "first": "Swift Swim",
+    "hidden": "Water Veil"
+  },
+  "Skarmory": {
+    "first": "Keen Eye",
+    "hidden": "Weak Armor"
+  },
+  "Houndour": {
+    "first": "Early Bird",
+    "hidden": "Unnerve"
+  },
+  "Houndoom": {
+    "first": "Early Bird",
+    "hidden": "Unnerve"
+  },
+  "Kingdra": {
+    "first": "Swift Swim",
+    "hidden": "Damp"
+  },
+  "Phanpy": {
+    "first": "Pickup",
+    "hidden": "Sand Veil"
+  },
+  "Donphan": {
+    "first": "Sturdy",
+    "hidden": "Sand Veil"
+  },
+  "Porygon2": {
+    "first": "Trace",
+    "hidden": "Analytic"
+  },
+  "Stantler": {
+    "first": "Intimidate",
+    "hidden": "Sap Sipper"
+  },
+  "Smeargle": {
+    "first": "Own Tempo",
+    "hidden": "Moody"
+  },
+  "Tyrogue": {
+    "first": "Guts",
+    "hidden": "Vital Spirit"
+  },
+  "Hitmontop": {
+    "first": "Intimidate",
+    "hidden": "Steadfast"
+  },
+  "Smoochum": {
+    "first": "Oblivious",
+    "hidden": "Hydration"
+  },
+  "Elekid": {
+    "first": "Static",
+    "hidden": "Vital Spirit"
+  },
+  "Magby": {
+    "first": "Flame Body",
+    "hidden": "Vital Spirit"
+  },
+  "Miltank": {
+    "first": "Thick Fat",
+    "hidden": "Sap Sipper"
+  },
+  "Blissey": {
+    "first": "Natural Cure",
+    "hidden": "Healer"
+  },
+  "Raikou": {
+    "first": "Pressure",
+    "hidden": "Inner Focus",
+    "second": "Volt Absorb"
+  },
+  "Entei": {
+    "first": "Pressure",
+    "hidden": "Inner Focus",
+    "second": "Flash Fire"
+  },
+  "Suicune": {
+    "first": "Pressure",
+    "hidden": "Inner Focus",
+    "second": "Water Absorb"
+  },
+  "Larvitar": {
+    "first": "Guts",
+    "hidden": "Sand Veil"
+  },
+  "Pupitar": {
+    "first": "Shed Skin"
+  },
+  "Tyranitar": {
+    "first": "Sand Stream",
+    "hidden": "Unnerve"
+  },
+  "Lugia": {
+    "first": "Pressure",
+    "hidden": "Multiscale"
+  },
+  "Ho-Oh": {
+    "first": "Pressure",
+    "hidden": "Regenerator"
+  },
+  "Celebi": {
+    "first": "Natural Cure"
+  },
+  "Treecko": {
+    "first": "Overgrow",
+    "hidden": "Unburden"
+  },
+  "Grovyle": {
+    "first": "Overgrow",
+    "hidden": "Unburden"
+  },
+  "Sceptile": {
+    "first": "Overgrow",
+    "hidden": "Unburden"
+  },
+  "Torchic": {
+    "first": "Blaze",
+    "hidden": "Speed Boost"
+  },
+  "Combusken": {
+    "first": "Blaze",
+    "hidden": "Speed Boost"
+  },
+  "Blaziken": {
+    "first": "Blaze",
+    "hidden": "Speed Boost"
+  },
+  "Mudkip": {
+    "first": "Torrent",
+    "hidden": "Damp"
+  },
+  "Marshtomp": {
+    "first": "Torrent",
+    "hidden": "Damp"
+  },
+  "Swampert": {
+    "first": "Torrent",
+    "hidden": "Damp"
+  },
+  "Poochyena": {
+    "first": "Run Away",
+    "hidden": "Rattled"
+  },
+  "Mightyena": {
+    "first": "Intimidate",
+    "hidden": "Moxie"
+  },
+  "Zigzagoon": {
+    "first": "Pickup",
+    "hidden": "Quick Feet"
+  },
+  "Linoone": {
+    "first": "Pickup",
+    "hidden": "Quick Feet"
+  },
+  "Wurmple": {
+    "first": "Shield Dust",
+    "hidden": "Run Away"
+  },
+  "Silcoon": {
+    "first": "Shed Skin"
+  },
+  "Beautifly": {
+    "first": "Swarm",
+    "hidden": "Rivalry"
+  },
+  "Cascoon": {
+    "first": "Shed Skin"
+  },
+  "Dustox": {
+    "first": "Shield Dust",
+    "hidden": "Compound Eyes"
+  },
+  "Lotad": {
+    "first": "Swift Swim",
+    "hidden": "Own Tempo"
+  },
+  "Lombre": {
+    "first": "Swift Swim",
+    "hidden": "Own Tempo"
+  },
+  "Ludicolo": {
+    "first": "Swift Swim",
+    "hidden": "Own Tempo"
+  },
+  "Seedot": {
+    "first": "Chlorophyll",
+    "hidden": "Pickpocket"
+  },
+  "Nuzleaf": {
+    "first": "Chlorophyll",
+    "hidden": "Pickpocket"
+  },
+  "Shiftry": {
+    "first": "Chlorophyll",
+    "hidden": "Pickpocket"
+  },
+  "Taillow": {
+    "first": "Guts",
+    "hidden": "Scrappy"
+  },
+  "Swellow": {
+    "first": "Guts",
+    "hidden": "Scrappy"
+  },
+  "Wingull": {
+    "first": "Keen Eye",
+    "hidden": "Rain Dish"
+  },
+  "Pelipper": {
+    "first": "Keen Eye",
+    "hidden": "Rain Dish"
+  },
+  "Ralts": {
+    "first": "Synchronize",
+    "hidden": "Telepathy"
+  },
+  "Kirlia": {
+    "first": "Synchronize",
+    "hidden": "Telepathy"
+  },
+  "Gardevoir": {
+    "first": "Synchronize",
+    "hidden": "Telepathy"
+  },
+  "Surskit": {
+    "first": "Swift Swim",
+    "hidden": "Rain Dish"
+  },
+  "Masquerain": {
+    "first": "Intimidate",
+    "hidden": "Unnerve"
+  },
+  "Shroomish": {
+    "first": "Effect Spore",
+    "hidden": "Quick Feet"
+  },
+  "Breloom": {
+    "first": "Effect Spore",
+    "hidden": "Technician"
+  },
+  "Slakoth": {
+    "first": "Truant"
+  },
+  "Vigoroth": {
+    "first": "Vital Spirit"
+  },
+  "Slaking": {
+    "first": "Truant"
+  },
+  "Nincada": {
+    "first": "Compound Eyes",
+    "hidden": "Run Away"
+  },
+  "Ninjask": {
+    "first": "Speed Boost",
+    "hidden": "Infiltrator"
+  },
+  "Shedinja": {
+    "first": "Wonder Guard"
+  },
+  "Whismur": {
+    "first": "Soundproof",
+    "hidden": "Rattled"
+  },
+  "Loudred": {
+    "first": "Soundproof",
+    "hidden": "Scrappy"
+  },
+  "Exploud": {
+    "first": "Soundproof",
+    "hidden": "Scrappy"
+  },
+  "Makuhita": {
+    "first": "Thick Fat",
+    "hidden": "Sheer Force"
+  },
+  "Hariyama": {
+    "first": "Thick Fat",
+    "hidden": "Sheer Force"
+  },
+  "Azurill": {
+    "first": "Thick Fat",
+    "hidden": "Sap Sipper"
+  },
+  "Nosepass": {
+    "first": "Sturdy",
+    "hidden": "Sand Force"
+  },
+  "Skitty": {
+    "first": "Cute Charm",
+    "hidden": "Wonder Skin"
+  },
+  "Delcatty": {
+    "first": "Cute Charm",
+    "hidden": "Wonder Skin"
+  },
+  "Sableye": {
+    "first": "Keen Eye",
+    "hidden": "Prankster"
+  },
+  "Mawile": {
+    "first": "Hyper Cutter",
+    "hidden": "Sheer Force"
+  },
+  "Aron": {
+    "first": "Sturdy",
+    "hidden": "Heavy Metal"
+  },
+  "Lairon": {
+    "first": "Sturdy",
+    "hidden": "Heavy Metal"
+  },
+  "Aggron": {
+    "first": "Sturdy",
+    "hidden": "Heavy Metal"
+  },
+  "Meditite": {
+    "first": "Pure Power",
+    "hidden": "Telepathy"
+  },
+  "Medicham": {
+    "first": "Pure Power",
+    "hidden": "Telepathy"
+  },
+  "Electrike": {
+    "first": "Static",
+    "hidden": "Minus"
+  },
+  "Manectric": {
+    "first": "Static",
+    "hidden": "Minus"
+  },
+  "Plusle": {
+    "first": "Plus",
+    "second": "Lightning Rod"
+  },
+  "Minun": {
+    "first": "Minus",
+    "second": "Volt Absorb"
+  },
+  "Volbeat": {
+    "first": "Illuminate",
+    "hidden": "Prankster"
+  },
+  "Illumise": {
+    "first": "Oblivious",
+    "hidden": "Prankster"
+  },
+  "Roselia": {
+    "first": "Natural Cure",
+    "hidden": "Leaf Guard"
+  },
+  "Gulpin": {
+    "first": "Liquid Ooze",
+    "hidden": "Gluttony"
+  },
+  "Swalot": {
+    "first": "Liquid Ooze",
+    "hidden": "Gluttony"
+  },
+  "Carvanha": {
+    "first": "Rough Skin",
+    "hidden": "Speed Boost"
+  },
+  "Sharpedo": {
+    "first": "Rough Skin",
+    "hidden": "Speed Boost"
+  },
+  "Wailmer": {
+    "first": "Water Veil",
+    "hidden": "Pressure"
+  },
+  "Wailord": {
+    "first": "Water Veil",
+    "hidden": "Pressure"
+  },
+  "Numel": {
+    "first": "Oblivious",
+    "hidden": "Own Tempo"
+  },
+  "Camerupt": {
+    "first": "Magma Armor",
+    "hidden": "Anger Point"
+  },
+  "Torkoal": {
+    "first": "White Smoke",
+    "hidden": "Shell Armor"
+  },
+  "Spoink": {
+    "first": "Thick Fat",
+    "hidden": "Gluttony"
+  },
+  "Grumpig": {
+    "first": "Thick Fat",
+    "hidden": "Gluttony"
+  },
+  "Spinda": {
+    "first": "Own Tempo",
+    "hidden": "Contrary"
+  },
+  "Trapinch": {
+    "first": "Hyper Cutter",
+    "hidden": "Sheer Force"
+  },
+  "Vibrava": {
+    "first": "Levitate"
+  },
+  "Flygon": {
+    "first": "Levitate"
+  },
+  "Cacnea": {
+    "first": "Sand Veil",
+    "hidden": "Water Absorb"
+  },
+  "Cacturne": {
+    "first": "Sand Veil",
+    "hidden": "Water Absorb"
+  },
+  "Swablu": {
+    "first": "Natural Cure",
+    "hidden": "Cloud Nine"
+  },
+  "Altaria": {
+    "first": "Natural Cure",
+    "hidden": "Cloud Nine"
+  },
+  "Zangoose": {
+    "first": "Immunity",
+    "hidden": "Toxic Boost"
+  },
+  "Seviper": {
+    "first": "Shed Skin",
+    "hidden": "Infiltrator"
+  },
+  "Lunatone": {
+    "first": "Levitate"
+  },
+  "Solrock": {
+    "first": "Levitate"
+  },
+  "Barboach": {
+    "first": "Oblivious",
+    "hidden": "Hydration"
+  },
+  "Whiscash": {
+    "first": "Oblivious",
+    "hidden": "Hydration"
+  },
+  "Corphish": {
+    "first": "Hyper Cutter",
+    "hidden": "Adaptability"
+  },
+  "Crawdaunt": {
+    "first": "Hyper Cutter",
+    "hidden": "Adaptability"
+  },
+  "Baltoy": {
+    "first": "Levitate"
+  },
+  "Claydol": {
+    "first": "Levitate"
+  },
+  "Lileep": {
+    "first": "Suction Cups",
+    "hidden": "Storm Drain"
+  },
+  "Cradily": {
+    "first": "Suction Cups",
+    "hidden": "Storm Drain"
+  },
+  "Anorith": {
+    "first": "Battle Armor",
+    "hidden": "Swift Swim"
+  },
+  "Armaldo": {
+    "first": "Battle Armor",
+    "hidden": "Swift Swim"
+  },
+  "Feebas": {
+    "first": "Swift Swim",
+    "hidden": "Adaptability"
+  },
+  "Milotic": {
+    "first": "Marvel Scale",
+    "hidden": "Cute Charm"
+  },
+  "Castform": {
+    "first": "Forecast"
+  },
+  "Kecleon": {
+    "first": "Color Change",
+    "hidden": "Protean"
+  },
+  "Shuppet": {
+    "first": "Insomnia",
+    "hidden": "Cursed Body"
+  },
+  "Banette": {
+    "first": "Insomnia",
+    "hidden": "Cursed Body"
+  },
+  "Duskull": {
+    "first": "Levitate",
+    "second": "Frisk"
+  },
+  "Dusclops": {
+    "first": "Pressure",
+    "second": "Frisk"
+  },
+  "Tropius": {
+    "first": "Chlorophyll",
+    "hidden": "Harvest"
+  },
+  "Chimecho": {
+    "first": "Levitate"
+  },
+  "Absol": {
+    "first": "Pressure",
+    "hidden": "Justified"
+  },
+  "Wynaut": {
+    "first": "Shadow Tag",
+    "hidden": "Telepathy"
+  },
+  "Snorunt": {
+    "first": "Inner Focus",
+    "hidden": "Moody"
+  },
+  "Glalie": {
+    "first": "Inner Focus",
+    "hidden": "Moody"
+  },
+  "Spheal": {
+    "first": "Thick Fat",
+    "hidden": "Oblivious"
+  },
+  "Sealeo": {
+    "first": "Thick Fat",
+    "hidden": "Oblivious"
+  },
+  "Walrein": {
+    "first": "Thick Fat",
+    "hidden": "Oblivious"
+  },
+  "Clamperl": {
+    "first": "Shell Armor",
+    "hidden": "Rattled"
+  },
+  "Huntail": {
+    "first": "Swift Swim",
+    "hidden": "Water Veil"
+  },
+  "Gorebyss": {
+    "first": "Swift Swim",
+    "hidden": "Hydration"
+  },
+  "Relicanth": {
+    "first": "Swift Swim",
+    "hidden": "Sturdy"
+  },
+  "Luvdisc": {
+    "first": "Swift Swim",
+    "hidden": "Hydration"
+  },
+  "Bagon": {
+    "first": "Rock Head",
+    "hidden": "Sheer Force"
+  },
+  "Shelgon": {
+    "first": "Rock Head",
+    "hidden": "Overcoat"
+  },
+  "Salamence": {
+    "first": "Intimidate",
+    "hidden": "Moxie"
+  },
+  "Beldum": {
+    "first": "Clear Body",
+    "hidden": "Light Metal"
+  },
+  "Metang": {
+    "first": "Clear Body",
+    "hidden": "Light Metal"
+  },
+  "Metagross": {
+    "first": "Clear Body",
+    "hidden": "Light Metal"
+  },
+  "Regirock": {
+    "first": "Clear Body",
+    "hidden": "Sturdy"
+  },
+  "Regice": {
+    "first": "Clear Body",
+    "hidden": "Ice Body"
+  },
+  "Registeel": {
+    "first": "Clear Body",
+    "hidden": "Light Metal"
+  },
+  "Latias": {
+    "first": "Levitate"
+  },
+  "Latios": {
+    "first": "Levitate"
+  },
+  "Kyogre": {
+    "first": "Drizzle",
+    "second": "Primordial Sea"
+  },
+  "Groudon": {
+    "first": "Drought",
+    "second": "Desolate Land"
+  },
+  "Rayquaza": {
+    "first": "Air Lock"
+  },
+  "Jirachi": {
+    "first": "Serene Grace"
+  },
+  "Deoxys": {
+    "first": "Pressure"
+  },
+  "Turtwig": {
+    "first": "Overgrow",
+    "hidden": "Shell Armor"
+  },
+  "Grotle": {
+    "first": "Overgrow",
+    "hidden": "Shell Armor"
+  },
+  "Torterra": {
+    "first": "Overgrow",
+    "hidden": "Shell Armor"
+  },
+  "Chimchar": {
+    "first": "Blaze",
+    "hidden": "Iron Fist"
+  },
+  "Monferno": {
+    "first": "Blaze",
+    "hidden": "Iron Fist"
+  },
+  "Infernape": {
+    "first": "Blaze",
+    "hidden": "Iron Fist"
+  },
+  "Piplup": {
+    "first": "Torrent",
+    "hidden": "Defiant"
+  },
+  "Prinplup": {
+    "first": "Torrent",
+    "hidden": "Defiant"
+  },
+  "Empoleon": {
+    "first": "Torrent",
+    "hidden": "Defiant"
+  },
+  "Starly": {
+    "first": "Keen Eye",
+    "second": "Reckless"
+  },
+  "Staravia": {
+    "first": "Intimidate",
+    "hidden": "Reckless"
+  },
+  "Staraptor": {
+    "first": "Intimidate",
+    "hidden": "Reckless"
+  },
+  "Bidoof": {
+    "first": "Simple",
+    "hidden": "Moody"
+  },
+  "Bibarel": {
+    "first": "Simple",
+    "hidden": "Moody"
+  },
+  "Kricketot": {
+    "first": "Shed Skin",
+    "hidden": "Run Away"
+  },
+  "Kricketune": {
+    "first": "Swarm",
+    "hidden": "Technician"
+  },
+  "Shinx": {
+    "first": "Rivalry",
+    "hidden": "Guts"
+  },
+  "Luxio": {
+    "first": "Rivalry",
+    "hidden": "Guts"
+  },
+  "Luxray": {
+    "first": "Rivalry",
+    "hidden": "Guts"
+  },
+  "Budew": {
+    "first": "Natural Cure",
+    "hidden": "Leaf Guard"
+  },
+  "Roserade": {
+    "first": "Natural Cure",
+    "hidden": "Technician"
+  },
+  "Cranidos": {
+    "first": "Mold Breaker",
+    "hidden": "Sheer Force"
+  },
+  "Rampardos": {
+    "first": "Mold Breaker",
+    "hidden": "Sheer Force"
+  },
+  "Shieldon": {
+    "first": "Sturdy",
+    "hidden": "Soundproof"
+  },
+  "Bastiodon": {
+    "first": "Sturdy",
+    "hidden": "Soundproof"
+  },
+  "Burmy": {
+    "first": "Shed Skin",
+    "hidden": "Overcoat"
+  },
+  "Wormadam": {
+    "first": "Anticipation",
+    "hidden": "Overcoat"
+  },
+  "Mothim": {
+    "first": "Swarm",
+    "hidden": "Tinted Lens"
+  },
+  "Combee": {
+    "first": "Honey Gather",
+    "hidden": "Hustle"
+  },
+  "Vespiquen": {
+    "first": "Pressure",
+    "hidden": "Unnerve"
+  },
+  "Pachirisu": {
+    "first": "Run Away",
+    "hidden": "Volt Absorb"
+  },
+  "Buizel": {
+    "first": "Swift Swim",
+    "hidden": "Water Veil"
+  },
+  "Floatzel": {
+    "first": "Swift Swim",
+    "hidden": "Water Veil"
+  },
+  "Cherubi": {
+    "first": "Chlorophyll"
+  },
+  "Cherrim": {
+    "first": "Flower Gift"
+  },
+  "Shellos": {
+    "first": "Sticky Hold",
+    "hidden": "Sand Force"
+  },
+  "Gastrodon": {
+    "first": "Sticky Hold",
+    "hidden": "Sand Force"
+  },
+  "Ambipom": {
+    "first": "Technician",
+    "hidden": "Skill Link"
+  },
+  "Drifloon": {
+    "first": "Aftermath",
+    "hidden": "Flare Boost"
+  },
+  "Drifblim": {
+    "first": "Aftermath",
+    "hidden": "Flare Boost"
+  },
+  "Buneary": {
+    "first": "Run Away",
+    "hidden": "Limber"
+  },
+  "Lopunny": {
+    "first": "Cute Charm",
+    "hidden": "Limber"
+  },
+  "Mismagius": {
+    "first": "Levitate"
+  },
+  "Honchkrow": {
+    "first": "Insomnia",
+    "hidden": "Moxie"
+  },
+  "Glameow": {
+    "first": "Limber",
+    "hidden": "Keen Eye"
+  },
+  "Purugly": {
+    "first": "Thick Fat",
+    "hidden": "Defiant"
+  },
+  "Chingling": {
+    "first": "Levitate"
+  },
+  "Stunky": {
+    "first": "Stench",
+    "hidden": "Keen Eye"
+  },
+  "Skuntank": {
+    "first": "Stench",
+    "hidden": "Keen Eye"
+  },
+  "Bronzor": {
+    "first": "Levitate",
+    "hidden": "Heavy Metal"
+  },
+  "Bronzong": {
+    "first": "Levitate",
+    "hidden": "Heavy Metal"
+  },
+  "Bonsly": {
+    "first": "Sturdy",
+    "hidden": "Rattled"
+  },
+  "Mime Jr.": {
+    "first": "Soundproof",
+    "hidden": "Technician"
+  },
+  "Happiny": {
+    "first": "Natural Cure",
+    "hidden": "Friend Guard"
+  },
+  "Chatot": {
+    "first": "Keen Eye",
+    "hidden": "Big Pecks"
+  },
+  "Spiritomb": {
+    "first": "Pressure",
+    "hidden": "Infiltrator"
+  },
+  "Gible": {
+    "first": "Sand Veil",
+    "hidden": "Rough Skin"
+  },
+  "Gabite": {
+    "first": "Sand Veil",
+    "hidden": "Rough Skin"
+  },
+  "Garchomp": {
+    "first": "Sand Veil",
+    "hidden": "Rough Skin"
+  },
+  "Munchlax": {
+    "first": "Pickup",
+    "hidden": "Gluttony"
+  },
+  "Riolu": {
+    "first": "Steadfast",
+    "hidden": "Prankster"
+  },
+  "Lucario": {
+    "first": "Steadfast",
+    "hidden": "Justified"
+  },
+  "Hippopotas": {
+    "first": "Sand Stream",
+    "hidden": "Sand Force"
+  },
+  "Hippowdon": {
+    "first": "Sand Stream",
+    "hidden": "Sand Force"
+  },
+  "Skorupi": {
+    "first": "Battle Armor",
+    "hidden": "Keen Eye"
+  },
+  "Drapion": {
+    "first": "Battle Armor",
+    "hidden": "Keen Eye"
+  },
+  "Croagunk": {
+    "first": "Anticipation",
+    "hidden": "Poison Touch"
+  },
+  "Toxicroak": {
+    "first": "Anticipation",
+    "hidden": "Poison Touch"
+  },
+  "Carnivine": {
+    "first": "Levitate"
+  },
+  "Finneon": {
+    "first": "Swift Swim",
+    "hidden": "Water Veil"
+  },
+  "Lumineon": {
+    "first": "Swift Swim",
+    "hidden": "Water Veil"
+  },
+  "Mantyke": {
+    "first": "Swift Swim",
+    "hidden": "Water Veil"
+  },
+  "Snover": {
+    "first": "Snow Warning",
+    "hidden": "Soundproof"
+  },
+  "Abomasnow": {
+    "first": "Snow Warning",
+    "hidden": "Soundproof"
+  },
+  "Weavile": {
+    "first": "Pressure",
+    "hidden": "Pickpocket"
+  },
+  "Magnezone": {
+    "first": "Magnet Pull",
+    "hidden": "Analytic"
+  },
+  "Lickilicky": {
+    "first": "Own Tempo",
+    "hidden": "Cloud Nine"
+  },
+  "Rhyperior": {
+    "first": "Lightning Rod",
+    "hidden": "Reckless"
+  },
+  "Tangrowth": {
+    "first": "Chlorophyll",
+    "hidden": "Regenerator"
+  },
+  "Electivire": {
+    "first": "Motor Drive",
+    "hidden": "Vital Spirit"
+  },
+  "Magmortar": {
+    "first": "Flame Body",
+    "hidden": "Vital Spirit"
+  },
+  "Togekiss": {
+    "first": "Hustle",
+    "hidden": "Super Luck"
+  },
+  "Yanmega": {
+    "first": "Speed Boost",
+    "hidden": "Frisk"
+  },
+  "Leafeon": {
+    "first": "Leaf Guard",
+    "hidden": "Chlorophyll"
+  },
+  "Glaceon": {
+    "first": "Snow Cloak",
+    "hidden": "Ice Body"
+  },
+  "Gliscor": {
+    "first": "Hyper Cutter",
+    "hidden": "Poison Heal"
+  },
+  "Mamoswine": {
+    "first": "Oblivious",
+    "hidden": "Thick Fat"
+  },
+  "Porygon-Z": {
+    "first": "Adaptability",
+    "hidden": "Analytic"
+  },
+  "Gallade": {
+    "first": "Steadfast",
+    "hidden": "Justified"
+  },
+  "Probopass": {
+    "first": "Sturdy",
+    "hidden": "Sand Force"
+  },
+  "Dusknoir": {
+    "first": "Pressure",
+    "second": "Frisk"
+  },
+  "Froslass": {
+    "first": "Snow Cloak",
+    "hidden": "Cursed Body"
+  },
+  "Rotom": {
+    "first": "Levitate"
+  },
+  "Uxie": {
+    "first": "Levitate"
+  },
+  "Mesprit": {
+    "first": "Levitate"
+  },
+  "Azelf": {
+    "first": "Levitate"
+  },
+  "Dialga": {
+    "first": "Pressure",
+    "hidden": "Telepathy"
+  },
+  "Palkia": {
+    "first": "Pressure",
+    "hidden": "Telepathy"
+  },
+  "Heatran": {
+    "first": "Flash Fire",
+    "hidden": "Flame Body"
+  },
+  "Regigigas": {
+    "first": "Slow Start"
+  },
+  "Giratina": {
+    "first": "Pressure",
+    "second": "Telepathy"
+  },
+  "Cresselia": {
+    "first": "Levitate"
+  },
+  "Phione": {
+    "first": "Hydration"
+  },
+  "Manaphy": {
+    "first": "Hydration"
+  },
+  "Darkrai": {
+    "first": "Bad Dreams"
+  },
+  "Shaymin": {
+    "first": "Natural Cure",
+    "second": "Serene Grace"
+  },
+  "Arceus": {
+    "first": "Multitype"
+  },
+  "Victini": {
+    "first": "Victory Star"
+  },
+  "Snivy": {
+    "first": "Overgrow",
+    "hidden": "Contrary"
+  },
+  "Servine": {
+    "first": "Overgrow",
+    "hidden": "Contrary"
+  },
+  "Serperior": {
+    "first": "Overgrow",
+    "hidden": "Contrary"
+  },
+  "Tepig": {
+    "first": "Blaze",
+    "hidden": "Thick Fat"
+  },
+  "Pignite": {
+    "first": "Blaze",
+    "hidden": "Thick Fat"
+  },
+  "Emboar": {
+    "first": "Blaze",
+    "hidden": "Reckless"
+  },
+  "Oshawott": {
+    "first": "Torrent",
+    "hidden": "Shell Armor"
+  },
+  "Dewott": {
+    "first": "Torrent",
+    "hidden": "Shell Armor"
+  },
+  "Samurott": {
+    "first": "Torrent",
+    "second": "Sharpness"
+  },
+  "Patrat": {
+    "first": "Run Away",
+    "hidden": "Analytic"
+  },
+  "Watchog": {
+    "first": "Illuminate",
+    "hidden": "Analytic"
+  },
+  "Lillipup": {
+    "first": "Vital Spirit",
+    "hidden": "Run Away"
+  },
+  "Herdier": {
+    "first": "Intimidate",
+    "hidden": "Scrappy"
+  },
+  "Stoutland": {
+    "first": "Intimidate",
+    "hidden": "Scrappy"
+  },
+  "Purrloin": {
+    "first": "Limber",
+    "hidden": "Prankster"
+  },
+  "Liepard": {
+    "first": "Limber",
+    "hidden": "Prankster"
+  },
+  "Pansage": {
+    "first": "Gluttony",
+    "hidden": "Overgrow"
+  },
+  "Simisage": {
+    "first": "Gluttony",
+    "hidden": "Overgrow"
+  },
+  "Pansear": {
+    "first": "Gluttony",
+    "hidden": "Blaze"
+  },
+  "Simisear": {
+    "first": "Gluttony",
+    "hidden": "Blaze"
+  },
+  "Panpour": {
+    "first": "Gluttony",
+    "hidden": "Torrent"
+  },
+  "Simipour": {
+    "first": "Gluttony",
+    "hidden": "Torrent"
+  },
+  "Munna": {
+    "first": "Forewarn",
+    "hidden": "Telepathy"
+  },
+  "Musharna": {
+    "first": "Forewarn",
+    "hidden": "Telepathy"
+  },
+  "Pidove": {
+    "first": "Big Pecks",
+    "hidden": "Rivalry"
+  },
+  "Tranquill": {
+    "first": "Big Pecks",
+    "hidden": "Rivalry"
+  },
+  "Unfezant": {
+    "first": "Big Pecks",
+    "hidden": "Rivalry"
+  },
+  "Blitzle": {
+    "first": "Lightning Rod",
+    "hidden": "Sap Sipper"
+  },
+  "Zebstrika": {
+    "first": "Lightning Rod",
+    "hidden": "Sap Sipper"
+  },
+  "Roggenrola": {
+    "first": "Sturdy",
+    "hidden": "Sand Force"
+  },
+  "Boldore": {
+    "first": "Sturdy",
+    "hidden": "Sand Force"
+  },
+  "Gigalith": {
+    "first": "Sturdy",
+    "hidden": "Sand Force"
+  },
+  "Woobat": {
+    "first": "Unaware",
+    "hidden": "Simple"
+  },
+  "Swoobat": {
+    "first": "Unaware",
+    "hidden": "Simple"
+  },
+  "Drilbur": {
+    "first": "Sand Rush",
+    "hidden": "Mold Breaker"
+  },
+  "Excadrill": {
+    "first": "Sand Rush",
+    "hidden": "Mold Breaker"
+  },
+  "Audino": {
+    "first": "Healer",
+    "hidden": "Klutz"
+  },
+  "Timburr": {
+    "first": "Guts",
+    "hidden": "Iron Fist"
+  },
+  "Gurdurr": {
+    "first": "Guts",
+    "hidden": "Iron Fist"
+  },
+  "Conkeldurr": {
+    "first": "Guts",
+    "hidden": "Iron Fist"
+  },
+  "Tympole": {
+    "first": "Swift Swim",
+    "hidden": "Water Absorb"
+  },
+  "Palpitoad": {
+    "first": "Swift Swim",
+    "hidden": "Water Absorb"
+  },
+  "Seismitoad": {
+    "first": "Swift Swim",
+    "hidden": "Water Absorb"
+  },
+  "Throh": {
+    "first": "Guts",
+    "hidden": "Mold Breaker"
+  },
+  "Sawk": {
+    "first": "Sturdy",
+    "hidden": "Mold Breaker"
+  },
+  "Sewaddle": {
+    "first": "Swarm",
+    "hidden": "Overcoat"
+  },
+  "Swadloon": {
+    "first": "Leaf Guard",
+    "hidden": "Overcoat"
+  },
+  "Leavanny": {
+    "first": "Swarm",
+    "hidden": "Overcoat"
+  },
+  "Venipede": {
+    "first": "Poison Point",
+    "hidden": "Speed Boost",
+    "second": "Quick Feet"
+  },
+  "Whirlipede": {
+    "first": "Poison Point",
+    "hidden": "Speed Boost",
+    "second": "Quick Feet"
+  },
+  "Scolipede": {
+    "first": "Poison Point",
+    "hidden": "Speed Boost",
+    "second": "Quick Feet"
+  },
+  "Cottonee": {
+    "first": "Prankster",
+    "hidden": "Chlorophyll"
+  },
+  "Whimsicott": {
+    "first": "Prankster",
+    "hidden": "Chlorophyll"
+  },
+  "Petilil": {
+    "first": "Chlorophyll",
+    "hidden": "Leaf Guard"
+  },
+  "Lilligant": {
+    "first": "Chlorophyll",
+    "second": "Chlorophyll",
+    "hidden": "Leaf Guard"
+  },
+  "Basculin": {
+    "first": "Reckless",
+    "second": "Rattled",
+    "hidden": "Mold Breaker"
+  },
+  "Sandile": {
+    "first": "Intimidate",
+    "hidden": "Anger Point"
+  },
+  "Krokorok": {
+    "first": "Intimidate",
+    "hidden": "Anger Point"
+  },
+  "Krookodile": {
+    "first": "Intimidate",
+    "hidden": "Anger Point"
+  },
+  "Darumaka": {
+    "first": "Hustle",
+    "hidden": "Inner Focus"
+  },
+  "Darmanitan": {
+    "first": "Sheer Force",
+    "second": "Gorilla Tactics",
+    "hidden": "Zen Mode"
+  },
+  "Maractus": {
+    "first": "Water Absorb",
+    "hidden": "Storm Drain"
+  },
+  "Dwebble": {
+    "first": "Sturdy",
+    "hidden": "Weak Armor"
+  },
+  "Crustle": {
+    "first": "Sturdy",
+    "hidden": "Weak Armor"
+  },
+  "Scraggy": {
+    "first": "Shed Skin",
+    "hidden": "Intimidate"
+  },
+  "Scrafty": {
+    "first": "Shed Skin",
+    "hidden": "Intimidate"
+  },
+  "Sigilyph": {
+    "first": "Wonder Skin",
+    "hidden": "Tinted Lens"
+  },
+  "Yamask": {
+    "first": "Mummy",
+    "second": "Wandering Spirit"
+  },
+  "Cofagrigus": {
+    "first": "Mummy"
+  },
+  "Tirtouga": {
+    "first": "Solid Rock",
+    "hidden": "Swift Swim"
+  },
+  "Carracosta": {
+    "first": "Solid Rock",
+    "hidden": "Swift Swim"
+  },
+  "Archen": {
+    "first": "Defeatist"
+  },
+  "Archeops": {
+    "first": "Defeatist"
+  },
+  "Trubbish": {
+    "first": "Stench",
+    "hidden": "Aftermath"
+  },
+  "Garbodor": {
+    "first": "Stench",
+    "hidden": "Aftermath"
+  },
+  "Zorua": {
+    "first": "Illusion"
+  },
+  "Zoroark": {
+    "first": "Illusion"
+  },
+  "Minccino": {
+    "first": "Cute Charm",
+    "hidden": "Skill Link"
+  },
+  "Cinccino": {
+    "first": "Cute Charm",
+    "hidden": "Skill Link"
+  },
+  "Gothita": {
+    "first": "Frisk",
+    "hidden": "Shadow Tag"
+  },
+  "Gothorita": {
+    "first": "Frisk",
+    "hidden": "Shadow Tag"
+  },
+  "Gothitelle": {
+    "first": "Frisk",
+    "hidden": "Shadow Tag"
+  },
+  "Solosis": {
+    "first": "Overcoat",
+    "hidden": "Regenerator"
+  },
+  "Duosion": {
+    "first": "Overcoat",
+    "hidden": "Regenerator"
+  },
+  "Reuniclus": {
+    "first": "Overcoat",
+    "hidden": "Regenerator"
+  },
+  "Ducklett": {
+    "first": "Keen Eye",
+    "hidden": "Hydration"
+  },
+  "Swanna": {
+    "first": "Keen Eye",
+    "hidden": "Hydration"
+  },
+  "Vanillite": {
+    "first": "Ice Body",
+    "hidden": "Weak Armor"
+  },
+  "Vanillish": {
+    "first": "Ice Body",
+    "hidden": "Weak Armor"
+  },
+  "Vanilluxe": {
+    "first": "Ice Body",
+    "hidden": "Weak Armor"
+  },
+  "Deerling": {
+    "first": "Chlorophyll",
+    "hidden": "Serene Grace"
+  },
+  "Sawsbuck": {
+    "first": "Chlorophyll",
+    "hidden": "Serene Grace"
+  },
+  "Emolga": {
+    "first": "Static",
+    "hidden": "Motor Drive"
+  },
+  "Karrablast": {
+    "first": "Swarm",
+    "hidden": "No Guard"
+  },
+  "Escavalier": {
+    "first": "Swarm",
+    "hidden": "Overcoat"
+  },
+  "Foongus": {
+    "first": "Effect Spore",
+    "hidden": "Regenerator"
+  },
+  "Amoonguss": {
+    "first": "Effect Spore",
+    "hidden": "Regenerator"
+  },
+  "Frillish": {
+    "first": "Water Absorb",
+    "hidden": "Damp"
+  },
+  "Jellicent": {
+    "first": "Water Absorb",
+    "hidden": "Damp"
+  },
+  "Alomomola": {
+    "first": "Healer",
+    "hidden": "Regenerator"
+  },
+  "Joltik": {
+    "first": "Compound Eyes",
+    "hidden": "Swarm"
+  },
+  "Galvantula": {
+    "first": "Compound Eyes",
+    "hidden": "Swarm"
+  },
+  "Ferroseed": {
+    "first": "Iron Barbs"
+  },
+  "Ferrothorn": {
+    "first": "Iron Barbs",
+    "second": "Anticipation"
+  },
+  "Klink": {
+    "first": "Plus",
+    "hidden": "Clear Body"
+  },
+  "Klang": {
+    "first": "Plus",
+    "hidden": "Clear Body"
+  },
+  "Klinklang": {
+    "first": "Plus",
+    "hidden": "Clear Body"
+  },
+  "Tynamo": {
+    "first": "Levitate"
+  },
+  "Eelektrik": {
+    "first": "Levitate"
+  },
+  "Eelektross": {
+    "first": "Levitate"
+  },
+  "Elgyem": {
+    "first": "Telepathy",
+    "hidden": "Analytic"
+  },
+  "Beheeyem": {
+    "first": "Telepathy",
+    "hidden": "Analytic"
+  },
+  "Litwick": {
+    "first": "Flash Fire",
+    "hidden": "Infiltrator",
+    "second": "Shadow Tag"
+  },
+  "Lampent": {
+    "first": "Flash Fire",
+    "hidden": "Infiltrator",
+    "second": "Shadow Tag"
+  },
+  "Chandelure": {
+    "first": "Flash Fire",
+    "hidden": "Infiltrator",
+    "second": "Shadow Tag"
+  },
+  "Axew": {
+    "first": "Rivalry",
+    "hidden": "Unnerve"
+  },
+  "Fraxure": {
+    "first": "Rivalry",
+    "hidden": "Unnerve"
+  },
+  "Haxorus": {
+    "first": "Rivalry",
+    "hidden": "Unnerve"
+  },
+  "Cubchoo": {
+    "first": "Snow Cloak",
+    "hidden": "Rattled"
+  },
+  "Beartic": {
+    "first": "Snow Cloak",
+    "hidden": "Swift Swim"
+  },
+  "Cryogonal": {
+    "first": "Levitate"
+  },
+  "Shelmet": {
+    "first": "Hydration",
+    "hidden": "Overcoat"
+  },
+  "Accelgor": {
+    "first": "Hydration",
+    "hidden": "Unburden"
+  },
+  "Stunfisk": {
+    "first": "Static",
+    "second": "Sand Veil"
+  },
+  "Mienfoo": {
+    "first": "Inner Focus",
+    "hidden": "Reckless"
+  },
+  "Mienshao": {
+    "first": "Inner Focus",
+    "hidden": "Reckless"
+  },
+  "Druddigon": {
+    "first": "Rough Skin",
+    "hidden": "Mold Breaker"
+  },
+  "Golett": {
+    "first": "Iron Fist",
+    "hidden": "No Guard"
+  },
+  "Golurk": {
+    "first": "Iron Fist",
+    "hidden": "No Guard"
+  },
+  "Pawniard": {
+    "first": "Defiant",
+    "hidden": "Pressure"
+  },
+  "Bisharp": {
+    "first": "Defiant",
+    "hidden": "Pressure"
+  },
+  "Bouffalant": {
+    "first": "Reckless",
+    "hidden": "Soundproof"
+  },
+  "Rufflet": {
+    "first": "Keen Eye",
+    "hidden": "Hustle"
+  },
+  "Braviary": {
+    "first": "Keen Eye",
+    "second": "Tinted Lens"
+  },
+  "Vullaby": {
+    "first": "Big Pecks",
+    "hidden": "Weak Armor"
+  },
+  "Mandibuzz": {
+    "first": "Big Pecks",
+    "hidden": "Weak Armor"
+  },
+  "Heatmor": {
+    "first": "Gluttony",
+    "hidden": "White Smoke"
+  },
+  "Durant": {
+    "first": "Swarm",
+    "hidden": "Truant"
+  },
+  "Deino": {
+    "first": "Hustle"
+  },
+  "Zweilous": {
+    "first": "Hustle"
+  },
+  "Hydreigon": {
+    "first": "Levitate"
+  },
+  "Larvesta": {
+    "first": "Flame Body",
+    "hidden": "Swarm"
+  },
+  "Volcarona": {
+    "first": "Flame Body",
+    "hidden": "Swarm"
+  },
+  "Cobalion": {
+    "first": "Justified"
+  },
+  "Terrakion": {
+    "first": "Justified"
+  },
+  "Virizion": {
+    "first": "Justified"
+  },
+  "Tornadus": {
+    "first": "Prankster",
+    "second": "Defiant"
+  },
+  "Thundurus": {
+    "first": "Prankster",
+    "second": "Defiant"
+  },
+  "Reshiram": {
+    "first": "Turboblaze"
+  },
+  "Zekrom": {
+    "first": "Teravolt"
+  },
+  "Landorus": {
+    "first": "Sand Force",
+    "second": "Sheer Force"
+  },
+  "Kyurem": {
+    "first": "Pressure",
+    "second": "Teravolt"
+  },
+  "Keldeo": {
+    "first": "Justified"
+  },
+  "Meloetta": {
+    "first": "Serene Grace"
+  },
+  "Genesect": {
+    "first": "Download"
+  },
+  "Chespin": {
+    "first": "Overgrow",
+    "hidden": "Bulletproof"
+  },
+  "Quilladin": {
+    "first": "Overgrow",
+    "hidden": "Bulletproof"
+  },
+  "Chesnaught": {
+    "first": "Overgrow",
+    "hidden": "Bulletproof"
+  },
+  "Fennekin": {
+    "first": "Blaze",
+    "hidden": "Magician"
+  },
+  "Braixen": {
+    "first": "Blaze",
+    "hidden": "Magician"
+  },
+  "Delphox": {
+    "first": "Blaze",
+    "hidden": "Magician"
+  },
+  "Froakie": {
+    "first": "Torrent",
+    "hidden": "Protean"
+  },
+  "Frogadier": {
+    "first": "Torrent",
+    "hidden": "Protean"
+  },
+  "Greninja": {
+    "first": "Torrent",
+    "hidden": "Protean",
+    "second": "Battle Bond"
+  },
+  "Bunnelby": {
+    "first": "Pickup",
+    "hidden": "Huge Power"
+  },
+  "Diggersby": {
+    "first": "Pickup",
+    "hidden": "Huge Power"
+  },
+  "Fletchling": {
+    "first": "Big Pecks",
+    "hidden": "Gale Wings"
+  },
+  "Fletchinder": {
+    "first": "Flame Body",
+    "hidden": "Gale Wings"
+  },
+  "Talonflame": {
+    "first": "Flame Body",
+    "hidden": "Gale Wings"
+  },
+  "Scatterbug": {
+    "first": "Shield Dust",
+    "hidden": "Friend Guard"
+  },
+  "Spewpa": {
+    "first": "Shed Skin",
+    "hidden": "Friend Guard"
+  },
+  "Vivillon": {
+    "first": "Shield Dust",
+    "hidden": "Friend Guard"
+  },
+  "Litleo": {
+    "first": "Rivalry",
+    "hidden": "Moxie"
+  },
+  "Pyroar": {
+    "first": "Rivalry",
+    "hidden": "Moxie"
+  },
+  "Flab\u00e9b\u00e9": {
+    "first": "Flower Veil",
+    "hidden": "Symbiosis"
+  },
+  "Floette": {
+    "first": "Flower Veil",
+    "hidden": "Symbiosis"
+  },
+  "Florges": {
+    "first": "Flower Veil",
+    "hidden": "Symbiosis"
+  },
+  "Skiddo": {
+    "first": "Sap Sipper",
+    "hidden": "Grass Pelt"
+  },
+  "Gogoat": {
+    "first": "Sap Sipper",
+    "hidden": "Grass Pelt"
+  },
+  "Pancham": {
+    "first": "Iron Fist",
+    "hidden": "Scrappy"
+  },
+  "Pangoro": {
+    "first": "Iron Fist",
+    "hidden": "Scrappy"
+  },
+  "Furfrou": {
+    "first": "Fur Coat"
+  },
+  "Espurr": {
+    "first": "Keen Eye",
+    "hidden": "Own Tempo"
+  },
+  "Meowstic": {
+    "first": "Keen Eye",
+    "second": "Competitive"
+  },
+  "Honedge": {
+    "first": "No Guard"
+  },
+  "Doublade": {
+    "first": "No Guard"
+  },
+  "Aegislash": {
+    "first": "Stance Change"
+  },
+  "Spritzee": {
+    "first": "Healer",
+    "hidden": "Aroma Veil"
+  },
+  "Aromatisse": {
+    "first": "Healer",
+    "hidden": "Aroma Veil"
+  },
+  "Swirlix": {
+    "first": "Sweet Veil",
+    "hidden": "Unburden"
+  },
+  "Slurpuff": {
+    "first": "Sweet Veil",
+    "hidden": "Unburden"
+  },
+  "Inkay": {
+    "first": "Contrary",
+    "hidden": "Infiltrator"
+  },
+  "Malamar": {
+    "first": "Contrary",
+    "hidden": "Infiltrator"
+  },
+  "Binacle": {
+    "first": "Tough Claws",
+    "hidden": "Pickpocket"
+  },
+  "Barbaracle": {
+    "first": "Tough Claws",
+    "hidden": "Pickpocket"
+  },
+  "Skrelp": {
+    "first": "Poison Point",
+    "hidden": "Adaptability"
+  },
+  "Dragalge": {
+    "first": "Poison Point",
+    "hidden": "Adaptability"
+  },
+  "Clauncher": {
+    "first": "Mega Launcher"
+  },
+  "Clawitzer": {
+    "first": "Mega Launcher"
+  },
+  "Helioptile": {
+    "first": "Dry Skin",
+    "hidden": "Solar Power"
+  },
+  "Heliolisk": {
+    "first": "Dry Skin",
+    "hidden": "Solar Power"
+  },
+  "Tyrunt": {
+    "first": "Strong Jaw",
+    "hidden": "Sturdy"
+  },
+  "Tyrantrum": {
+    "first": "Strong Jaw",
+    "hidden": "Rock Head"
+  },
+  "Amaura": {
+    "first": "Refrigerate",
+    "hidden": "Snow Warning"
+  },
+  "Aurorus": {
+    "first": "Refrigerate",
+    "hidden": "Snow Warning"
+  },
+  "Sylveon": {
+    "first": "Cute Charm",
+    "hidden": "Pixilate"
+  },
+  "Hawlucha": {
+    "first": "Limber",
+    "hidden": "Mold Breaker"
+  },
+  "Dedenne": {
+    "first": "Cheek Pouch",
+    "hidden": "Plus"
+  },
+  "Carbink": {
+    "first": "Clear Body",
+    "hidden": "Sturdy"
+  },
+  "Goomy": {
+    "first": "Sap Sipper",
+    "hidden": "Gooey"
+  },
+  "Sliggoo": {
+    "first": "Sap Sipper",
+    "second": "Sap Sipper",
+    "hidden": "Gooey"
+  },
+  "Goodra": {
+    "first": "Sap Sipper",
+    "second": "Sap Sipper",
+    "hidden": "Gooey"
+  },
+  "Klefki": {
+    "first": "Prankster",
+    "hidden": "Magician"
+  },
+  "Phantump": {
+    "first": "Natural Cure",
+    "hidden": "Harvest"
+  },
+  "Trevenant": {
+    "first": "Natural Cure",
+    "hidden": "Harvest"
+  },
+  "Pumpkaboo": {
+    "first": "Pickup",
+    "hidden": "Insomnia"
+  },
+  "Gourgeist": {
+    "first": "Pickup",
+    "hidden": "Insomnia"
+  },
+  "Bergmite": {
+    "first": "Own Tempo",
+    "hidden": "Sturdy"
+  },
+  "Avalugg": {
+    "first": "Own Tempo",
+    "second": "Strong Jaw",
+    "hidden": "Sturdy"
+  },
+  "Noibat": {
+    "first": "Frisk",
+    "hidden": "Telepathy"
+  },
+  "Noivern": {
+    "first": "Frisk",
+    "hidden": "Telepathy"
+  },
+  "Xerneas": {
+    "first": "Fairy Aura"
+  },
+  "Yveltal": {
+    "first": "Dark Aura"
+  },
+  "Zygarde": {
+    "first": "Aura Break",
+    "second": "Power Construct"
+  },
+  "Diancie": {
+    "first": "Clear Body"
+  },
+  "Hoopa": {
+    "first": "Magician"
+  },
+  "Volcanion": {
+    "first": "Water Absorb"
+  },
+  "Rowlet": {
+    "first": "Overgrow",
+    "hidden": "Long Reach"
+  },
+  "Dartrix": {
+    "first": "Overgrow",
+    "hidden": "Long Reach"
+  },
+  "Decidueye": {
+    "first": "Overgrow",
+    "second": "Scrappy"
+  },
+  "Litten": {
+    "first": "Blaze",
+    "hidden": "Intimidate"
+  },
+  "Torracat": {
+    "first": "Blaze",
+    "hidden": "Intimidate"
+  },
+  "Incineroar": {
+    "first": "Blaze",
+    "hidden": "Intimidate"
+  },
+  "Popplio": {
+    "first": "Torrent",
+    "hidden": "Liquid Voice"
+  },
+  "Brionne": {
+    "first": "Torrent",
+    "hidden": "Liquid Voice"
+  },
+  "Primarina": {
+    "first": "Torrent",
+    "hidden": "Liquid Voice"
+  },
+  "Pikipek": {
+    "first": "Keen Eye",
+    "hidden": "Pickup"
+  },
+  "Trumbeak": {
+    "first": "Keen Eye",
+    "hidden": "Pickup"
+  },
+  "Toucannon": {
+    "first": "Keen Eye",
+    "hidden": "Sheer Force"
+  },
+  "Yungoos": {
+    "first": "Stakeout",
+    "hidden": "Adaptability"
+  },
+  "Gumshoos": {
+    "first": "Stakeout",
+    "hidden": "Adaptability"
+  },
+  "Grubbin": {
+    "first": "Swarm"
+  },
+  "Charjabug": {
+    "first": "Battery"
+  },
+  "Vikavolt": {
+    "first": "Levitate"
+  },
+  "Crabrawler": {
+    "first": "Hyper Cutter",
+    "hidden": "Anger Point"
+  },
+  "Crabominable": {
+    "first": "Hyper Cutter",
+    "hidden": "Anger Point"
+  },
+  "Oricorio": {
+    "first": "Dancer"
+  },
+  "Cutiefly": {
+    "first": "Honey Gather",
+    "hidden": "Sweet Veil"
+  },
+  "Ribombee": {
+    "first": "Honey Gather",
+    "hidden": "Sweet Veil"
+  },
+  "Rockruff": {
+    "first": "Keen Eye",
+    "hidden": "Steadfast",
+    "second": "Own Tempo"
+  },
+  "Lycanroc": {
+    "first": "Keen Eye",
+    "second": "Tough Claws"
+  },
+  "Wishiwashi": {
+    "first": "Schooling"
+  },
+  "Mareanie": {
+    "first": "Merciless",
+    "hidden": "Regenerator"
+  },
+  "Toxapex": {
+    "first": "Merciless",
+    "hidden": "Regenerator"
+  },
+  "Mudbray": {
+    "first": "Own Tempo",
+    "hidden": "Inner Focus"
+  },
+  "Mudsdale": {
+    "first": "Own Tempo",
+    "hidden": "Inner Focus"
+  },
+  "Dewpider": {
+    "first": "Water Bubble",
+    "hidden": "Water Absorb"
+  },
+  "Araquanid": {
+    "first": "Water Bubble",
+    "hidden": "Water Absorb"
+  },
+  "Fomantis": {
+    "first": "Leaf Guard",
+    "hidden": "Contrary"
+  },
+  "Lurantis": {
+    "first": "Leaf Guard",
+    "hidden": "Contrary"
+  },
+  "Morelull": {
+    "first": "Illuminate",
+    "hidden": "Rain Dish"
+  },
+  "Shiinotic": {
+    "first": "Illuminate",
+    "hidden": "Rain Dish"
+  },
+  "Salandit": {
+    "first": "Corrosion",
+    "hidden": "Oblivious"
+  },
+  "Salazzle": {
+    "first": "Corrosion",
+    "hidden": "Oblivious"
+  },
+  "Stufful": {
+    "first": "Fluffy",
+    "hidden": "Cute Charm"
+  },
+  "Bewear": {
+    "first": "Fluffy",
+    "hidden": "Unnerve"
+  },
+  "Bounsweet": {
+    "first": "Leaf Guard",
+    "hidden": "Sweet Veil"
+  },
+  "Steenee": {
+    "first": "Leaf Guard",
+    "hidden": "Sweet Veil"
+  },
+  "Tsareena": {
+    "first": "Leaf Guard",
+    "hidden": "Sweet Veil"
+  },
+  "Comfey": {
+    "first": "Flower Veil",
+    "hidden": "Natural Cure"
+  },
+  "Oranguru": {
+    "first": "Inner Focus",
+    "hidden": "Symbiosis"
+  },
+  "Passimian": {
+    "first": "Receiver",
+    "hidden": "Defiant"
+  },
+  "Wimpod": {
+    "first": "Wimp Out"
+  },
+  "Golisopod": {
+    "first": "Emergency Exit"
+  },
+  "Sandygast": {
+    "first": "Water Compaction",
+    "hidden": "Sand Veil"
+  },
+  "Palossand": {
+    "first": "Water Compaction",
+    "hidden": "Sand Veil"
+  },
+  "Pyukumuku": {
+    "first": "Innards Out",
+    "hidden": "Unaware"
+  },
+  "Type: Null": {
+    "first": "Battle Armor"
+  },
+  "Silvally": {
+    "first": "RKS System"
+  },
+  "Minior": {
+    "first": "Shields Down"
+  },
+  "Komala": {
+    "first": "Comatose"
+  },
+  "Turtonator": {
+    "first": "Shell Armor"
+  },
+  "Togedemaru": {
+    "first": "Iron Barbs",
+    "hidden": "Sturdy"
+  },
+  "Mimikyu": {
+    "first": "Disguise"
+  },
+  "Bruxish": {
+    "first": "Dazzling",
+    "hidden": "Wonder Skin"
+  },
+  "Drampa": {
+    "first": "Berserk",
+    "hidden": "Cloud Nine"
+  },
+  "Dhelmise": {
+    "first": "Steelworker"
+  },
+  "Jangmo-o": {
+    "first": "Bulletproof",
+    "hidden": "Overcoat"
+  },
+  "Hakamo-o": {
+    "first": "Bulletproof",
+    "hidden": "Overcoat"
+  },
+  "Kommo-o": {
+    "first": "Bulletproof",
+    "hidden": "Overcoat"
+  },
+  "Tapu Koko": {
+    "first": "Electric Surge",
+    "hidden": "Telepathy"
+  },
+  "Tapu Lele": {
+    "first": "Psychic Surge",
+    "hidden": "Telepathy"
+  },
+  "Tapu Bulu": {
+    "first": "Grassy Surge",
+    "hidden": "Telepathy"
+  },
+  "Tapu Fini": {
+    "first": "Misty Surge",
+    "hidden": "Telepathy"
+  },
+  "Cosmog": {
+    "first": "Unaware"
+  },
+  "Cosmoem": {
+    "first": "Sturdy"
+  },
+  "Solgaleo": {
+    "first": "Full Metal Body"
+  },
+  "Lunala": {
+    "first": "Shadow Shield"
+  },
+  "Nihilego": {
+    "first": "Beast Boost"
+  },
+  "Buzzwole": {
+    "first": "Beast Boost"
+  },
+  "Pheromosa": {
+    "first": "Beast Boost"
+  },
+  "Xurkitree": {
+    "first": "Beast Boost"
+  },
+  "Celesteela": {
+    "first": "Beast Boost"
+  },
+  "Kartana": {
+    "first": "Beast Boost"
+  },
+  "Guzzlord": {
+    "first": "Beast Boost"
+  },
+  "Necrozma": {
+    "first": "Prism Armor",
+    "second": "Neuroforce"
+  },
+  "Magearna": {
+    "first": "Soul-Heart"
+  },
+  "Marshadow": {
+    "first": "Technician"
+  },
+  "Poipole": {
+    "first": "Beast Boost"
+  },
+  "Naganadel": {
+    "first": "Beast Boost"
+  },
+  "Stakataka": {
+    "first": "Beast Boost"
+  },
+  "Blacephalon": {
+    "first": "Beast Boost"
+  },
+  "Zeraora": {
+    "first": "Volt Absorb"
+  },
+  "Meltan": {
+    "first": "Magnet Pull"
+  },
+  "Melmetal": {
+    "first": "Iron Fist"
+  },
+  "Grookey": {
+    "first": "Overgrow",
+    "hidden": "Grassy Surge"
+  },
+  "Thwackey": {
+    "first": "Overgrow",
+    "hidden": "Grassy Surge"
+  },
+  "Rillaboom": {
+    "first": "Overgrow",
+    "hidden": "Grassy Surge"
+  },
+  "Scorbunny": {
+    "first": "Blaze",
+    "hidden": "Libero"
+  },
+  "Raboot": {
+    "first": "Blaze",
+    "hidden": "Libero"
+  },
+  "Cinderace": {
+    "first": "Blaze",
+    "hidden": "Libero"
+  },
+  "Sobble": {
+    "first": "Torrent",
+    "hidden": "Sniper"
+  },
+  "Drizzile": {
+    "first": "Torrent",
+    "hidden": "Sniper"
+  },
+  "Inteleon": {
+    "first": "Torrent",
+    "hidden": "Sniper"
+  },
+  "Skwovet": {
+    "first": "Cheek Pouch",
+    "hidden": "Gluttony"
+  },
+  "Greedent": {
+    "first": "Cheek Pouch",
+    "hidden": "Gluttony"
+  },
+  "Rookidee": {
+    "first": "Keen Eye",
+    "hidden": "Big Pecks"
+  },
+  "Corvisquire": {
+    "first": "Keen Eye",
+    "hidden": "Big Pecks"
+  },
+  "Corviknight": {
+    "first": "Pressure",
+    "hidden": "Mirror Armor"
+  },
+  "Blipbug": {
+    "first": "Swarm",
+    "hidden": "Telepathy"
+  },
+  "Dottler": {
+    "first": "Swarm",
+    "hidden": "Telepathy"
+  },
+  "Orbeetle": {
+    "first": "Swarm",
+    "hidden": "Telepathy"
+  },
+  "Nickit": {
+    "first": "Run Away",
+    "hidden": "Stakeout"
+  },
+  "Thievul": {
+    "first": "Run Away",
+    "hidden": "Stakeout"
+  },
+  "Gossifleur": {
+    "first": "Cotton Down",
+    "hidden": "Effect Spore"
+  },
+  "Eldegoss": {
+    "first": "Cotton Down",
+    "hidden": "Effect Spore"
+  },
+  "Wooloo": {
+    "first": "Fluffy",
+    "hidden": "Bulletproof"
+  },
+  "Dubwool": {
+    "first": "Fluffy",
+    "hidden": "Bulletproof"
+  },
+  "Chewtle": {
+    "first": "Strong Jaw",
+    "hidden": "Swift Swim"
+  },
+  "Drednaw": {
+    "first": "Strong Jaw",
+    "hidden": "Swift Swim"
+  },
+  "Yamper": {
+    "first": "Ball Fetch",
+    "hidden": "Rattled"
+  },
+  "Boltund": {
+    "first": "Strong Jaw",
+    "hidden": "Competitive"
+  },
+  "Rolycoly": {
+    "first": "Steam Engine",
+    "hidden": "Flash Fire"
+  },
+  "Carkol": {
+    "first": "Steam Engine",
+    "hidden": "Flash Fire"
+  },
+  "Coalossal": {
+    "first": "Steam Engine",
+    "hidden": "Flash Fire"
+  },
+  "Applin": {
+    "first": "Ripen",
+    "hidden": "Bulletproof"
+  },
+  "Flapple": {
+    "first": "Ripen",
+    "hidden": "Hustle"
+  },
+  "Appletun": {
+    "first": "Ripen",
+    "hidden": "Thick Fat"
+  },
+  "Silicobra": {
+    "first": "Sand Spit",
+    "hidden": "Sand Veil"
+  },
+  "Sandaconda": {
+    "first": "Sand Spit",
+    "hidden": "Sand Veil"
+  },
+  "Cramorant": {
+    "first": "Gulp Missile"
+  },
+  "Arrokuda": {
+    "first": "Swift Swim",
+    "hidden": "Propeller Tail"
+  },
+  "Barraskewda": {
+    "first": "Swift Swim",
+    "hidden": "Propeller Tail"
+  },
+  "Toxel": {
+    "first": "Rattled",
+    "hidden": "Klutz"
+  },
+  "Toxtricity": {
+    "first": "Punk Rock",
+    "second": "Punk Rock",
+    "hidden": "Technician"
+  },
+  "Sizzlipede": {
+    "first": "Flash Fire",
+    "hidden": "Flame Body"
+  },
+  "Centiskorch": {
+    "first": "Flash Fire",
+    "hidden": "Flame Body"
+  },
+  "Clobbopus": {
+    "first": "Limber",
+    "hidden": "Technician"
+  },
+  "Grapploct": {
+    "first": "Limber",
+    "hidden": "Technician"
+  },
+  "Sinistea": {
+    "first": "Weak Armor",
+    "hidden": "Cursed Body"
+  },
+  "Polteageist": {
+    "first": "Weak Armor",
+    "hidden": "Cursed Body"
+  },
+  "Hatenna": {
+    "first": "Healer",
+    "hidden": "Magic Bounce"
+  },
+  "Hattrem": {
+    "first": "Healer",
+    "hidden": "Magic Bounce"
+  },
+  "Hatterene": {
+    "first": "Healer",
+    "hidden": "Magic Bounce"
+  },
+  "Impidimp": {
+    "first": "Prankster",
+    "hidden": "Pickpocket"
+  },
+  "Morgrem": {
+    "first": "Prankster",
+    "hidden": "Pickpocket"
+  },
+  "Grimmsnarl": {
+    "first": "Prankster",
+    "hidden": "Pickpocket"
+  },
+  "Obstagoon": {
+    "first": "Reckless",
+    "hidden": "Defiant"
+  },
+  "Perrserker": {
+    "first": "Battle Armor",
+    "hidden": "Steely Spirit"
+  },
+  "Cursola": {
+    "first": "Weak Armor",
+    "hidden": "Perish Body"
+  },
+  "Sirfetch'd": {
+    "first": "Steadfast",
+    "hidden": "Scrappy"
+  },
+  "Mr. Rime": {
+    "first": "Tangled Feet",
+    "hidden": "Ice Body"
+  },
+  "Runerigus": {
+    "first": "Wandering Spirit"
+  },
+  "Milcery": {
+    "first": "Sweet Veil",
+    "hidden": "Aroma Veil"
+  },
+  "Alcremie": {
+    "first": "Sweet Veil",
+    "hidden": "Aroma Veil"
+  },
+  "Falinks": {
+    "first": "Battle Armor",
+    "hidden": "Defiant"
+  },
+  "Pincurchin": {
+    "first": "Lightning Rod",
+    "hidden": "Electric Surge"
+  },
+  "Snom": {
+    "first": "Shield Dust",
+    "hidden": "Ice Scales"
+  },
+  "Frosmoth": {
+    "first": "Shield Dust",
+    "hidden": "Ice Scales"
+  },
+  "Stonjourner": {
+    "first": "Power Spot"
+  },
+  "Eiscue": {
+    "first": "Ice Face"
+  },
+  "Indeedee": {
+    "first": "Inner Focus",
+    "second": "Own Tempo",
+    "hidden": "Psychic Surge"
+  },
+  "Morpeko": {
+    "first": "Hunger Switch"
+  },
+  "Cufant": {
+    "first": "Sheer Force",
+    "hidden": "Heavy Metal"
+  },
+  "Copperajah": {
+    "first": "Sheer Force",
+    "hidden": "Heavy Metal"
+  },
+  "Dracozolt": {
+    "first": "Volt Absorb",
+    "hidden": "Sand Rush"
+  },
+  "Arctozolt": {
+    "first": "Volt Absorb",
+    "hidden": "Slush Rush"
+  },
+  "Dracovish": {
+    "first": "Water Absorb",
+    "hidden": "Sand Rush"
+  },
+  "Arctovish": {
+    "first": "Water Absorb",
+    "hidden": "Slush Rush"
+  },
+  "Duraludon": {
+    "first": "Light Metal",
+    "hidden": "Stalwart"
+  },
+  "Dreepy": {
+    "first": "Clear Body",
+    "hidden": "Cursed Body"
+  },
+  "Drakloak": {
+    "first": "Clear Body",
+    "hidden": "Cursed Body"
+  },
+  "Dragapult": {
+    "first": "Clear Body",
+    "hidden": "Cursed Body"
+  },
+  "Zacian": {
+    "first": "Intrepid Sword"
+  },
+  "Zamazenta": {
+    "first": "Dauntless Shield"
+  },
+  "Eternatus": {
+    "first": "Pressure"
+  },
+  "Kubfu": {
+    "first": "Inner Focus",
+    "second": "No Guard"
+  },
+  "Urshifu": {
+    "first": "Unseen Fist"
+  },
+  "Zarude": {
+    "first": "Leaf Guard"
+  },
+  "Regieleki": {
+    "first": "Transistor"
+  },
+  "Regidrago": {
+    "first": "Dragon's Maw"
+  },
+  "Glastrier": {
+    "first": "Chilling Neigh"
+  },
+  "Spectrier": {
+    "first": "Grim Neigh"
+  },
+  "Calyrex": {
+    "first": "Unnerve",
+    "second": "As One"
+  },
+  "Wyrdeer": {
+    "first": "Intimidate",
+    "hidden": "Sap Sipper"
+  },
+  "Kleavor": {
+    "first": "Swarm",
+    "hidden": "Sharpness"
+  },
+  "Ursaluna": {
+    "first": "Guts",
+    "hidden": "Unnerve"
+  },
+  "Basculegion": {
+    "first": "Swift Swim",
+    "hidden": "Mold Breaker"
+  },
+  "Sneasler": {
+    "first": "Pressure",
+    "hidden": "Poison Touch"
+  },
+  "Overqwil": {
+    "first": "Poison Point",
+    "hidden": "Intimidate"
+  },
+  "Enamorus": {
+    "first": "Cute Charm",
+    "second": "Contrary"
+  },
+  "Sprigatito": {
+    "first": "Overgrow",
+    "hidden": "Protean"
+  },
+  "Floragato": {
+    "first": "Overgrow",
+    "hidden": "Protean"
+  },
+  "Meowscarada": {
+    "first": "Overgrow",
+    "hidden": "Protean"
+  },
+  "Fuecoco": {
+    "first": "Blaze",
+    "hidden": "Unaware"
+  },
+  "Crocalor": {
+    "first": "Blaze",
+    "hidden": "Unaware"
+  },
+  "Skeledirge": {
+    "first": "Blaze",
+    "hidden": "Unaware"
+  },
+  "Quaxly": {
+    "first": "Torrent",
+    "hidden": "Moxie"
+  },
+  "Quaxwell": {
+    "first": "Torrent",
+    "hidden": "Moxie"
+  },
+  "Quaquaval": {
+    "first": "Torrent",
+    "hidden": "Moxie"
+  },
+  "Lechonk": {
+    "first": "Aroma Veil",
+    "hidden": "Thick Fat"
+  },
+  "Oinkologne": {
+    "first": "Lingering Aroma",
+    "second": "Aroma Veil",
+    "hidden": "Thick Fat"
+  },
+  "Tarountula": {
+    "first": "Insomnia",
+    "hidden": "Stakeout"
+  },
+  "Spidops": {
+    "first": "Insomnia",
+    "hidden": "Stakeout"
+  },
+  "Nymble": {
+    "first": "Swarm",
+    "hidden": "Tinted Lens"
+  },
+  "Lokix": {
+    "first": "Swarm",
+    "hidden": "Tinted Lens"
+  },
+  "Pawmi": {
+    "first": "Static",
+    "hidden": "Iron Fist"
+  },
+  "Pawmo": {
+    "first": "Volt Absorb",
+    "hidden": "Iron Fist"
+  },
+  "Pawmot": {
+    "first": "Volt Absorb",
+    "hidden": "Iron Fist"
+  },
+  "Tandemaus": {
+    "first": "Run Away",
+    "hidden": "Own Tempo"
+  },
+  "Maushold": {
+    "first": "Friend Guard",
+    "hidden": "Technician"
+  },
+  "Fidough": {
+    "first": "Own Tempo",
+    "hidden": "Klutz"
+  },
+  "Dachsbun": {
+    "first": "Well-Baked Body",
+    "hidden": "Aroma Veil"
+  },
+  "Smoliv": {
+    "first": "Early Bird",
+    "hidden": "Harvest"
+  },
+  "Dolliv": {
+    "first": "Early Bird",
+    "hidden": "Harvest"
+  },
+  "Arboliva": {
+    "first": "Seed Sower",
+    "hidden": "Harvest"
+  },
+  "Squawkabilly": {
+    "first": "Intimidate",
+    "second": "Sheer Force"
+  },
+  "Nacli": {
+    "first": "Purifying Salt",
+    "hidden": "Clear Body"
+  },
+  "Naclstack": {
+    "first": "Purifying Salt",
+    "hidden": "Clear Body"
+  },
+  "Garganacl": {
+    "first": "Purifying Salt",
+    "hidden": "Clear Body"
+  },
+  "Charcadet": {
+    "first": "Flash Fire",
+    "hidden": "Flame Body"
+  },
+  "Armarouge": {
+    "first": "Flash Fire",
+    "hidden": "Weak Armor"
+  },
+  "Ceruledge": {
+    "first": "Flash Fire",
+    "hidden": "Weak Armor"
+  },
+  "Tadbulb": {
+    "first": "Own Tempo",
+    "hidden": "Damp"
+  },
+  "Bellibolt": {
+    "first": "Electromorphosis",
+    "hidden": "Damp"
+  },
+  "Wattrel": {
+    "first": "Wind Power",
+    "hidden": "Competitive"
+  },
+  "Kilowattrel": {
+    "first": "Wind Power",
+    "hidden": "Competitive"
+  },
+  "Maschiff": {
+    "first": "Intimidate",
+    "hidden": "Stakeout"
+  },
+  "Mabosstiff": {
+    "first": "Intimidate",
+    "hidden": "Stakeout"
+  },
+  "Shroodle": {
+    "first": "Unburden",
+    "hidden": "Prankster"
+  },
+  "Grafaiai": {
+    "first": "Unburden",
+    "hidden": "Prankster"
+  },
+  "Bramblin": {
+    "first": "Wind Rider",
+    "hidden": "Infiltrator"
+  },
+  "Brambleghast": {
+    "first": "Wind Rider",
+    "hidden": "Infiltrator"
+  },
+  "Toedscool": {
+    "first": "Mycelium Might"
+  },
+  "Toedscruel": {
+    "first": "Mycelium Might"
+  },
+  "Klawf": {
+    "first": "Anger Shell",
+    "hidden": "Regenerator"
+  },
+  "Capsakid": {
+    "first": "Chlorophyll",
+    "hidden": "Klutz"
+  },
+  "Scovillain": {
+    "first": "Chlorophyll",
+    "hidden": "Moody"
+  },
+  "Rellor": {
+    "first": "Compound Eyes",
+    "hidden": "Shed Skin"
+  },
+  "Rabsca": {
+    "first": "Synchronize",
+    "hidden": "Telepathy"
+  },
+  "Flittle": {
+    "first": "Anticipation",
+    "hidden": "Speed Boost"
+  },
+  "Espathra": {
+    "first": "Opportunist",
+    "hidden": "Speed Boost"
+  },
+  "Tinkatink": {
+    "first": "Mold Breaker",
+    "hidden": "Pickpocket"
+  },
+  "Tinkatuff": {
+    "first": "Mold Breaker",
+    "hidden": "Pickpocket"
+  },
+  "Tinkaton": {
+    "first": "Mold Breaker",
+    "hidden": "Pickpocket"
+  },
+  "Wiglett": {
+    "first": "Gooey",
+    "hidden": "Sand Veil"
+  },
+  "Wugtrio": {
+    "first": "Gooey",
+    "hidden": "Sand Veil"
+  },
+  "Bombirdier": {
+    "first": "Big Pecks",
+    "hidden": "Rocky Payload"
+  },
+  "Finizen": {
+    "first": "Water Veil"
+  },
+  "Palafin": {
+    "first": "Zero to Hero"
+  },
+  "Varoom": {
+    "first": "Overcoat",
+    "hidden": "Slow Start"
+  },
+  "Revavroom": {
+    "first": "Overcoat",
+    "hidden": "Filter"
+  },
+  "Cyclizar": {
+    "first": "Shed Skin",
+    "hidden": "Regenerator"
+  },
+  "Orthworm": {
+    "first": "Earth Eater",
+    "hidden": "Sand Veil"
+  },
+  "Glimmet": {
+    "first": "Toxic Debris",
+    "hidden": "Corrosion"
+  },
+  "Glimmora": {
+    "first": "Toxic Debris",
+    "hidden": "Corrosion"
+  },
+  "Greavard": {
+    "first": "Pickup",
+    "hidden": "Fluffy"
+  },
+  "Houndstone": {
+    "first": "Sand Rush",
+    "hidden": "Fluffy"
+  },
+  "Flamigo": {
+    "first": "Scrappy",
+    "hidden": "Costar"
+  },
+  "Cetoddle": {
+    "first": "Thick Fat",
+    "hidden": "Sheer Force"
+  },
+  "Cetitan": {
+    "first": "Thick Fat",
+    "hidden": "Sheer Force"
+  },
+  "Veluza": {
+    "first": "Mold Breaker",
+    "hidden": "Sharpness"
+  },
+  "Dondozo": {
+    "first": "Unaware",
+    "hidden": "Water Veil"
+  },
+  "Tatsugiri": {
+    "first": "Commander",
+    "hidden": "Storm Drain"
+  },
+  "Annihilape": {
+    "first": "Vital Spirit",
+    "hidden": "Defiant"
+  },
+  "Clodsire": {
+    "first": "Poison Point",
+    "hidden": "Unaware"
+  },
+  "Farigiraf": {
+    "first": "Cud Chew",
+    "hidden": "Sap Sipper"
+  },
+  "Dudunsparce": {
+    "first": "Serene Grace",
+    "hidden": "Rattled"
+  },
+  "Kingambit": {
+    "first": "Defiant",
+    "hidden": "Pressure"
+  },
+  "Great Tusk": {
+    "first": "Protosynthesis"
+  },
+  "Scream Tail": {
+    "first": "Protosynthesis"
+  },
+  "Brute Bonnet": {
+    "first": "Protosynthesis"
+  },
+  "Flutter Mane": {
+    "first": "Protosynthesis"
+  },
+  "Slither Wing": {
+    "first": "Protosynthesis"
+  },
+  "Sandy Shocks": {
+    "first": "Protosynthesis"
+  },
+  "Iron Treads": {
+    "first": "Quark Drive"
+  },
+  "Iron Bundle": {
+    "first": "Quark Drive"
+  },
+  "Iron Hands": {
+    "first": "Quark Drive"
+  },
+  "Iron Jugulis": {
+    "first": "Quark Drive"
+  },
+  "Iron Moth": {
+    "first": "Quark Drive"
+  },
+  "Iron Thorns": {
+    "first": "Quark Drive"
+  },
+  "Frigibax": {
+    "first": "Thermal Exchange",
+    "hidden": "Ice Body"
+  },
+  "Arctibax": {
+    "first": "Thermal Exchange",
+    "hidden": "Ice Body"
+  },
+  "Baxcalibur": {
+    "first": "Thermal Exchange",
+    "hidden": "Ice Body"
+  },
+  "Gimmighoul": {
+    "first": "Rattled",
+    "second": "Run Away"
+  },
+  "Gholdengo": {
+    "first": "Good as Gold"
+  },
+  "Wo-Chien": {
+    "first": "Tablets of Ruin"
+  },
+  "Chien-Pao": {
+    "first": "Sword of Ruin"
+  },
+  "Ting-Lu": {
+    "first": "Vessel of Ruin"
+  },
+  "Chi-Yu": {
+    "first": "Beads of Ruin"
+  },
+  "Roaring Moon": {
+    "first": "Protosynthesis"
+  },
+  "Iron Valiant": {
+    "first": "Quark Drive"
+  },
+  "Koraidon": {
+    "first": "Orichalcum Pulse"
+  },
+  "Miraidon": {
+    "first": "Hadron Engine"
+  }
+}
